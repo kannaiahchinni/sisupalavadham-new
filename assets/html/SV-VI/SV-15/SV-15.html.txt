@@ -1,0 +1,147 @@
+row1#!number#!<a href="html/SV-VI/SV-15/15.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-15/15.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">15.A</a>#!html/SV-VI/SV-15/15.jpg#!row1#!n1#!याः
+row2#!number#!15.B</a>#!row2#!n1#!याः
+row3#!number#!15.C</a>#!row3#!n1#!यद्{स्त्री;1;बहु}/यद्{स्त्री;2;बहु}
+row4#!number#!15.D</a>#!row4#!n1#!यद्{स्त्री;1;बहु}
+row5#!number#!15.E</a>#!row5#!n1#!विशेषणम्,2
+row6#!number#!15.F</a>#!row6#!n1#!जिन
+row7#!number#!15.G</a>#!row7#!n1#!Those
+row8#!number#!15.H</a>#!row8#!n1#!
+
+row1#!n1#!कुकुर-स्त्रियः
+row2#!n1#!कुकुर-स्त्रियः
+row3#!n1#!कुकुर-स्त्री{स्त्री;1;बहु}/स्त्री{स्त्री;2;बहु}/स्त्री{स्त्री;8;बहु}
+row4#!n1#!कुकुर-स्त्री{स्त्री;1;बहु}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,10</a>
+row6#!n1#!यादवाङ्गनाओं_ने
+row7#!n1#!women
+row8#!n1#!<a href="html/SV-VI/SV-15/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-15/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><कुकुर-स्त्रियः>T6</a>#!html/SV-VI/SV-15/samaasa1.jpg
+
+
+row1#!NA#!गणशः
+row2#!NA#!गणशः
+row3#!NA#!गणशः}
+row4#!NA#!गणशः{अव्य}
+row5#!NA#!<a href="javascript:show('क्रियाविशेषणम्,')">क्रियाविशेषणम्,10</a>
+row6#!NA#!गणशः
+row7#!NA#!by class
+row8#!NA#!-
+
+row1#!NA#!अग्रतः
+row2#!NA#!अग्रतः
+row3#!NA#!अग्रतः{अव्य}
+row4#!NA#!अग्रतः{अव्य}
+row5#!NA#!<a href="javascript:show('अधिकरणम्,')">अधिकरणम्,5</a>
+row6#!NA#!आगे
+row7#!NA#!in front of
+row8#!NA#!-
+
+row1#!n2#!प्रणतम्
+row2#!n2#!प्रणतम्
+row3#!n2#!प्रणत{पुं;2;एक}
+row4#!n2#!प्र_नम्1{क्त;णमँ;भ्वादिः;पुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,7</a>
+row6#!n2#!प्रणत_हुए
+row7#!n2#!saluted
+row8#!n2#!-
+
+row1#!NA#!अपि
+row2#!NA#!अपि
+row3#!NA#!अपि{अव्य}
+row4#!NA#!अपि{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,5</a>
+row6#!NA#!भी
+row7#!NA#!even
+row8#!NA#!-
+
+row1#!n2#!प्रियम्
+row2#!n2#!प्रियम्
+row3#!n2#!प्रिय{पुं;2;एक}/प्रिय{नपुं;1;एक}/प्रिय{नपुं;2;एक}
+row4#!n2#!प्रिय{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,10</a>
+row6#!n2#!प्रिय_को
+row7#!n2#!lover
+row8#!n2#!-
+
+row1#!n3#!अभिमानि-तया
+row2#!n3#!अभिमानि-तया
+row3#!n3#!अभिमानि-तद्{स्त्री;3;एक}/तद्{स्त्री;3;एक}
+row4#!n3#!अभिमानि-तद्{स्त्री;3;एक}
+row5#!n3#!<a href="javascript:show('हेतुः,')">हेतुः,10</a>
+row6#!n3#!अभिमानी-होने_से
+row7#!n3#!due to pride
+row8#!n3#!-
+
+row1#!NA#!न
+row2#!NA#!न
+row3#!NA#!न{अव्य}/नस्{स्त्री;8;एक}
+row4#!NA#!न{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,10</a>
+row6#!NA#!नहीं
+row7#!NA#!not
+row8#!NA#!-
+
+row1#!v#!अजगणन्
+row2#!v#!अजगणन्
+row3#!v#!गण1{कर्तरि;लुङ्;प्र;बहु;परस्मैपदी;गण;चुरादिः}/गण1_णिच्{कर्तरि;लुङ्;प्र;बहु;परस्मैपदी;गण;चुरादिः}
+row4#!v#!गण1{कर्तरि;लुङ्;प्र;बहु;परस्मैपदी;गण;चुरादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!गिने
+row7#!v#!count
+row8#!v#!-
+
+row1#!n1#!ताः
+row2#!n1#!ताः
+row3#!n1#!तद्{स्त्री;1;बहु}/तद्{स्त्री;2;बहु}
+row4#!n1#!तद्{स्त्री;1;बहु}
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,14</a>
+row6#!n1#!वे
+row7#!n1#!those
+row8#!n1#!-
+
+row1#!n7#!मधौ
+row2#!n7#!मधौ
+row3#!n7#!मधु{पुं;7;एक}/मधु{स्त्री;7;एक}
+row4#!n7#!मधु{पुं;7;एक}
+row5#!n7#!<a href="javascript:show('कर्ता,')">कर्ता,13</a>
+row6#!n7#!वसन्त_ॠतु_के
+row7#!n7#!Spring season
+row8#!n7#!-
+
+row1#!n7#!सति
+row2#!n7#!सति
+row3#!n7#!सती{स्त्री;8;एक}/सत्{पुं;7;एक}/सत्{स्त्री;7;एक}/सत्{नपुं;7;एक}
+row4#!n7#!अस्2{शतृ_लट्;असँ;अदादिः;पुं;7;एक}
+row5#!n7#!<a href="javascript:show('भावलक्षणसप्तमी,')">भावलक्षणसप्तमी,16</a>
+row6#!n7#!आने_पर
+row7#!n7#!having arrived
+row8#!n7#!-
+
+row1#!n1#!मदन-व्यथा-विधुरिताः
+row2#!n1#!मदन-व्यथा-विधुरिताः
+row3#!n1#!मदन-व्यथा-विधुरिताः}
+row4#!n1#!मदन-व्यथा-विधुरिताः{स्त्री;1;बहु}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,16</a>
+row6#!n1#!कामज्वर से पीड़ित होकर
+row7#!n1#!Being suffered by fever of love
+row8#!n1#!<a href="html/SV-VI/SV-15/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-15/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<मदन-व्यथा>T6-विधुरिताः>T3</a>#!html/SV-VI/SV-15/samaasa2.jpg
+
+
+row1#!n7#!धुरि
+row2#!n7#!धुरि
+row3#!n7#!धुर्{स्त्री;7;एक}
+row4#!n7#!धुर्{स्त्री;7;एक}
+row5#!n7#!<a href="javascript:show('अधिकरणम्,')">अधिकरणम्,16</a>
+row6#!n7#!आगे
+row7#!n7#!ahead
+row8#!n7#!-
+
+row1#!v#!अभवन्
+row2#!v#!अभवन्
+row3#!v#!भू1{कर्तरि;लङ्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}
+row4#!v#!भू1{कर्तरि;लङ्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!हुईं.
+row7#!v#!went.
+row8#!v#!-
+
+

@@ -1,0 +1,95 @@
+row1#!number#!<a href="html/SV-VIII/SV-56/56.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-56/56.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">56.A</a>#!html/SV-VIII/SV-56/56.jpg#!row1#!n1#!धौतपत्र-लेखम्
+row2#!number#!56.B</a>#!row2#!n1#!धौतपत्र-लेखम्
+row3#!number#!56.C</a>#!row3#!n1#!धौतपत्र-लेख{पुं;2;एक}
+row4#!number#!56.D</a>#!row4#!n1#!धौतपत्र-लेख{नपुं;1;एक}
+row5#!number#!56.E</a>#!row5#!n1#!विशेषणम्,3
+row6#!number#!56.F</a>#!row6#!n1#!प्रक्षालित (धुली) हुई पत्रलेखा वाले
+row7#!number#!56.G</a>#!row7#!n1#!with washed off scented cosmetics
+row8#!number#!56.H</a>#!row8#!n1#!<धौतपत्र-लेखम्>Bs7
+
+row1#!n6#!कस्याश्चित्
+row2#!n6#!कस्याश्चित्
+row3#!n6#!किञ्चित्{स्त्री;5;एक}/किञ्चित्{स्त्री;6;एक}
+row4#!n6#!किञ्चित्{स्त्री;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,3</a>
+row6#!n6#!किसी सुन्दरी के
+row7#!n6#!of some beautiful woman
+row8#!n6#!-
+
+row1#!n1#!मुखम्
+row2#!n1#!मुखम्
+row3#!n1#!मुख{पुं;2;एक}/मुख{नपुं;1;एक}/मुख{नपुं;2;एक}
+row4#!n1#!मुख{नपुं;1;एक}
+row5#!n1#!<a href="javascript:show('उपपदसम्बन्धः,')">उपपदसम्बन्धः,4</a>
+row6#!n1#!मुख
+row7#!n1#!face
+row8#!n1#!-
+
+row1#!NA#!अनु
+row2#!NA#!अनु
+row3#!NA#!अनु{अव्य}
+row4#!NA#!अनु{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,10</a>
+row6#!NA#!पर
+row7#!NA#!on
+row8#!NA#!-
+
+row1#!n3#!सलिलभरावलम्बिनीभिः
+row2#!n3#!सलिलभरावलम्बिनीभिः
+row3#!n3#!सलिलभरावलम्बिनीभिः}
+row4#!n3#!सलिलभरावलम्बिनी{स्त्री;3;बहु}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,7</a>
+row6#!n3#!जलप्रवाह के वेग से लम्बे
+row7#!n3#!long due to forceful water streams
+row8#!n3#!<a href="html/SV-VIII/SV-56/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-56/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<सलिल-भरः>T6-अवलम्बिनी>T3</a>#!html/SV-VIII/SV-56/samaasa1.jpg
+
+
+row1#!n3#!किञ्जल्कव्यतिकरपिञ्जर-अन्तराभिः
+row2#!n3#!किञ्जल्कव्यतिकरपिञ्जर-अन्तराभिः
+row3#!n3#!किञ्जल्कव्यतिकरपिञ्जर-अन्तरा{स्त्री;3;बहु}/अन्तरा{स्त्री;3;बहु}
+row4#!n3#!किञ्जल्कव्यतिकरपिञ्जर-अन्तरा{स्त्री;3;बहु}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,7</a>
+row6#!n3#!मध्य में कमलकेसर के चिपक जाने से पीतवर्ण की
+row7#!n3#!in between with fillaments of lotus in hair locks
+row8#!n3#!<a href="html/SV-VIII/SV-56/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-56/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<किञ्जल्क-व्यतिकरः>T6-पिञ्जरम्>T3-अन्तराः>Bs6</a>#!html/SV-VIII/SV-56/samaasa2.jpg
+
+
+row1#!n3#!अलकाग्र-वल्लरीभिः
+row2#!n3#!अलकाग्र-वल्लरीभिः
+row3#!n3#!अलकाग्र-वल्लरी{स्त्री;3;बहु}
+row4#!n3#!अलकाग्र-वल्लरी{स्त्री;3;बहु}
+row5#!n3#!<a href="javascript:show('कर्ता,')">कर्ता,10</a>
+row6#!n3#!मकर-पत्रादि के पत्र से
+row7#!n3#!with leaves of makara creeper
+row8#!n3#!<a href="html/SV-VIII/SV-56/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-56/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<अलक-अग्राणि>T6-वल्लर्यः>K5</a>#!html/SV-VIII/SV-56/samaasa3.jpg
+
+
+row1#!n1#!चित्र-श्रीः
+row2#!n1#!चित्र-श्रीः
+row3#!n1#!चित्र-श्री{स्त्री;1;एक}/श्री{स्त्री;8;एक}
+row4#!n1#!चित्र-श्री{स्त्री;1;एक}
+row5#!n1#!<a href="javascript:show('कर्म,')">कर्म,10</a>
+row6#!n1#!शोभा
+row7#!n1#!splendor
+row8#!n1#!<a href="html/SV-VIII/SV-56/samaasa4.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-56/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><चित्र-श्रीः>T6</a>#!html/SV-VIII/SV-56/samaasa4.jpg
+
+
+row1#!NA#!अलं
+row2#!NA#!अलं
+row3#!NA#!अलम्{अव्य}
+row4#!NA#!अलम्{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया-विशेषणम्,')">क्रिया-विशेषणम्,10</a>
+row6#!NA#!पर्याप्त
+row7#!NA#!enough
+row8#!NA#!-
+
+row1#!v#!व्यातेने
+row2#!v#!व्यातेने
+row3#!v#!व्यातेने}
+row4#!v#!वि_आङ्_तन्1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;तनुँ;तनादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!प्राप्त_किया.
+row7#!v#!obtained.
+row8#!v#!-
+
+

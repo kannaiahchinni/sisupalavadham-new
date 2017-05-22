@@ -1,0 +1,186 @@
+row1#!number#!<a href="html/SV-V/SV-4/4.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-4/4.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">4.A</a>#!html/SV-V/SV-4/4.jpg#!row1#!n1#!आवर्तिनः
+row2#!number#!4.B</a>#!row2#!n1#!आवर्तिनः 
+row3#!number#!4.C</a>#!row3#!n1#!आवर्तिन्{पुं}{1;बहु}/आवर्तिन्{पुं}{2;बहु}/आवर्तिन्{पुं}{5;एक}/आवर्तिन्{पुं}{6;एक}/आवर्तिन्{पुं}{8;बहु}/आवर्तिन्{नपुं}{5;एक}/आवर्तिन्{नपुं}{6;एक} 
+row4#!number#!4.D</a>#!row4#!n1#!आवर्तिन्{पुं}{1;बहु} 
+row5#!number#!4.E</a>#!row5#!n1#!विशेषणम्,4
+row6#!number#!4.F</a>#!row6#!n1#!छाती आदि दश स्थानों_में_आवर्त_से_स्थित
+row7#!number#!4.G</a>#!row7#!n1#!That turn around
+row8#!number#!4.H</a>#!row8#!n1#!
+
+row1#!n1#!शुभफल-प्रदशुक्ति-युक्ताः
+row2#!n1#!शुभफल-प्रदशुक्ति-युक्ताः 
+row3#!n1#!शुभफल-प्रदशुक्ति-युक्त{पुं}{1;बहु}/युक्ता{स्त्री}{1;बहु}/युक्ता{स्त्री}{2;बहु} 
+row4#!n1#!शुभफल-प्रदशुक्ति-युक्त{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,4</a>
+row6#!n1#!शुभलक्षणरूप_से
+row7#!n1#!that bestwo good result
+row8#!n1#!<a href="html/SV-V/SV-4/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-4/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<<शुभ-फलानि>K1-प्रद>U-शुक्तयः>K1-युक्ताः>T3</a>#!html/SV-V/SV-4/samaasa1.jpg
+
+
+row1#!n1#!सम्पन्न-देवमणयः
+row2#!n1#!सम्पन्न-देवमणयः 
+row3#!n1#!सम्पन्न-देवमणि{पुं}{1;बहु} 
+row4#!n1#!सम्पन्न-देवमणि{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,4</a>
+row6#!n1#!'गर्दन_में_स्थित ''देवमणि'' संज्ञक'
+row7#!n1#!'divine gems like ''Kaustabh'' etc.,'
+row8#!n1#!<a href="html/SV-V/SV-4/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-4/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><सम्पन्न-देवमणयः>Bs6</a>#!html/SV-V/SV-4/samaasa2.jpg
+
+
+row1#!n1#!भृत-रन्ध्र-भागाः
+row2#!n1#!भृत-रन्ध्र-भागाः 
+row3#!n1#!भृत-रन्ध्र-भाग{पुं}{1;बहु} 
+row4#!n1#!भृत-रन्ध्र-भाग{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,5</a>
+row6#!n1#!भरे_हुए_मांसल_पार्श्व_भागवाले
+row7#!n1#!their throats turning around
+row8#!n1#!<a href="html/SV-V/SV-4/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-4/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><भृत-रन्ध्रभागाः>Bs6</a>#!html/SV-V/SV-4/samaasa3.jpg
+
+
+row1#!n1#!अति-रोचमानाः
+row2#!n1#!अति-रोचमानाः 
+row3#!n1#!अति-रोचमान{पुं}{1;बहु}/रोचमाना{स्त्री}{1;बहु}/रोचमाना{स्त्री}{2;बहु}
+row4#!n1#!अति_रुच्1{कृत्_प्रत्ययः:शानच्;रुचँ;भ्वादिः;पुं}{1;बहु}
+row5#!n1#!<a href="javascript:show('समानकालः,')">समानकालः,13</a>
+row6#!n1#!अत्यन्त शोभते_हुए
+row7#!n1#!very much splendrous
+row8#!n1#!<a href="html/SV-V/SV-4/samaasa4.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-4/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><अति-रोचमानाः>Bs6</a>#!html/SV-V/SV-4/samaasa4.jpg
+
+
+row1#!n3#!ऊर्मिभिः
+row2#!n3#!ऊर्मिभिः 
+row3#!n3#!ऊर्मि{पुं}{3;बहु}/ऊर्मि{स्त्री}{3;बहु}/ऊर्मिन्{पुं}{3;बहु}/ऊर्मिन्{नपुं}{3;बहु} 
+row4#!n3#!ऊर्मि{पुं}{3;बहु} 
+row5#!n3#!<a href="javascript:show('करणम्,')">करणम्,7</a>
+row6#!n3#!तीव्र वेग_से
+row7#!n3#!speedily
+row8#!n3#!-
+
+row1#!n1#!आ_पतन्तः
+row2#!n1#!आ_पतन्तः
+row3#!n1#!आ_पतत्{पुं}{1;बहु}
+row4#!n1#!आङ्_पत्1{कृत्_प्रत्ययः:शतृ;पतॢँ;भ्वादिः;पुं}{1;बहु}
+row5#!n1#!<a href="javascript:show('समानकालः,')">समानकालः,13</a>
+row6#!n1#!आते_हुए 
+row7#!n1#!while falling down (coming)
+row8#!n1#!-
+
+row1#!n1#!अश्वाः
+row2#!n1#!अश्वाः 
+row3#!n1#!अश्व{पुं}{1;बहु} 
+row4#!n1#!अश्व{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,13</a>
+row6#!n1#!घोड़ों_ने
+row7#!n1#!horses
+row8#!n1#!-
+
+row1#!n1#!पयोधयः
+row2#!n1#!पयोधयः 
+row3#!n1#!पयोधि{पुं}{1;बहु} 
+row4#!n1#!पयोधि{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('प्रतियोगी, ')">प्रतियोगी,10 </a>
+row6#!n1#!समुद्र
+row7#!n1#!an ocean
+row8#!n1#!<a href="html/SV-V/SV-4/samaasa5.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-4/samaasa5.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><पयो-धिः>U</a>#!html/SV-V/SV-4/samaasa5.jpg
+
+
+row1#!NA#!इव
+row2#!NA#!इव 
+row3#!NA#!इव{अव्य} 
+row4#!NA#!इव{अव्य} 
+row5#!NA#!<a href="javascript:show('अनुयोगी,')">अनुयोगी,8</a>
+row6#!NA#!के_समान
+row7#!NA#!like
+row8#!NA#!-
+
+row1#!NA#!तूर्णं
+row2#!NA#!तूर्णं 
+row3#!NA#!तूर्ण{पुं}{2;एक}/तूर्ण{नपुं}{1;एक}/तूर्ण{नपुं}{2;एक} 
+row4#!NA#!तूर्ण{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया_विशेषणम्,')">क्रिया_विशेषणम्,13</a>
+row6#!NA#!तीव्र वेग_से
+row7#!NA#!speedily
+row8#!NA#!-
+
+row1#!n2#!वसुमतीं
+row2#!n2#!वसुमतीं 
+row3#!n2#!वसुमती{स्त्री}{2;एक} 
+row4#!n2#!वसुमती{स्त्री}{2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,13</a>
+row6#!n2#!पृथ्वी_को 
+row7#!n2#!the earth
+row8#!n2#!-
+
+row1#!v#!प्य-धुः.
+row2#!v#!प्यधुः 
+row3#!v#!प्य-धु{स्त्री}{1;एक}. 
+row4#!v#!अपि_धा1{कर्तरि;लुङ्;प्र;बहु;परस्मैपदी;डुधाञ्;जुहोत्यादिः}.
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!आच्छादित_किया.
+row7#!v#!covered.
+row8#!v#!-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

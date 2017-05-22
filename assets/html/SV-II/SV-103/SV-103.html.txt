@@ -1,0 +1,84 @@
+row1#!number#!<a href="html/SV-II/SV-103/103.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-103/103.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">103.A</a>#!html/SV-II/SV-103/103.jpg#!row1#!n1#!बान्धवः
+row2#!number#!103.B</a>#!row2#!n1#!बान्धवः 
+row3#!number#!103.C</a>#!row3#!n1#!बान्धव{पुं}{1;एक} 
+row4#!number#!103.D</a>#!row4#!n1#!बान्धव{पुं}{1;एक} 
+row5#!number#!103.E</a>#!row5#!n1#!विशेषणम्,3
+row6#!number#!103.F</a>#!row6#!n1#!बान्धव 
+row7#!number#!103.G</a>#!row7#!n1#!Kinsman
+row8#!number#!103.H</a>#!row8#!n1#!
+
+row1#!n1#!सः
+row2#!n1#!सः 
+row3#!n1#!तद्{पुं}{1;एक} 
+row4#!n1#!तद्{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,3</a>
+row6#!n1#!वह 
+row7#!n1#!he
+row8#!n1#!-
+
+row1#!n1#!धर्मराजः
+row2#!n1#!धर्मराजः 
+row3#!n1#!धर्मराज्{पुं}{1;बहु}/धर्मराज्{पुं}{2;बहु}/धर्मराज्{पुं}{5;एक}/धर्मराज्{पुं}{6;एक}/धर्मराज{पुं}{1;एक} 
+row4#!n1#!धर्मराज{पुं}{1;बहु}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,9</a>
+row6#!n1#!धर्मराज 
+row7#!n1#!Yudhishtira
+row8#!n1#!-
+
+row1#!n2#!अति-भर-क्षम-स्कन्धम्
+row2#!n2#!अतिभरक्षमस्कन्धं 
+row3#!n2#!अति-भर-क्षम-स्कन्ध{पुं}{2;एक} 
+row4#!n2#!अति-भर-क्षम-स्कन्ध{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,6</a>
+row6#!n2#!महान् भार_के_वहन_करने_में_अत्यन्त_समर्थ_कन्धेवाले
+row7#!n2#!with shoulders capable of bearing a great burden
+row8#!n2#!<a href="html/SV-II/SV-103/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-103/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<अतिभर-क्षमः>T6-स्कन्धः>Bs6</a>#!html/SV-II/SV-103/samaasa1.jpg
+
+
+row1#!n2#!त्वां
+row2#!n2#!त्वां 
+row3#!n2#!युष्मद्{2;एक} 
+row4#!n2#!युष्मद्{2;एक} 
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,6</a>
+row6#!n2#!तुम_को
+row7#!n2#!you
+row8#!n2#!-
+
+row1#!n2#!सहायं
+row2#!n2#!सहायं 
+row3#!n2#!सहाय{पुं}{2;एक} 
+row4#!n2#!सहाय{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,7</a>
+row6#!n2#!सहायक
+row7#!n2#!one who helps
+row8#!n2#!-
+
+row1#!NA#!सम्भाव्य
+row2#!NA#!सम्भाव्य 
+row3#!NA#!सम्भाव्य{पुं}{8;एक} 
+row4#!NA#!सम्_भू1_णिच्{कृत्_प्रत्ययः:ल्यप्;भू;भ्वादिः}
+row5#!NA#!<a href="javascript:show('पूर्वकालः,')">पूर्वकालः,9</a>
+row6#!NA#!समझकर
+row7#!NA#!having counted
+row8#!NA#!-
+
+row1#!n2#!अध्वर-धुराम्
+row2#!n2#!अध्वरधुरां 
+row3#!n2#!अध्वर-धुर्{स्त्री}{6;बहु}/धुरा{स्त्री}{2;एक} 
+row4#!n2#!अध्वर-धुरा{स्त्री}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,9</a>
+row6#!n2#!यज्ञ_के_भार_को
+row7#!n2#!responsibility of the sacrifice
+row8#!n2#!<a href="html/SV-II/SV-103/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-103/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<अध्व-रः>U-धूः>T6</a>#!html/SV-II/SV-103/samaasa2.jpg
+
+
+row1#!v#!विवक्षते.
+row2#!v#!विवक्षते 
+row3#!v#!विवक्षते. 
+row4#!v#!वह्1{कर्तरि;सन्;लट्;प्र;एक;आत्मनेपदी;वहँ;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!वहन_करते_हैं.
+row7#!v#!bear.
+row8#!v#!-
+
+

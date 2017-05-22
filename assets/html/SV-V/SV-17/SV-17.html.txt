@@ -1,0 +1,104 @@
+row1#!number#!<a href="html/SV-V/SV-17/17.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-17/17.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">17.A</a>#!html/SV-V/SV-17/17.jpg#!row1#!n3#!परि-जनैः
+row2#!number#!17.B</a>#!row2#!n3#!परि-जनैः 
+row3#!number#!17.C</a>#!row3#!n3#!परि-{अव्य}-जन{पुं}{3;बहु} 
+row4#!number#!17.D</a>#!row4#!n3#!परि--जन{पुं}{3;बहु} 
+row5#!number#!17.E</a>#!row5#!n3#!करणम्,10 
+row6#!number#!17.F</a>#!row6#!n3#!सेवकों_द्वारा
+row7#!number#!17.G</a>#!row7#!n3#!By the servants
+row8#!number#!17.H</a>#!row8#!n3#!
+
+row1#!n5#!यानात्
+row2#!n5#!यानात् 
+row3#!n5#!यान{नपुं}{5;एक} 
+row4#!n5#!यान{नपुं}{5;एक} 
+row5#!n5#!<a href="javascript:show('अपादानम्,')">अपादानम्,3</a>
+row6#!n5#!सवारियों_से
+row7#!n5#!from the vehicle
+row8#!n5#!-
+
+row1#!n2#!अव-रोप्यमाणाः
+row2#!n2#!अव-रोप्यमाणाः 
+row3#!n2#!अव-रोप्यमाणाः 
+row4#!n2#!अव_रुह्1{कृत्_प्रत्ययः:शानच्;रुहँ;भ्वादिः;स्त्री}{2;बहु}
+row5#!n2#!<a href="javascript:show('समानकालः,')">समानकालः,10</a>
+row6#!n2#!उतारी_जाती_हुई
+row7#!n2#!being descended
+row8#!n2#!-
+
+row1#!n2#!नर-अपनयन-आकुल-सौविदल्लाः
+row2#!n2#!नर-अपनयन-आकुल-सौविदल्लाः 
+row3#!n2#!नर-अपनयन-आकुल-सौविदल्ल{पुं}{1;बहु}
+row4#!n2#!नर-अपनयन-आकुल-सौविदल्ल{स्त्री}{2;बहु} 
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,7</a>
+row6#!n2#!पुरुषों_को_हटाने_में_व्यग्र_कञ्चुकियों_वाली
+row7#!n2#!who were busy in making men getting down
+row8#!n2#!<a href="html/SV-V/SV-17/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-17/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<नर-अपनयन>T6-आकुलसौविदल्लाः>Bs6</a>#!html/SV-V/SV-17/samaasa1.jpg
+
+
+row1#!n2#!स्रस्त-अवगुण्ठन-पटाः
+row2#!n2#!स्रस्त-अवगुण्ठन-पटाः 
+row3#!n2#!स्रस्त-अवगुण्ठन-पट{पुं}{1;बहु} 
+row4#!n2#!स्रस्त-अवगुण्ठन-पट{स्त्री}{2;बहु} 
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,7</a>
+row6#!n2#!खिसकते_हुए_घूँघटों_के_वस्त्रों_वाली
+row7#!n2#!one whose veils were shifted from their faces
+row8#!n2#!<a href="html/SV-V/SV-17/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-17/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><स्रस्त-<अवगुण्ठन-पटाः>T6>Bs6</a>#!html/SV-V/SV-17/samaasa2.jpg
+
+
+row1#!n2#!क्षण-लक्ष्यमाण-वक्त्र-श्रियः
+row2#!n2#!क्षण-लक्ष्यमाण-वक्त्र-श्रियः 
+row3#!n2#!क्षण-लक्ष्यमाण-वक्त्र-श्री{स्त्री}{1;बहु}/श्री{स्त्री}{5;एक}/श्री{स्त्री}{6;एक}/श्री{स्त्री}{2;बहु} 
+row4#!n2#!क्षण-लक्ष्यमाण-वक्त्र-श्री{स्त्री}{2;बहु} 
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,7</a>
+row6#!n2#!क्षणमात्र_देखी_गई_है_मुख_शोभा_जिनकी_उन
+row7#!n2#!for a moment whose beauty was seen
+row8#!n2#!<a href="html/SV-V/SV-17/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-17/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><क्षणलक्ष्यमाण-<वक्त्र-श्रीः>T6>Bs6</a>#!html/SV-V/SV-17/samaasa3.jpg
+
+
+row1#!n2#!राज्ञीः
+row2#!n2#!राज्ञीः 
+row3#!n2#!राज्ञी{स्त्री}{2;बहु} 
+row4#!n2#!राज्ञी{स्त्री}{2;बहु} 
+row5#!n2#!<a href="javascript:show('कर्म, ')">कर्म,10 </a>
+row6#!n2#!रानियों_को
+row7#!n2#!queens
+row8#!n2#!-
+
+row1#!n1#!जनः
+row2#!n1#!जनः 
+row3#!n1#!जन{पुं}{1;एक} 
+row4#!n1#!जन{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('कर्ता, ')">कर्ता,10 </a>
+row6#!n1#!लोगों_ने
+row7#!n1#!people
+row8#!n1#!-
+
+row1#!NA#!सभय-कौतुकम्
+row2#!NA#!सभय-कौतुकम् 
+row3#!NA#!सभय-कौतुक{नपुं}{1;एक}/कौतुक{नपुं}{2;एक} 
+row4#!NA#!सभय-कौतुक{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया-विशेषणम्,')">क्रिया-विशेषणम्,10</a>
+row6#!NA#!भय_तथा_कौतुक_के_साथ
+row7#!NA#!were fearful and curious
+row8#!NA#!<a href="html/SV-V/SV-17/samaasa4.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-17/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><सभय-कौतुके>Di</a>#!html/SV-V/SV-17/samaasa4.jpg
+
+
+row1#!v#!ईक्षते
+row2#!v#!ईक्षते 
+row3#!v#!ईक्ष्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;ईक्षँ;भ्वादिः}/ईक्षता{स्त्री}{1;द्वि}/ईक्षता{स्त्री}{2;द्वि} 
+row4#!v#!ईक्ष्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;ईक्षँ;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!देखते
+row7#!v#!see
+row8#!v#!-
+
+row1#!NA#!स्म.
+row2#!NA#!स्म 
+row3#!NA#!स्म{अव्य}. 
+row4#!NA#!स्म{अव्य}.
+row5#!NA#!<a href="javascript:show('सम्बन्धः, ')">सम्बन्धः,10. </a>
+row6#!NA#!थे.
+row7#!NA#!used to.
+row8#!NA#!-
+
+

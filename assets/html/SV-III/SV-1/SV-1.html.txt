@@ -1,0 +1,120 @@
+row1#!number#!<a href="html/SV-III/SV-1/1.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-1/1.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">1.A</a>#!html/SV-III/SV-1/1.jpg#!row1#!NA#!अथ
+row2#!number#!1.B</a>#!row2#!NA#!अथ 
+row3#!number#!1.C</a>#!row3#!NA#!अथ{अव्य}/अथ{अव्य} 
+row4#!number#!1.D</a>#!row4#!NA#!अथ{अव्य} 
+row5#!number#!1.E</a>#!row5#!NA#!सम्बन्धः,13
+row6#!number#!1.F</a>#!row6#!NA#!इसके_बाद
+row7#!number#!1.G</a>#!row7#!NA#!Then
+row8#!number#!1.H</a>#!row8#!NA#!
+
+row1#!n1#!अपेत-युद्ध-अभिनिवेश-सौम्यः
+row2#!n1#!अपेतयुद्धाभिनिवेशसौम्यः 
+row3#!n1#!अपेत-युद्ध-अभिनिवेश-सौमी{स्त्री}{1;बहु}/सौम्य{पुं}{1;एक} 
+row4#!n1#!अपेत-युद्ध-अभिनिवेश-सौम्य{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,11 </a>
+row6#!n1#!युद्ध_के_आग्रह_के_दूर_हो_जाने_से_सुप्रसन्न
+row7#!n1#!resolution of fighting and hence soothed
+row8#!n1#!<a href="html/SV-III/SV-1/samaasa1.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-1/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<अपेत-<युद्ध-अभिनिवेशः>T6>Bs6-सौम्यः>K3</a>#!html/SV-III/SV-1/samaasa1.jpg
+
+
+row1#!n2#!कौबेर-दिग्भागम्
+row2#!n2#!कौबेरदिग्भागम् 
+row3#!n2#!कौबेर-दिग्भाग{पुं}{2;एक}/दिग्भाग{नपुं}{1;एक}/दिग्भाग{नपुं}{2;एक} 
+row4#!n2#!कौबेर-दिग्भाग{पुं}{2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,4</a>
+row6#!n2#!कुबेर_के_दिग्भाग_को
+row7#!n2#!the northern quarter presided by Kubera
+row8#!n2#!<a href="html/SV-III/SV-1/samaasa2.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-1/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<कौबेर-दिक्>K3-भागः>T6</a>#!html/SV-III/SV-1/samaasa2.jpg
+
+
+row1#!NA#!अपास्य
+row2#!NA#!अपास्य 
+row3#!NA#!अप_अस्1{कृत्_प्रत्ययः:ल्यप्;असँ;भ्वादिः}/अप_अस्3{कृत्_प्रत्ययः:ल्यप्;असुँ;दिवादिः}/अप_अस्2{कृत्_प्रत्ययः:ल्यप्;असँ;अदादिः}/अप_आस्1{कृत्_प्रत्ययः:ल्यप्;आसँ;अदादिः}/अप_अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः} 
+row4#!NA#!अप_आस्1{कृत्_प्रत्ययः:ल्यप्;आसँ;अदादिः}
+row5#!NA#!<a href="javascript:show('पूर्वकालः,')">पूर्वकालः,13</a>
+row6#!NA#!छोड़_कर
+row7#!NA#!having given away
+row8#!NA#!-
+
+row1#!n2#!आगस्त्यं
+row2#!n2#!आगस्त्यं 
+row3#!n2#!आगस्त्य{पुं}{2;एक}/आगस्त्य{नपुं}{1;एक}/आगस्त्य{नपुं}{2;एक} 
+row4#!n2#!आगस्त्य{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,6 </a>
+row6#!n2#!अगस्त्य_के
+row7#!n2#! Agasti the winter solstice
+row8#!n2#!-
+
+row1#!n2#!मार्गम्
+row2#!n2#!मार्गम् 
+row3#!n2#!मार्ग{पुं}{2;एक} 
+row4#!n2#!मार्ग{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,7</a>
+row6#!n2#!मार्ग_को 
+row7#!n2#!the path of
+row8#!n2#!-
+
+row1#!n1#!अवतीर्णः
+row2#!n1#!अवतीर्णः 
+row3#!n1#!अवतीर्ण{पुं}{1;एक} 
+row4#!n1#!अव_तॄ1{कृत्_प्रत्ययः:क्त;तॄ;भ्वादिः;पुं}{1;एक}
+row5#!n1#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,8 </a>
+row6#!n1#!नीचे_आया_हुवा 
+row7#!n1#!having declined
+row8#!n1#!-
+
+row1#!n1#!उष्णांशुः
+row2#!n1#!उष्णांशुः 
+row3#!n1#!उष्णांशु{पुं}{1;एक} 
+row4#!n1#!उष्णांशु{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('प्रतियोगी, ')">प्रतियोगी,9 </a>
+row6#!n1#!सूर्य_के
+row7#!n1#!the Sun
+row8#!n1#!-
+
+row1#!NA#!इव
+row2#!NA#!इव 
+row3#!NA#!इव{अव्य} 
+row4#!NA#!इव{अव्य} 
+row5#!NA#!<a href="javascript:show('अनुयोगी,')">अनुयोगी,11</a>
+row6#!NA#!जैसे 
+row7#!NA#!like
+row8#!NA#!-
+
+row1#!n1#!स्थितः
+row2#!n1#!स्थितः 
+row3#!n1#!स्थित{पुं}{1;एक} 
+row4#!n1#!स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{1;एक}
+row5#!n1#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,11 </a>
+row6#!n1#!स्थित 
+row7#!n1#!having stood
+row8#!n1#!-
+
+row1#!n1#!हरिः
+row2#!n1#!हरिः 
+row3#!n1#!हरि{पुं}{1;एक} 
+row4#!n1#!हरि{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,12</a>
+row6#!n1#!हरि 
+row7#!n1#!Śrī kŗṣṇa
+row8#!n1#!-
+
+row1#!n2#!हरि-प्रस्थम्
+row2#!n2#!हरिप्रस्थं 
+row3#!n2#!हरि-प्रस्थ{पुं}{2;एक}/प्रस्थ{नपुं}{1;एक}/प्रस्थ{नपुं}{2;एक} 
+row4#!n2#!हरि-प्रस्थ{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,13</a>
+row6#!n2#!इन्द्रप्रस्थ_को
+row7#!n2#!towards Indraprastha
+row8#!n2#!-
+
+row1#!v#!प्रतस्थे.
+row2#!v#!प्रतस्थे 
+row3#!v#!प्र_स्था1{कर्मणि;लिट्;उ;एक;आत्मनेपदी;ष्ठा;भ्वादिः}/प्र_स्था1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;ष्ठा;भ्वादिः}. 
+row4#!v#!प्र_स्था1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;ष्ठा;भ्वादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!चले.
+row7#!v#!started.
+row8#!v#!-
+
+

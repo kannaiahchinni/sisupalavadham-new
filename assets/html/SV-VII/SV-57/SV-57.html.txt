@@ -1,0 +1,149 @@
+row1#!number#!<a href="html/SV-VII/SV-57/57.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-57/57.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">57.A</a>#!html/SV-VII/SV-57/57.jpg#!row1#!n7#!प्रणयिनि
+row2#!number#!57.B</a>#!row2#!n7#!प्रणयिनि
+row3#!number#!57.C</a>#!row3#!n7#!प्रणयिनी{स्त्री;8;एक}/प्रणयिन्{पुं;7;एक}
+row4#!number#!57.D</a>#!row4#!n7#!प्रणयिन्{पुं;7;एक}
+row5#!number#!57.E</a>#!row5#!n7#!कर्ता,7
+row6#!number#!57.F</a>#!row6#!n7#!प्रिय_में
+row7#!number#!57.G</a>#!row7#!n7#!When the beloved
+row8#!number#!57.H</a>#!row8#!n7#!
+
+row1#!n6#!सुदृशः
+row2#!n6#!सुदृशः
+row3#!n6#!सुदृश्{पुं;1;बहु}/सुदृश्{पुं;2;बहु}/सुदृश्{पुं;5;एक}/सुदृश्{पुं;6;एक}
+row4#!n6#!सुदृश्{स्त्री;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,3</a>
+row6#!n6#!सुनयना_की
+row7#!n6#!of a lady who possessed beautiful eyes
+row8#!n6#!<a href="html/SV-VII/SV-57/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-57/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><सु-दृक्>Bs6</a>#!html/SV-VII/SV-57/samaasa1.jpg
+
+
+row1#!n5#!दृशः
+row2#!n5#!दृशः
+row3#!n5#!दृश्{स्त्री;1;बहु}/दृश्{स्त्री;2;बहु}/दृश्{स्त्री;5;एक}/दृश्{स्त्री;6;एक}/दृश्{स्त्री;8;बहु}
+row4#!n5#!दृश्{स्त्री;5;एक}
+row5#!n5#!<a href="javascript:show('अपादानम्,')">अपादानम्,7</a>
+row6#!n5#!आँख_से
+row7#!n5#!from eye
+row8#!n5#!-
+
+row1#!n2#!कौसुमं
+row2#!n2#!कौसुमं
+row3#!n2#!कौसुमम्}
+row4#!n2#!कौसुमम्{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,5</a>
+row6#!n2#!पुष्पों_की
+row7#!n2#!of flowers
+row8#!n2#!-
+
+row1#!n2#!परागम्
+row2#!n2#!परागम्
+row3#!n2#!पराग{पुं;2;एक}
+row4#!n2#!पराग{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,7</a>
+row6#!n2#!पराग_से
+row7#!n2#!Pollen-dust
+row8#!n2#!-
+
+row1#!n3#!आनन-अनिलेन
+row2#!n3#!आनन-अनिलेन
+row3#!n3#!आनन-अनिल{पुं;3;एक}
+row4#!n3#!आनन-अनिल{पुं;3;एक}
+row5#!n3#!<a href="javascript:show('करणम्,')">करणम्,7</a>
+row6#!n3#!मुखानिल (फू़ँक)_से
+row7#!n3#!while puffing
+row8#!n3#!<a href="html/SV-VII/SV-57/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-57/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><आनन-अनिलः>T6</a>#!html/SV-VII/SV-57/samaasa2.jpg
+
+
+row1#!n7#!विनयति
+row2#!n7#!विनयति
+row3#!n7#!वि_नी1{कर्तरि;लट्;प्र;एक;उभयपदी;णीञ्;भ्वादिः}
+row4#!n7#!वि_नी1{कृत्_प्रत्ययः:शतृ;णीञ्;भ्वादिः;पुं}{7;एक}
+row5#!n7#!<a href="javascript:show('भावलक्षणसप्तमी,')">भावलक्षणसप्तमी,16</a>
+row6#!n7#!दूर_किये_जाने
+row7#!n7#!removing
+row8#!n7#!-
+
+row1#!n7#!सति
+row2#!n7#!सति
+row3#!n7#!सती{स्त्री;8;एक}/सत्{पुं;7;एक}/सत्{स्त्री;7;एक}/सत्{नपुं;7;एक}
+row4#!n7#!अस्2{शतृ_लट्;असँ;अदादिः;पुं;7;एक}
+row5#!n7#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,7</a>
+row6#!n7#!पर
+row7#!n7#!while
+row8#!n7#!-
+
+row1#!NA#!तत्
+row2#!NA#!तत्
+row3#!NA#!तद्{नपुं;1;एक}/तद्{नपुं;2;एक}
+row4#!NA#!तद्{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,7</a>
+row6#!NA#!वह
+row7#!NA#!that (act)
+row8#!NA#!-
+
+row1#!n6#!अहित-युवतेः
+row2#!n6#!अहित-युवतेः
+row3#!n6#!अहित-युवति{स्त्री;5;एक}/युवति{स्त्री;6;एक}
+row4#!n6#!अहित-युवति{स्त्री;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,11</a>
+row6#!n6#!सपत्नी_के
+row7#!n6#!of female rival
+row8#!n6#!<a href="html/SV-VII/SV-57/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-57/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><आहिता-युवती>K3</a>#!html/SV-VII/SV-57/samaasa3.jpg
+
+
+row1#!n6#!अक्ष्णोः
+row2#!n6#!अक्ष्णोः
+row3#!n6#!अक्षि{नपुं;6;द्वि}/अक्षि{नपुं;7;द्वि}
+row4#!n6#!अक्षि{नपुं;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,12</a>
+row6#!n6#!नेत्र_की
+row7#!n6#!of eyes
+row8#!n6#!-
+
+row1#!n1#!द्वयम्
+row2#!n1#!द्वयम्
+row3#!n1#!द्वय{नपुं;1;एक}/द्वय{नपुं;2;एक}
+row4#!n1#!द्वय{नपुं;1;एक}
+row5#!n1#!<a href="javascript:show('कर्म,')">कर्म,16</a>
+row6#!n1#!दोनों
+row7#!n1#!both
+row8#!n1#!-
+
+row1#!NA#!अपि
+row2#!NA#!अपि
+row3#!NA#!अपि{अव्य}
+row4#!NA#!अपि{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,12</a>
+row6#!NA#!भी
+row7#!NA#!even
+row8#!NA#!-
+
+row1#!n3#!रोष-रजोभिः
+row2#!n3#!रोष-रजोभिः
+row3#!n3#!रोष-रजस्{पुं;3;बहु}/रजस्{नपुं;3;बहु}
+row4#!n3#!रोष-रजस्{पुं;3;बहु}
+row5#!n3#!<a href="javascript:show('कर्ता,')">कर्ता,16</a>
+row6#!n3#!क्रोध_रूपी_धूल_से
+row7#!n3#!anger in the form of dust
+row8#!n3#!<a href="html/SV-VII/SV-57/samaasa4.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-57/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><रोष-रजांसि>K6</a>#!html/SV-VII/SV-57/samaasa4.jpg
+
+
+row1#!NA#!अभीक्ष्णम्
+row2#!NA#!अभीक्ष्णम्
+row3#!NA#!अभीक्ष्णम्{अव्य}
+row4#!NA#!अभीक्ष्णम्{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया-विशेषणम्,')">क्रिया-विशेषणम्,16</a>
+row6#!NA#!अत्यन्त
+row7#!NA#!very much
+row8#!NA#!-
+
+row1#!v#!आ-पुपूरे
+row2#!v#!आ-पुपूरे
+row3#!v#!आ-{अव्य-पूर्1;कर्तरि;लिट्;उ;एक;आत्मनेपदी;पूरीँ;दिवादिः}/पूर्1{कर्तरि;लिट्;प्र;एक;आत्मनेपदी;पूरीँ;दिवादिः}/पूर्1{कर्मणि;लिट्;उ;एक;आत्मनेपदी;पूरीँ;दिवादिः}/पूर्1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;पूरीँ;दिवादिः}
+row4#!v#!आ_पूर्1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;पूरीँ;दिवादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!लाल_हो_गये.
+row7#!v#!reddened.
+row8#!v#!-
+
+

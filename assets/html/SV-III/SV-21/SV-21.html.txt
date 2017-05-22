@@ -1,0 +1,75 @@
+row1#!number#!<a href="html/SV-III/SV-21/21.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-21/21.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">21.A</a>#!html/SV-III/SV-21/21.jpg#!row1#!n1#!प्रवृद्ध-मन्द्र-अम्बुद-धीर-नादः
+row2#!number#!21.B</a>#!row2#!n1#!प्रवृद्धमन्द्राम्बुदधीरनादः 
+row3#!number#!21.C</a>#!row3#!n1#!प्रवृद्ध-मन्द्र-अम्बुद-धीर-नाद{पुं}{1;एक} 
+row4#!number#!21.D</a>#!row4#!n1#!प्रवृद्ध-मन्द्र-अम्बुद-धीर-नाद{पुं}{1;एक} 
+row5#!number#!21.E</a>#!row5#!n1#!विशेषणम्,7
+row6#!number#!21.F</a>#!row6#!n1#!मेघ_के_समान_गम्भीर_तथा_मनोहर_ध्वनि_वाला
+row7#!number#!21.G</a>#!row7#!n1#!That possessess a sound which was deep and pleasing like that of a cloud
+row8#!number#!21.H</a>#!row8#!n1#!<<मन्द<अम्बुद-धीरः>K4-नादः>K3-प्रवृद्धः>Bs3
+
+row1#!n1#!कृष्ण-अर्णव-अभ्यर्ण-चर-एकहंसः
+row2#!n1#!कृष्णार्णवाभ्यर्णचरैकहंसः 
+row3#!n1#!कृष्ण-अर्णव-अभ्यर्ण-चर-एकहंस{पुं}{1;एक} 
+row4#!n1#!कृष्ण-अर्णव-अभ्यर्ण-चर-एकहंस{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,7</a>
+row6#!n1#!कृष्णरूपी-समुद्र_के_समीपवर्ती-राजहंस-रूप
+row7#!n1#!which was the one swan dwelling in the vicinity of the ocean in the form of Kriśṇa
+row8#!n1#!<a href="html/SV-III/SV-21/samaasa1.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-21/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<<कृष्ण-अर्णवः>K6-अभ्यर्णवः>T6-चरः>U-एकहंसः>K3</a>#!html/SV-III/SV-21/samaasa1.jpg
+
+
+row1#!NA#!(तथा)
+row2#!NA#!तथा
+row3#!NA#!तथा{अव्य} 
+row4#!NA#!तथा{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,8</a>
+row6#!NA#!और
+row7#!NA#!and
+row8#!NA#!-
+
+row1#!n2#!मन्दानिल-आपूर-कृतम्
+row2#!n2#!मन्दानिलापूरकृतं 
+row3#!n2#!मन्दानिल-आपूर-कृत{पुं}{2;एक}/कृत{नपुं}{1;एक}/कृत{नपुं}{2;एक}/कृत{पुं}{2;एक} 
+row4#!n2#!मन्दानिल-आपूर-कृत{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,5 </a>
+row6#!n2#!मंद वायु_के_प्रवेश_से_उत्पन्न
+row7#!n2#!produced on account of its being filled with gentle wind
+row8#!n2#!<a href="html/SV-III/SV-21/samaasa2.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-21/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<मन्द-अनिलः>K3-आपूरः>T6-कृतः>T3</a>#!html/SV-III/SV-21/samaasa2.jpg
+
+
+row1#!n2#!निध्वानं
+row2#!n2#!निध्वानं 
+row3#!n2#!निध्वान{पुं}{2;एक} 
+row4#!n2#!निध्वान{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म, ')">कर्म,6 </a>
+row6#!n2#!ध्वनि_को
+row7#!n2#!a sound
+row8#!n2#!-
+
+row1#!n1#!दधानः
+row2#!n1#!दधानः 
+row3#!n1#!दधान{पुं}{1;एक} 
+row4#!n1#!धा1{कृत्_प्रत्ययः:शानच्;डुधाञ्;जुहोत्यादिः;पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('समानकालः, ')">समानकालः,8 </a>
+row6#!n1#!धारण_करता_हुआ 
+row7#!n1#!gave forth
+row8#!n1#!-
+
+row1#!n1#!पाञ्चजन्यः
+row2#!n1#!पाञ्चजन्यः 
+row3#!n1#!पाञ्चजनी{स्त्री}{1;बहु}/पाञ्चजन्य{पुं}{1;एक} 
+row4#!n1#!पाञ्चजन्य{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,8</a>
+row6#!n1#!पाञ्चजन्य नामक शंख
+row7#!n1#!the conch Pāņchajanya
+row8#!n1#!-
+
+row1#!v#!अश्रूयत.
+row2#!v#!अश्रूयत 
+row3#!v#!श्रु1{कर्मणि;लङ्;प्र;एक;आत्मनेपदी;श्रु;भ्वादिः}. 
+row4#!v#!श्रु1{कर्मणि;लङ्;प्र;एक;आत्मनेपदी;श्रु;भ्वादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!सुना_गया. 
+row7#!v#!could be heard.
+row8#!v#!-
+
+

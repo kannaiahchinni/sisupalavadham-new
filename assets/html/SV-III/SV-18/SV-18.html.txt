@@ -1,0 +1,147 @@
+row1#!number#!<a href="html/SV-III/SV-18/18.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-18/18.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">18.A</a>#!html/SV-III/SV-18/18.jpg#!row1#!n6#!विरोधिनां
+row2#!number#!18.B</a>#!row2#!n6#!विरोधिनां 
+row3#!number#!18.C</a>#!row3#!n6#!विरोधिन्{पुं}{6;बहु}/विरोधिन्{नपुं}{6;बहु} 
+row4#!number#!18.D</a>#!row4#!n6#!विरोधिन्{पुं}{6;बहु} 
+row5#!number#!18.E</a>#!row5#!n6#!षष्ठीसम्बन्धः,2
+row6#!number#!18.F</a>#!row6#!n6#!शत्रुओं_के
+row7#!number#!18.G</a>#!row7#!n6#!of enemies
+row8#!number#!18.H</a>#!row8#!n6#!
+
+row1#!n1#!विग्रह-भेद-दक्षा
+row2#!n1#!विग्रहभेददक्षा 
+row3#!n1#!विग्रह-भेद-दक्षा{स्त्री}{1;एक} 
+row4#!n1#!विग्रह-भेद-दक्षा{स्त्री}{1;एक} 
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,3</a>
+row6#!n1#!शरीर_को_नष्ट_करने_में_समर्थ
+row7#!n1#!able in rendering the bodies
+row8#!n1#!<a href="html/SV-III/SV-18/samaasa1.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-18/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<विग्रह-भेदः>T6-दक्षा>T7</a>#!html/SV-III/SV-18/samaasa1.jpg
+
+
+row1#!n1#!कु-अचित्-अस्खल-अन्ती
+row2#!n1#!क्वचिदस्खलन्ती 
+row3#!n1#!कु-अचित्-अस्खल-अन्ति{स्त्री}{1;द्वि}/अन्ति{स्त्री}{2;द्वि}/अन्ती{स्त्री}{1;एक} 
+row4#!n1#!क्वचिद्_स्खल्1{कृत्_प्रत्ययः:शतृ;स्खलँ;भ्वादिः;स्त्री}{1;एक}
+row5#!n1#!<a href="javascript:show('समानकालः,')">समानकालः,15</a>
+row6#!n1#!कहीं_भी_निष्फल_नहीं_होने_वाली
+row7#!n1#!never failing
+row8#!n1#!<a href="html/SV-III/SV-18/samaasa2.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-18/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><न-स्खलन्ती>Tn</a>#!html/SV-III/SV-18/samaasa2.jpg
+
+
+row1#!NA#!नित्यं
+row2#!NA#!नित्यं 
+row3#!NA#!नित्य{पुं}{2;एक}/नित्य{नपुं}{1;एक}/नित्य{नपुं}{2;एक} 
+row4#!NA#!नित्य{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया-विशेषणम्,')">क्रिया-विशेषणम्,6</a>
+row6#!NA#!सर्वदा
+row7#!NA#!always
+row8#!NA#!-
+
+row1#!n6#!हरेः
+row2#!n6#!हरेः 
+row3#!n6#!हरि{पुं}{5;एक}/हरि{पुं}{6;एक}/हृ1{कर्तरि;विधिलिङ्;म;एक;परस्मैपदी;हृञ्;भ्वादिः} 
+row4#!n6#!हरि{पुं}{6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,6</a>
+row6#!n6#!श्रीकृष्ण_के
+row7#!n6#!of Śrī kriśṇa
+row8#!n6#!-
+
+row1#!n1#!सन्निहिता
+row2#!n1#!सन्निहिता 
+row3#!n1#!सन्निहिता{स्त्री}{1;एक} 
+row4#!n1#!सम्_नि_धा1{कृत्_प्रत्ययः:क्त;डुधाञ्;जुहोत्यादिः}{स्त्री}{1;एक} 
+row5#!n1#!<a href="javascript:show('विशेषण,')">विशेषण,8</a>
+row6#!n1#!समीप
+row7#!n1#!at hand
+row8#!n1#!-
+
+row1#!n1#!मूर्ता
+row2#!n1#!मूर्ता 
+row3#!n1#!मूर्ता{स्त्री}{1;एक}
+row4#!n1#!मूर्ता{स्त्री}{1;एक}
+row5#!n1#!<a href="javascript:show('विशेषण,')">विशेषण,8</a>
+row6#!n1#!मूर्तिमती
+row7#!n1#!incarnate
+row8#!n1#!-
+
+row1#!n1#!शक्तिः
+row2#!n1#!शक्तिः 
+row3#!n1#!शक्ति{पुं}{1;एक}/शक्ति{स्त्री}{1;एक}
+row4#!n1#!शक्ति{स्त्री}{1;एक}
+row5#!n1#!<a href="javascript:show('प्रतियोगी, ')">प्रतियोगी,9 </a>
+row6#!n1#!शक्ति
+row7#!n1#!Śakti
+row8#!n1#!-
+
+row1#!NA#!इव
+row2#!NA#!इव 
+row3#!NA#!इव{अव्य} 
+row4#!NA#!इव{अव्य}
+row5#!NA#!<a href="javascript:show('अनुयोगी,')">अनुयोगी,2</a>
+row6#!NA#!के_समान
+row7#!NA#!as if it were
+row8#!NA#!-
+
+row1#!n1#!(स्थिता)
+row2#!n1#!स्थिता
+row3#!n1#!स्थिता{स्त्री}{1;एक} 
+row4#!n1#!स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;स्त्री}{1;एक} 
+row5#!n1#!<a href="javascript:show('')">0</a>
+row6#!n1#!स्थित 
+row7#!n1#!stood
+row8#!n1#!-
+
+row1#!n1#!कौमोदकी
+row2#!n1#!कौमोदकी 
+row3#!n1#!कौमोदकी{स्त्री}{1;एक} 
+row4#!n1#!कौमोदकी{स्त्री}{1;एक} 
+row5#!n1#!<a href="javascript:show('कर्ता, ')">कर्ता,15 </a>
+row6#!n1#!कौमोदकी (नाम_की_गदा)
+row7#!n1#!the mace Kaumodakī
+row8#!n1#!-
+
+row1#!n6#!(हरेः)
+row2#!n6#!हरेः
+row3#!n6#!हरि{पुं}{5;एक}/हरि{पुं}{6;एक}/हृ1{कर्तरि;विधिलिङ्;म;एक;परस्मैपदी;हृञ्;भ्वादिः} 
+row4#!n6#!हरि{पुं}{6;एक} 
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,13</a>
+row6#!n6#!हरि_के
+row7#!n6#!of Śrī kriśṇa
+row8#!n6#!-
+
+row1#!n2#!चेतः
+row2#!n2#!चेतः 
+row3#!n2#!चेत{पुं}{1;एक}/चेतृ{नपुं}{8;एक}
+row4#!n2#!चेत{नपुं}{2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,15</a>
+row6#!n2#!चित्त_को
+row7#!n2#!heart
+row8#!n2#!-
+
+row1#!NA#!निकामं
+row2#!NA#!निकामं 
+row3#!NA#!निकामम्{अव्य}/निकाम{नपुं}{1;एक}/निकाम{नपुं}{2;एक} 
+row4#!NA#!निकाम{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया-विशेषणम्,')">क्रिया-विशेषणम्,15</a>
+row6#!NA#!अतिशय
+row7#!NA#!greatly
+row8#!NA#!-
+
+row1#!v#!मोदयति
+row2#!v#!मोदयति 
+row3#!v#!मुद्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;मुदँ;चुरादिः}/मुद्1_णिच्{कर्तरि;लट्;प्र;एक;परस्मैपदी;मुदँ;भ्वादिः}/मुद्2_णिच्{कर्तरि;लट्;प्र;एक;परस्मैपदी;मुदँ;चुरादिः} 
+row4#!v#!मुद्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;मुदँ;चुरादिः} 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!प्रसन्न
+row7#!v#!delighted
+row8#!v#!-
+
+row1#!NA#!स्म.
+row2#!NA#!स्म 
+row3#!NA#!स्म{अव्य}. 
+row4#!NA#!स्म{अव्य}. 
+row5#!NA#!<a href="javascript:show('सम्बन्धः, ')">सम्बन्धः,15. </a>
+row6#!NA#!करती_थी.
+row7#!NA#!was.
+row8#!NA#!-
+
+

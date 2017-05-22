@@ -1,0 +1,56 @@
+row1#!number#!<a href="html/SV-VII/SV-23/23.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-23/23.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">23.A</a>#!html/SV-VII/SV-23/23.jpg#!row1#!n1#!मदनरसमहौघपूर्णनाभीह्रदपरिवाहितरोम-राजयः
+row2#!number#!23.B</a>#!row2#!n1#!मदनरसमहौघपूर्णनाभीह्रदपरिवाहितरोम-राजयः
+row3#!number#!23.C</a>#!row3#!n1#!मदनरसमहौघपूर्णनाभीह्रदपरिवाहितरोम-राजि{स्त्री;1;बहु}/राजि{स्त्री;8;बहु}
+row4#!number#!23.D</a>#!row4#!n1#!मदनरसमहौघपूर्णनाभीह्रदपरिवाहितरोम-राजि{स्त्री;1;बहु}
+row5#!number#!23.E</a>#!row5#!n1#!विशेषणम्,3
+row6#!number#!23.F</a>#!row6#!n1#!श्रृङ्गार (काम) रस के महाप्रवाह से आप्लावित नाभिरूप गहरे सरोवर के जलोछ्वास के सदृश रोमावली को धारण करनेवाली
+row7#!number#!23.G</a>#!row7#!n1#!navel endowed with great flow of erotic sentiment and whose line of pores are like that of a  water-course
+row8#!number#!23.H</a>#!row8#!n1#!<<<<<<<मदन-रसः>T6-<महा-ओघः>K1>T6-पूर्णा>T3-नाभ्यः>K1-ह्रदाः>K6-परिवाहिताः>T6-<रोम-राजयः>T6>Bs6
+
+row1#!n1#!ताः
+row2#!n1#!ताः
+row3#!n1#!तद्{स्त्री;1;बहु}/तद्{स्त्री;2;बहु}
+row4#!n1#!तद्{स्त्री;1;बहु}
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,3</a>
+row6#!n1#!वे_यादवाङ्गनाएँ
+row7#!n1#!women of Yādava race
+row8#!n1#!-
+
+row1#!n1#!सविभ्रमप्रयातप्रणदितहंसक-भूषणाः
+row2#!n1#!सविभ्रमप्रयातप्रणदितहंसक-भूषणाः
+row3#!n1#!सविभ्रमप्रयातप्रणदितहंसक-भूषण{पुं;1;बहु}/भूषण{पुं;8;बहु}
+row4#!n1#!सविभ्रमप्रयातप्रणदितहंसक-भूषण{स्त्री;1;बहु}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,6</a>
+row6#!n1#!विलासपूर्ण पगों की गति से विनादित नूपुररूप भूषणों से अलंकृत
+row7#!n1#!who with their charming walk ring their anklets
+row8#!n1#!<a href="html/SV-VII/SV-23/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-23/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<<सविभ्रम-प्रयातः>T3-प्रणदिताः>T3-<हंसकाः>K3-भूषणानि>K6-Bs6></a>#!html/SV-VII/SV-23/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<<सविभ्रम-प्रयातः>T3-प्रणदिताः>T3-<हंसकाः>K3-भूषणानि>K6-Bs6
+
+
+row1#!n1#!सरितः
+row2#!n1#!सरितः
+row3#!n1#!सरित्{स्त्री;1;बहु}/सरित्{स्त्री;2;बहु}/सरित्{स्त्री;5;एक}/सरित्{स्त्री;6;एक}/सरित्{स्त्री;8;बहु}
+row4#!n1#!सरित्{स्त्री;1;बहु}
+row5#!n1#!<a href="javascript:show('प्रतियोगी,')">प्रतियोगी,5</a>
+row6#!n1#!नदियाँ
+row7#!n1#!rivers
+row8#!n1#!-
+
+row1#!NA#!इव
+row2#!NA#!इव
+row3#!NA#!इव{अव्य}
+row4#!NA#!इव{अव्य}
+row5#!NA#!<a href="javascript:show('अनुयोगी,')">अनुयोगी,3</a>
+row6#!NA#!जैसे
+row7#!NA#!like
+row8#!NA#!-
+
+row1#!v#!विरेजुः
+row2#!v#!विरेजुः
+row3#!v#!वि_राज्1{कर्तरि;लिट्;प्र;बहु;उभयपदी;राजृँ;भ्वादिः}
+row4#!v#!वि_राज्1{कर्तरि;लिट्;प्र;बहु;उभयपदी;राजृँ;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!परिलक्षित_हो_रही_थीं.
+row7#!v#!shone
+row8#!v#!-
+
+

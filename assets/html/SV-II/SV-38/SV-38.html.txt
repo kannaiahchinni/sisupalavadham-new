@@ -1,0 +1,129 @@
+row1#!number#!<a href="html/SV-II/SV-38/38.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-38/38.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">38.A</a>#!html/SV-II/SV-38/38.jpg#!row1#!n8#!हरे
+row2#!number#!38.B</a>#!row2#!n8#!हरे 
+row3#!number#!38.C</a>#!row3#!n8#!हरि{पुं}{8;एक} 
+row4#!number#!38.D</a>#!row4#!n8#!हरि{पुं}{8;एक} 
+row5#!number#!38.E</a>#!row5#!n8#!सम्बोध्यः,14
+row6#!number#!38.F</a>#!row6#!n8#!हे! कृष्ण_जी
+row7#!number#!38.G</a>#!row7#!n8#!O Hari!
+row8#!number#!38.H</a>#!row8#!n8#!
+
+row1#!n2#!रुक्मिणीं
+row2#!n2#!रुक्मिणीं 
+row3#!n2#!रुक्मिणी{स्त्री}{2;एक} 
+row4#!n2#!रुक्मिणी{स्त्री}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,3</a>
+row6#!n2#!रुक्मिणी_को 
+row7#!n2#!Rukmiņī
+row8#!n2#!-
+
+row1#!n3#!हरता
+row2#!n3#!हरता 
+row3#!n3#!हरत्{पुं}{3;एक}/हरत्{नपुं}{3;एक}/हरता{स्त्री}{1;एक} 
+row4#!n3#!हृ1{कृत्_प्रत्ययः:शतृ;हृञ्;भ्वादिः;पुं}{3;एक}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,5</a>
+row6#!n3#!ले_जाते_हुए
+row7#!n3#!by carrying off
+row8#!n3#!-
+
+row1#!n1#!चैद्यः
+row2#!n1#!चैद्यः 
+row3#!n1#!चैद्य{पुं}{1;एक} 
+row4#!n1#!चैद्य{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('कर्म,')">कर्म,6</a>
+row6#!n1#!शिशुपाल
+row7#!n1#!the king of Chedi
+row8#!n1#!-
+
+row1#!n3#!त्वया
+row2#!n3#!त्वया 
+row3#!n3#!युष्मद्{3;एक} 
+row4#!n3#!युष्मद्{3;एक} 
+row5#!n3#!<a href="javascript:show('कर्ता,')">कर्ता,6</a>
+row6#!n3#!तुमसे 
+row7#!n3#!by you
+row8#!n3#!-
+
+row1#!n1#!विप्रकृतः
+row2#!n1#!विप्रकृतः 
+row3#!n1#!विप्रकृत{पुं}{1;एक} 
+row4#!n1#!वि_प्र_कृ2{कृत्_प्रत्ययः:क्त;कृञ्;स्वादिः;पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('')">0</a>
+row6#!n1#!पराभूत_हुए
+row7#!n1#!defeated
+row8#!n1#!-
+
+row1#!NA#!(तथाहि)
+row2#!NA#!तथाहि
+row3#!NA#!तथाहि{अव्य} 
+row4#!NA#!तथाहि{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,6</a>
+row6#!NA#!इसीलिये 
+row7#!NA#!because
+row8#!NA#!-
+
+row1#!n6#!बद्धमूलस्य
+row2#!n6#!बद्धमूलस्य 
+row3#!n6#!बद्धमूल{पुं}{6;एक}/बद्धमूल{नपुं}{6;एक} 
+row4#!n6#!बद्धमूल{पुं}{6;एक}
+row5#!n6#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,9</a>
+row6#!n6#!दृढमूल_वाले
+row7#!n6#!of the great root
+row8#!n6#!<a href="html/SV-II/SV-38/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-38/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><बद्ध-मूलं>Bs6</a>#!html/SV-II/SV-38/samaasa1.jpg
+
+
+row1#!n6#!वैर-तरोः
+row2#!n6#!वैरतरोः 
+row3#!n6#!वैर-तरु{पुं}{5;एक}/तरु{पुं}{6;एक} 
+row4#!n6#!तरु{पुं}{6;एक} 
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,10</a>
+row6#!n6#!वैररूपी_वृक्ष_की
+row7#!n6#!of a tree
+row8#!n6#!<a href="html/SV-II/SV-38/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-38/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><वैर-तरुः>K6</a>#!html/SV-II/SV-38/samaasa2.jpg
+
+
+row1#!n1#!स्त्रियः
+row2#!n1#!स्त्रियः 
+row3#!n1#!स्त्री{स्त्री}{1;बहु}/स्त्री{स्त्री}{2;बहु} 
+row4#!n1#!स्त्री{स्त्री}{1;बहु}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,14</a>
+row6#!n1#!स्त्रियाँ 
+row7#!n1#!women
+row8#!n1#!-
+
+row1#!n1#!महत्
+row2#!n1#!महत् 
+row3#!n1#!महत्{नपुं}{1;एक}/महत्{नपुं}{2;एक} 
+row4#!n1#!महत्{नपुं}{1;एक}
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,12</a>
+row6#!n1#!महान् 
+row7#!n1#!great
+row8#!n1#!-
+
+row1#!n1#!मूलं
+row2#!n1#!मूलं 
+row3#!n1#!मूल{पुं}{2;एक}/मूल{नपुं}{1;एक}/मूल{नपुं}{2;एक} 
+row4#!n1#!मूल{नपुं}{1;एक}
+row5#!n1#!<a href="javascript:show('कर्तृसमानाधिकरणम्,')">कर्तृसमानाधिकरणम्,14</a>
+row6#!n1#!जड़
+row7#!n1#!root
+row8#!n1#!-
+
+row1#!NA#!हि
+row2#!NA#!हि
+row3#!NA#!हि{अव्य}
+row4#!NA#!हि{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,14</a>
+row6#!NA#!ही (होती_हैं)
+row7#!NA#!indeed
+row8#!NA#!-
+
+row1#!v#!(भवन्ति).
+row2#!v#!भवन्ति
+row3#!v#!भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}. 
+row4#!v#!भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!होती_हैं.
+row7#!v#!are.
+row8#!v#!-
+
+

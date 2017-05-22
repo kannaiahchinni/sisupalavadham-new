@@ -1,0 +1,104 @@
+row1#!number#!<a href="html/SV-III/SV-44/44.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-44/44.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">44.A</a>#!html/SV-III/SV-44/44.jpg#!row1#!NA#!यत्र
+row2#!number#!44.B</a>#!row2#!NA#!यत्र 
+row3#!number#!44.C</a>#!row3#!NA#!यत्र{अव्य} 
+row4#!number#!44.D</a>#!row4#!NA#!यत्र{अव्य} 
+row5#!number#!44.E</a>#!row5#!NA#!विशेषणम्,4
+row6#!number#!44.F</a>#!row6#!NA#!जिस_में
+row7#!number#!44.G</a>#!row7#!NA#!In which city.
+row8#!number#!44.H</a>#!row8#!NA#!
+
+row1#!NA#!प्रति-क्षपम्
+row2#!NA#!प्रतिक्षपं 
+row3#!NA#!प्रति-क्षप{पुं}{2;एक}/क्षप{नपुं}{1;एक}/क्षप{नपुं}{2;एक} 
+row4#!NA#!प्रति-क्षप{अव्य}
+row5#!NA#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,4</a>
+row6#!NA#!प्रत्येक_रात्रि_में
+row7#!NA#!at night
+row8#!NA#!<a href="html/SV-III/SV-44/samaasa1.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-44/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><प्रति-क्षपम्>A1</a>#!html/SV-III/SV-44/samaasa1.jpg
+
+
+row1#!n7#!कान्त-इन्दुकान्त-उपल-कुट्टिमेषु
+row2#!n7#!कान्तेन्दुकान्तोपलकुट्टिमेषु 
+row3#!n7#!कान्त-इन्दुकान्त-उपल-कुट्टिम{पुं}{7;बहु}/कुट्टिम{नपुं}{7;बहु} 
+row4#!n7#!कान्त-इन्दुकान्त-उपल-कुट्टिम{नपुं}{7;बहु} 
+row5#!n7#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,4 </a>
+row6#!n7#!सुन्दर चन्द्रकान्तिमणियों_के_फर्शों वाले
+row7#!n7#!having floors of lovely moonstones
+row8#!n7#!<a href="html/SV-III/SV-44/samaasa2.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-44/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<कान्ताः<इन्दुकान्ता-उपलाः>K3->K3-कुट्टिमानि>T6</a>#!html/SV-III/SV-44/samaasa2.jpg
+
+
+row1#!n7#!हर्म्य-तलेषु
+row2#!n7#!हर्म्यतलेषु 
+row3#!n7#!हर्म्य-तल{पुं}{7;बहु}/तल{नपुं}{7;बहु} 
+row4#!n7#!हर्म्य-तल{नपुं}{7;बहु} 
+row5#!n7#!<a href="javascript:show('अधिकरणम्, ')">अधिकरणम्,11 </a>
+row6#!n7#!महलों_के_ऊपरी_छतों_पर
+row7#!n7#!on the terraces
+row8#!n7#!<a href="html/SV-III/SV-44/samaasa3.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-44/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><हर्म्य-तलानि>T6</a>#!html/SV-III/SV-44/samaasa3.jpg
+
+
+row1#!NA#!उच्चैः
+row2#!NA#!उच्चैः 
+row3#!NA#!उच्चैः{अव्य}/उच्च{पुं}{3;बहु}/उच्च{नपुं}{3;बहु} 
+row4#!NA#!उच्चैः{अव्य}
+row5#!NA#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,6</a>
+row6#!NA#!ऊँची
+row7#!NA#!on high
+row8#!NA#!-
+
+row1#!n1#!प्रणाल्यः
+row2#!n1#!प्रणाल्यः 
+row3#!n1#!प्रणाली{स्त्री}{1;बहु} 
+row4#!n1#!प्रणाली{स्त्री}{1;बहु}
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,7</a>
+row6#!n1#!नालियाँ
+row7#!n1#!the water courses
+row8#!n1#!-
+
+row1#!n1#!अधः-पाति-पयोमुचः
+row2#!n1#!अधः-पाति-पयोमुचः 
+row3#!n1#!अधः-पातिन्-पयोमुच्{पुं}{1;बहु}/पयोमुच्{पुं}{2;बहु}/पयोमुच्{पुं}{5;एक}/पयोमुच्{पुं}{6;एक}/पयोमुच{पुं}{1;एक} 
+row4#!n1#!अधः-पाति-पयोमुच्{स्त्री}{1;बहु}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,11</a>
+row6#!n1#!नीचे स्थित मेघोंवाली_होती_हुई
+row7#!n1#!the clouds were moving below them
+row8#!n1#!<a href="html/SV-III/SV-44/samaasa4.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-44/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<पयो-मुचः>U-<अधः-पातिनः>U>K3</a>#!html/SV-III/SV-44/samaasa4.jpg
+
+
+row1#!NA#!अपि
+row2#!NA#!अपि 
+row3#!NA#!अपि{अव्य} 
+row4#!NA#!अपि{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः, ')">सम्बन्धः,7 </a>
+row6#!NA#!भी 
+row7#!NA#!though
+row8#!NA#!-
+
+row1#!n6#!पयसां
+row2#!n6#!पयसां 
+row3#!n6#!पयस्{नपुं}{6;बहु} 
+row4#!n6#!पयस्{नपुं}{6;बहु} 
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,10</a>
+row6#!n6#!जल_के
+row7#!n6#!of waters
+row8#!n6#!-
+
+row1#!n2#!समूहम्
+row2#!n2#!समूहम् 
+row3#!n2#!समूह{पुं}{2;एक} 
+row4#!n2#!सम्_वह्1{कृत्_प्रत्ययः:घञ्;वहँ;भ्वादिः}{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,11</a>
+row6#!n2#!समूह_को 
+row7#!n2#!flood
+row8#!n2#!-
+
+row1#!v#!ऊहुः.
+row2#!v#!ऊहुः 
+row3#!v#!उह्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;उहिँर्;भ्वादिः}/वह्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;वहँ;भ्वादिः}. 
+row4#!v#!वह्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;वहँ;भ्वादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!बहाती_थी.
+row7#!v#!carried.
+row8#!v#!-
+
+

@@ -1,0 +1,112 @@
+row1#!number#!<a href="html/SV-VIII/SV-1/1.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-1/1.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">1.A</a>#!html/SV-VIII/SV-1/1.jpg#!row1#!n3#!'अलघुतरस्तनैः'
+row2#!number#!1.B</a>#!row2#!n3#!'अलघु-तर-स्तनैः'
+row3#!number#!1.C</a>#!row3#!n3#!'अलघुतरस्तनैः{पुं;3;बहु}'
+row4#!number#!1.D</a>#!row4#!n3#!'अलघुतरस्तनैः{पुं;3;बहु}'
+row5#!number#!1.E</a>#!row5#!n3#!'विशेषणम्,3'
+row6#!number#!1.F</a>#!row6#!n3#!'पृथुतर (अत्यधिक विशाल) कुचकुम्भों से'
+row7#!number#!1.G</a>#!row7#!n3#!'with huge breasts'
+row8#!number#!1.H</a>#!row8#!n3#!'<<अ-लघुतराः>Tn-स्तनैः>K3'
+
+row1#!n3#!'स्वनद्भिः'
+row2#!n3#!'स्वनद्भिः'
+row3#!n3#!'स्वनत्{पुं;3;बहु}/स्वनत्{नपुं;3;बहु}'
+row4#!n3#!'स्वन्1{शतृ_लट्;स्वनँ;भ्वादिः;पुं;3;बहु}'
+row5#!n3#!<a href="javascript:show(''विशेषणम्,'')">'विशेषणम्,3'</a>
+row6#!n3#!'ध्वनि_करती_हुई'
+row7#!n3#!'while making sounds'
+row8#!n3#!-
+
+row1#!n3#!'अविकचलोचन-अरविन्दैः'
+row2#!n3#!'अविकचलोचन-अरविन्दैः'
+row3#!n3#!'अविकचलोचन-अरविन्द{नपुं;3;बहु}'
+row4#!n3#!'अविकचलोचन-अरविन्द{पुं;3;बहु}'
+row5#!n3#!<a href="javascript:show(''करणम्,'')">'करणम्,12'</a>
+row6#!n3#!'अधखुले नेत्रों से'
+row7#!n3#!'with half closed eyes'
+row8#!n3#!<a href="html/SV-VIII/SV-1/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-1/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) ">'<<अविकचानि-लोचनानि>K3-अरविन्दानि>K5'</a>#!html/SV-VIII/SV-1/samaasa1.jpg
+
+
+row1#!n5#!'आयासात्'
+row2#!n5#!'आयासात्'
+row3#!n5#!'आयास{पुं;5;एक}'
+row4#!n5#!'आयास{पुं;5;एक}'
+row5#!n5#!<a href="javascript:show(''हेतुः,'')">'हेतुः,5'</a>
+row6#!n5#!'श्रम_के_कारण'
+row7#!n5#!'out of tiredness'
+row8#!n5#!-
+
+row1#!n6#!'श्रान्तानां'
+row2#!n6#!'श्रान्तानां'
+row3#!n6#!'श्रान्त{पुं;6;बहु}/श्रान्ता{स्त्री;6;बहु}'
+row4#!n6#!'श्रम्1{क्त;श्रमुँ;दिवादिः;स्त्री;6;बहु}'
+row5#!n6#!<a href="javascript:show(''विशेषणम्,'')">'विशेषणम्,6'</a>
+row6#!n6#!'क्लान्त'
+row7#!n6#!'tired'
+row8#!n6#!-
+
+row1#!n6#!'योषितां'
+row2#!n6#!'योषितां'
+row3#!n6#!'योषित्{स्त्री;6;बहु}'
+row4#!n6#!'योषित्{स्त्री;6;बहु}'
+row5#!n6#!<a href="javascript:show(''षष्ठीसम्बन्धः,'')">'षष्ठीसम्बन्धः,8'</a>
+row6#!n6#!'स्त्रियों_का'
+row7#!n6#!'young women'
+row8#!n6#!-
+
+row1#!n3#!'तैः'
+row2#!n3#!'तैः'
+row3#!n3#!'तद्{पुं;3;बहु}/तद्{नपुं;3;बहु}'
+row4#!n3#!'तद्{पुं;3;बहु}'
+row5#!n3#!<a href="javascript:show(''विशेषणम्,'')">'विशेषणम्,8'</a>
+row6#!n3#!'उनसे'
+row7#!n3#!'by them'
+row8#!n3#!-
+
+row1#!n3#!'समूहैः'
+row2#!n3#!'समूहैः'
+row3#!n3#!'समूह{पुं;3;बहु}'
+row4#!n3#!'समूह{पुं;3;बहु}'
+row5#!n3#!<a href="javascript:show(''कर्ता,'')">'कर्ता,12'</a>
+row6#!n3#!'समूहों_से'
+row7#!n3#!'by groups'
+row8#!n3#!-
+
+row1#!n1#!'उर्वीनिहितचल-पदम्'
+row2#!n1#!'उर्वीनिहितचल-पदम्'
+row3#!n1#!'उर्वीनिहितचल-पद{पुं;2;एक}/पद{नपुं;1;एक}/पद{नपुं;2;एक}'
+row4#!n1#!'उर्वीनिहितचल-पद{नपुं;1;एक}'
+row5#!n1#!<a href="javascript:show(''क्रियाविशेषणम्,'')">'क्रियाविशेषणम्,12'</a>
+row6#!n1#!'भूतल_पर_पैर_रखकर'
+row7#!n1#!'having placed their feet on earth'
+row8#!n1#!<a href="html/SV-VIII/SV-1/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-1/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) ">'<<उर्वी-निहतानि>T7-<चलत्-पदानि>K3>Bs7'</a>#!html/SV-VIII/SV-1/samaasa2.jpg
+
+
+row1#!NA#!'अभ्यम्भः'
+row2#!NA#!'अभ्यम्भः'
+row3#!NA#!'अभ्यम्भः}'
+row4#!NA#!'अभ्यम्भः{अव्य}'
+row5#!NA#!<a href="javascript:show(''कर्म,'')">'कर्म,12'</a>
+row6#!NA#!'जल_की_ओर'
+row7#!NA#!'towards water'
+row8#!NA#!<a href="html/SV-VIII/SV-1/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-1/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) ">'<अभि-अम्भः>A1'</a>#!html/SV-VIII/SV-1/samaasa3.jpg
+
+
+row1#!NA#!'कथमपि'
+row2#!NA#!'कथमपि'
+row3#!NA#!'कथमपि{अव्य}/कथमपि{अव्य}'
+row4#!NA#!'कथमपि{अव्य}'
+row5#!NA#!<a href="javascript:show(''क्रियाविशेषणम्,'')">'क्रियाविशेषणम्,12'</a>
+row6#!NA#!'बडी_कठिनाई_से'
+row7#!NA#!'with a great difficulty'
+row8#!NA#!-
+
+
+
+
+
+
+
+
+
+
+

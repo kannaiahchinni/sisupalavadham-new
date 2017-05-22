@@ -1,0 +1,105 @@
+row1#!number#!<a href="html/SV-VI/SV-29/29.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-29/29.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">29.A</a>#!html/SV-VI/SV-29/29.jpg#!row1#!n1#!पथिक-अङ्गना
+row2#!number#!29.B</a>#!row2#!n1#!पथिक-अङ्गना
+row3#!number#!29.C</a>#!row3#!n1#!पथिक-अङ्गना{स्त्री;1;एक}
+row4#!number#!29.D</a>#!row4#!n1#!पथिक-अङ्गना{स्त्री;1;एक}
+row5#!number#!29.E</a>#!row5#!n1#!कर्ता,4
+row6#!number#!29.F</a>#!row6#!n1#!विदेश को गये हुए पति की पत्नी
+row7#!number#!29.G</a>#!row7#!n1#!Wife of a person who went on travel
+row8#!number#!29.H</a>#!row8#!n1#!<पथिक-अङ्गना>T6
+
+row1#!NA#!सपदि
+row2#!NA#!सपदि
+row3#!NA#!सपदि{अव्य}
+row4#!NA#!सपदि{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया-विशेषणम्,')">क्रिया-विशेषणम्,4</a>
+row6#!NA#!तत्काल
+row7#!NA#!at that moment
+row8#!NA#!-
+
+row1#!n2#!जीवित-संशयम्
+row2#!n2#!जीवित-संशयम्
+row3#!n2#!जीवित-संशय{पुं;2;एक}/संशयपुं;2;एक}
+row4#!n2#!जीवित-संशय{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,4</a>
+row6#!n2#!मृत्यु_को
+row7#!n2#!death
+row8#!n2#!<a href="html/SV-VI/SV-29/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-29/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><जीवित-संशयः>T6</a>#!html/SV-VI/SV-29/samaasa1.jpg
+
+
+row1#!n1#!एष्यती
+row2#!n1#!एष्यती
+row3#!n1#!एष्यती}
+row4#!n1#!इ1{कृत्_प्रत्ययः:शतृ;इण्;अदादिः;स्त्री}{1;एक}
+row5#!n1#!<a href="javascript:show('समानकालः,')">समानकालः,11</a>
+row6#!n1#!प्राप्त होती हुई
+row7#!n1#!while obtaining
+row8#!n1#!-
+
+row1#!n5#!सनयनाम्बुसखीजनसम्भ्रमात्
+row2#!n5#!सनयनाम्बु-सखी-जन-सम्भ्रमात्
+row3#!n5#!सनयनाम्बुसखीजनसम्भ्रम{पुं;5;एक}
+row4#!n5#!सम्_भ्रम्1{घञ्;भ्रमुँ;भ्वादिः;पुं;5;एक}
+row5#!n5#!<a href="javascript:show('हेतुः,')">हेतुः,6</a>
+row6#!n5#!आँसुओं से युक्त सखी की घबराहट से
+row7#!n5#!by her dismay who is with tears in her eyes
+row8#!n5#!<a href="html/SV-VI/SV-29/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-29/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<सह-<नयन-अम्बूनि>T6>BvS-<सखी-जनः>K3>K3-सम्भ्रमः>T6</a>#!html/SV-VI/SV-29/samaasa2.jpg
+
+
+row1#!n1#!विधुर-बन्धुः
+row2#!n1#!विधुर-बन्धुः
+row3#!n1#!विधुर-बन्धु{पुं;1;एक}/बन्धु{पुं;1;एक}
+row4#!n1#!विधुर-बन्धु{स्त्री;1;एक}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,11</a>
+row6#!n1#!व्याकुल हो रहे हैं बन्धुजन जीसकी
+row7#!n1#!her relatives who were distressed
+row8#!n1#!<a href="html/SV-VI/SV-29/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-29/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><विधुर-बन्धुः>Bs6</a>#!html/SV-VI/SV-29/samaasa3.jpg
+
+
+row1#!n1#!(सती)
+row2#!n1#!सती
+row3#!n1#!सति{स्त्री;1;द्वि}/सति{स्त्री;2;द्वि}/सति{स्त्री;8;द्वि}/सती{स्त्री;1;एक}
+row4#!n1#!अस्2{कृत्_प्रत्ययः:शतृ;असँ;अदादिः;स्त्री}{1;एक}
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,6</a>
+row6#!n1#!रहने_पर
+row7#!n1#!being
+row8#!n1#!-
+
+row1#!n6#!अम्बु-मुचां
+row2#!n6#!अम्बु-मुचां
+row3#!n6#!अम्बु-मुच्{पुं;6;बहु}/मुच्{स्त्री;6;बहु}/मुच्{स्त्री;6;बहु}
+row4#!n6#!अम्बु-मुच्{पुं;6;बहु}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,9</a>
+row6#!n6#!बादलों_के
+row7#!n6#!of clouds
+row8#!n6#!<a href="html/SV-VI/SV-29/samaasa4.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-29/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><अम्बु०मट्>U</a>#!html/SV-VI/SV-29/samaasa4.jpg
+
+
+row1#!n2#!पटलम्
+row2#!n2#!पटलम्
+row3#!n2#!पटल{नपुं;1;एक}/पटल{नपुं;2;एक}
+row4#!n2#!पटल{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,11</a>
+row6#!n2#!समूह_को
+row7#!n2#!multitude
+row8#!n2#!-
+
+row1#!n2#!अबन्धुरम्
+row2#!n2#!अबन्धुरम्
+row3#!n2#!अबन्धुरम्}
+row4#!n2#!अबन्धुरम्{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,9</a>
+row6#!n2#!अशोभन_रूप_से
+row7#!n2#!inauspicious
+row8#!n2#!<a href="html/SV-VI/SV-29/samaasa5.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-29/samaasa5.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><अ-बन्धुरम्>Tn</a>#!html/SV-VI/SV-29/samaasa5.jpg
+
+
+row1#!v#!ऐक्षत
+row2#!v#!ऐक्षत
+row3#!v#!ईक्ष्1{कर्तरि;लङ्;प्र;एक;आत्मनेपदी;ईक्षँ;भ्वादिः}
+row4#!v#!ईक्ष्1{कर्तरि;लङ्;प्र;एक;आत्मनेपदी;ईक्षँ;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!देखा.
+row7#!v#!saw.
+row8#!v#!-
+
+

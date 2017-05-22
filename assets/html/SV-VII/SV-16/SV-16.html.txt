@@ -1,0 +1,121 @@
+row1#!number#!<a href="html/SV-VII/SV-16/16.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-16/16.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">16.A</a>#!html/SV-VII/SV-16/16.jpg#!row1#!n1#!अपरा
+row2#!number#!16.B</a>#!row2#!n1#!अपरा
+row3#!number#!16.C</a>#!row3#!n1#!अपरा{स्त्री;1;एक}/अपरा{स्त्री;1;एक}
+row4#!number#!16.D</a>#!row4#!n1#!अपरा{स्त्री;1;एक}
+row5#!number#!16.E</a>#!row5#!n1#!कर्ता,13
+row6#!number#!16.F</a>#!row6#!n1#!अन्य_कोई_अंगना
+row7#!number#!16.G</a>#!row7#!n1#!Another woman
+row8#!number#!16.H</a>#!row8#!n1#!
+
+row1#!n3#!दृढपरिरब्धबृहद्बहिः-स्तनेन
+row2#!n3#!दृढपरिरब्धबृहद्बहिः-स्तनेन
+row3#!n3#!दृढपरिरब्धबृहद्बहिः-स्तन{पुं;3;एक}
+row4#!n3#!दृढपरिरब्धबृहद्बहिः-स्तन{पुं;3;एक}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,4</a>
+row6#!n3#!बाहर निकले हुए अपने बाएँ पीन-स्तन को दृढ़ता से दबाए हुई
+row7#!n3#!(her) protruding right side tender chest was being pressed tightly
+row8#!n3#!<a href="html/SV-VII/SV-16/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-16/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><दृढपरिरब्ध-<<बृहद्-बहिः>K1-स्तनः>K1>Bs3</a>#!html/SV-VII/SV-16/samaasa1.jpg
+
+
+row1#!n3#!हृषिततनु-रुहा
+row2#!n3#!हृषिततनु-रुहा
+row3#!n3#!हृषिततनु-रुहा{स्त्री;1;एक}
+row4#!n3#!हृषिततनु-रुहा{पुं;3;एक}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,4</a>
+row6#!n3#!रोमाञ्चयुक्त
+row7#!n3#!which was erected by goosebumps
+row8#!n3#!<a href="html/SV-VII/SV-16/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-16/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><हृषित-<तनु-रुह्>U>Bs6</a>#!html/SV-VII/SV-16/samaasa2.jpg
+
+
+row1#!n3#!भुजेन
+row2#!n3#!भुजेन
+row3#!n3#!भुज{पुं;3;एक}
+row4#!n3#!भुज{पुं;3;एक}
+row5#!n3#!<a href="javascript:show('कर्ता,')">कर्ता,6</a>
+row6#!n3#!भुजा_से
+row7#!n3#!with the arm
+row8#!n3#!-
+
+row1#!n2#!अमृदु
+row2#!n2#!अमृदु
+row3#!n2#!अमृदु{नपुं;1;एक}/मृदु{नपुं;2;एक}/मृदु{नपुं;8;एक}
+row4#!n2#!अमृदु{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,6</a>
+row6#!n2#!कठिन
+row7#!n2#!hard
+row8#!n2#!-
+
+row1#!n2#!व्यति-विद्धम्
+row2#!n2#!व्यति-विद्धम्
+row3#!n2#!व्यति-विद्ध{पुं;2;एक}/विद्ध{नपुं;1;एक}/विद्ध{नपुं;2;एक}
+row4#!n2#!व्यति_व्यध्1{क्त;व्यधँ;दिवादिः;पुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,8</a>
+row6#!n2#!ठीक_से_मिली_हुई
+row7#!n2#!interwined
+row8#!n2#!-
+
+row1#!n2#!मृदुम्
+row2#!n2#!मृदुम्
+row3#!n2#!मृदु{पुं;2;एक}/मृदु{स्त्री;2;एक}
+row4#!n2#!मृदु{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,8</a>
+row6#!n2#!कोमल
+row7#!n2#!tender
+row8#!n2#!-
+
+row1#!n2#!एक-बाहुम्
+row2#!n2#!एक-बाहुम्
+row3#!n2#!एक-बाहु{पुं;2;एक}
+row4#!n2#!एक-बाहु{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,13</a>
+row6#!n2#!एक-भुजा_को
+row7#!n2#!one shoulder
+row8#!n2#!-
+
+row1#!n6#!भर्तुः
+row2#!n6#!भर्तुः
+row3#!n6#!भर्तृ{पुं;5;एक}/भर्तृ{पुं;6;एक}
+row4#!n6#!भर्तृ{पुं;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,10</a>
+row6#!n6#!पति_के
+row7#!n6#!of husband
+row8#!n6#!-
+
+row1#!n7#!कण्ठे
+row2#!n7#!कण्ठे
+row3#!n7#!कण्ठ{पुं;7;एक}
+row4#!n7#!कण्ठ{पुं;7;एक}
+row5#!n7#!<a href="javascript:show('अधिकरणम्,')">अधिकरणम्,12</a>
+row6#!n7#!गले_में
+row7#!n7#!to his neck
+row8#!n7#!-
+
+row1#!n2#!अशिथिलम्
+row2#!n2#!अशिथिलम्
+row3#!n2#!अशिथिल{पुं;2;एक}/शिथिल{नपुं;1;एक}/शिथिल{नपुं;2;एक}
+row4#!n2#!अशिथिल{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,12</a>
+row6#!n2#!गाढ़
+row7#!n2#!tight
+row8#!n2#!<a href="html/SV-VII/SV-16/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-16/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><अ-शिथिलः>Tn</a>#!html/SV-VII/SV-16/samaasa3.jpg
+
+
+row1#!NA#!अव-सज्य
+row2#!NA#!अव-सज्य
+row3#!NA#!अव-सज्य{पुं;8;एक}/सज्य{नपुं;8;एक}
+row4#!NA#!अव_सञ्ज्1{अव्य;ल्यप्;षञ्जँ;भ्वादिः}
+row5#!NA#!<a href="javascript:show('पूर्वकाल,')">पूर्वकाल,13</a>
+row6#!NA#!आलिङ्गन_करके
+row7#!NA#!having clinged
+row8#!NA#!-
+
+row1#!v#!(जगाम)
+row2#!v#!जगाम
+row3#!v#!गम्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;गमॢँ;भ्वादिः}/गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}
+row4#!v#!गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!गयी.
+row7#!v#!went.
+row8#!v#!-
+
+

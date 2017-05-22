@@ -1,0 +1,111 @@
+row1#!number#!<a href="html/SV-II/SV-105/105-a.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-105/105-a.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">105-a.A</a>#!html/SV-II/SV-105/105-a.jpg#!row1#!n6#!बलिनः
+row2#!number#!105-a.B</a>#!row2#!n6#!बलिनः 
+row3#!number#!105-a.C</a>#!row3#!n6#!बलिन्{पुं}{1;बहु}/बलिन्{पुं}{2;बहु}/बलिन्{पुं}{5;एक}/बलिन्{पुं}{6;एक}/बलिन्{पुं}{8;बहु} 
+row4#!number#!105-a.D</a>#!row4#!n6#!बलिन्{पुं}{6;एक}
+row5#!number#!105-a.E</a>#!row5#!n6#!षष्ठीसम्बन्धः,2 
+row6#!number#!105-a.F</a>#!row6#!n6#!बलवान_के_लिए
+row7#!number#!105-a.G</a>#!row7#!n6#!of a strong person
+row8#!number#!105-a.H</a>#!row8#!n6#!
+
+row1#!n7#!अरिषु
+row2#!n7#!अरिषु 
+row3#!n7#!अरि{पुं}{7;बहु} 
+row4#!n7#!अरि{पुं}{7;बहु} 
+row5#!n7#!<a href="javascript:show('अधिकरणम्, ')">अधिकरणम्,7 </a>
+row6#!n7#!शत्रुओं_पर
+row7#!n7#!on the enemies
+row8#!n7#!-
+
+row1#!n1#!बलात्कारः
+row2#!n1#!बलात्कारः 
+row3#!n1#!बलात्कार{पुं}{1;एक} 
+row4#!n1#!बलात्कार{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('कर्ता, ')">कर्ता,7 </a>
+row6#!n1#!बल प्रयोग
+row7#!n1#!use of force
+row8#!n1#!-
+
+row1#!NA#!चिरात्
+row2#!NA#!चिरात् 
+row3#!NA#!चिरात्{अव्य}/चिर{नपुं}{5;एक} 
+row4#!NA#!चिरात्{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया-विशेषणम्,')">क्रिया-विशेषणम्,7</a>
+row6#!NA#!विलम्ब_से_किया_गया
+row7#!NA#!used in course of time
+row8#!NA#!-
+
+row1#!NA#!अपि
+row2#!NA#!अपि 
+row3#!NA#!अपि{अव्य} 
+row4#!NA#!अपि{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः, ')">सम्बन्धः,4 </a>
+row6#!NA#!भी 
+row7#!NA#!though
+row8#!NA#!-
+
+row1#!n4#!सिद्धये
+row2#!n4#!सिद्धये 
+row3#!n4#!सिद्धि{स्त्री}{4;एक} 
+row4#!n4#!सिद्धि{स्त्री}{4;एक} 
+row5#!n4#!<a href="javascript:show('प्रयोजनम्, ')">प्रयोजनम्,7 </a>
+row6#!n4#!सिद्धि_के_लिये
+row7#!n4#!to succeed
+row8#!n4#!-
+
+row1#!v#!(भवति).
+row2#!v#!भवति
+row3#!v#!भवत्{पुं}{7;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}/भवत्{पुं}{7;एक}. 
+row4#!v#!भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!होता_है. 
+row7#!v#!is.
+row8#!v#!-
+
+row1#!number#!<a href="html/SV-II/SV-105/105-b.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-105/105-b.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">105-b.A</a>#!html/SV-II/SV-105/105-b.jpg#!row1#!NA#!(किन्तु)
+row2#!number#!105-b.B</a>#!row2#!NA#!किन्तु
+row3#!number#!105-b.C</a>#!row3#!NA#!किन्तु{अव्य} 
+row4#!number#!105-b.D</a>#!row4#!NA#!किन्तु{अव्य} 
+row5#!number#!105-b.E</a>#!row5#!NA#!सम्बन्धः,5 
+row6#!number#!105-b.F</a>#!row6#!NA#!किन्तु 
+row7#!number#!105-b.G</a>#!row7#!NA#!But
+row8#!number#!105-b.H</a>#!row8#!NA#!
+
+row1#!n1#!विमनीकृताः
+row2#!n1#!विमनीकृताः 
+row3#!n1#!विमनीकृत{पुं}{1;बहु}/विमनीकृता{स्त्री}{1;बहु}/विमनीकृता{स्त्री}{2;बहु} 
+row4#!n1#!विमनीकृत{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,3</a>
+row6#!n1#!विमानित
+row7#!n1#!humiliated
+row8#!n1#!-
+
+row1#!n1#!सुहृदः
+row2#!n1#!सुहृदः 
+row3#!n1#!सुहृद्{पुं}{1;बहु}/सुहृद्{पुं}{2;बहु}/सुहृद्{पुं}{5;एक}/सुहृद्{पुं}{6;एक}/सुहृद्{स्त्री}{1;बहु}/सुहृद्{स्त्री}{2;बहु}/सुहृद्{स्त्री}{5;एक}/सुहृद्{स्त्री}{6;एक}/सुहृद{पुं}{1;एक} 
+row4#!n1#!सुहृद्{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('कर्ता, ')">कर्ता,5 </a>
+row6#!n1#!मित्र 
+row7#!n1#!friends
+row8#!n1#!<a href="html/SV-II/SV-105/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-105/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><शोभन-हृदयम्>Bs6</a>#!html/SV-II/SV-105/samaasa1.jpg
+
+
+row1#!n1#!छन्द-अनृवृत्ति-दुःसाध्याः
+row2#!n1#!छन्द-अनृवृत्ति-दुःसाध्याः 
+row3#!n1#!छन्द-अनृवृत्ति-दुःसाध्य{पुं}{1;बहु}/दुःसाध्या{स्त्री}{1;बहु}/दुःसाध्या{स्त्री}{2;बहु}/दुःसाधी{स्त्री}{5;एक}/दुःसाधी{स्त्री}{6;एक} 
+row4#!n1#!छन्द-अनृवृत्ति-दुःसाध्य{पुं}{1;बहु}
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,3</a>
+row6#!n1#!अनुकूल व्यवहार द्वारा कठिनाई_से_सन्तुष्ट
+row7#!n1#!difficult to be won back
+row8#!n1#!<a href="html/SV-II/SV-105/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-105/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<छन्द-अनुवृत्तिः>T6-दुःसाध्याः>T3</a>#!html/SV-II/SV-105/samaasa2.jpg
+
+
+row1#!v#!(भवन्ति).
+row2#!v#!भवन्ति
+row3#!v#!भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}. 
+row4#!v#!भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!किया_जाता_हैं.
+row7#!v#!are.
+row8#!v#!-
+
+
