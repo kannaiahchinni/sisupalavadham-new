@@ -1,16 +1,16 @@
 webpackJsonp([1,4],{
 
-/***/ 142:
+/***/ 111:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(62);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(72);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__ = __webpack_require__(100);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__ = __webpack_require__(85);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__ = __webpack_require__(52);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__ = __webpack_require__(86);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__);
 /* unused harmony export SlokaDetails */
 /* unused harmony export Sloka */
@@ -61,16 +61,16 @@ var SLOKADetails = [
     new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html')
 ];
 var SLOKAS = [
-    new Sloka(1, 'Canto', true, SLOKADetails),
-    new Sloka(2, 'Canto', true, SLOKADetails),
-    new Sloka(3, 'Canto', true, SLOKADetails),
-    new Sloka(4, 'Canto', true, SLOKADetails),
-    new Sloka(5, 'Canto', true, SLOKADetails),
-    new Sloka(6, 'Canto', true, SLOKADetails),
-    new Sloka(7, 'Canto', true, SLOKADetails),
-    new Sloka(8, 'Canto', true, SLOKADetails),
-    new Sloka(9, 'Canto', false, SLOKADetails),
-    new Sloka(10, 'Canto', false, SLOKADetails),
+    new Sloka(1, 'कृष्णनारदसम्भाषणम्', true, SLOKADetails),
+    new Sloka(2, 'मन्त्रवर्णनम्', true, SLOKADetails),
+    new Sloka(3, 'पुरीप्रस्थानः', true, SLOKADetails),
+    new Sloka(4, 'रैवतकवर्णनम्', true, SLOKADetails),
+    new Sloka(5, 'सेनानिवेशः', true, SLOKADetails),
+    new Sloka(6, 'ऋतुवर्णनम्', true, SLOKADetails),
+    new Sloka(7, 'वनविहारः', true, SLOKADetails),
+    new Sloka(8, 'जलविहारवर्णनम्', true, SLOKADetails),
+    new Sloka(9, 'प्रदोषवर्णनम्', false, SLOKADetails),
+    new Sloka(10, 'सुरतवर्णनः', false, SLOKADetails),
     new Sloka(11, 'Canto', false, SLOKADetails),
     new Sloka(12, 'Canto', false, SLOKADetails),
     new Sloka(13, 'Canto', false, SLOKADetails),
@@ -147,30 +147,16 @@ SlokaService = __decorate([
 ], SlokaService);
 
 var _a;
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/sloka-service.service.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/sloka-service.service.js.map
 
 /***/ }),
 
-/***/ 174:
-/***/ (function(module, exports) {
-
-function webpackEmptyContext(req) {
-	throw new Error("Cannot find module '" + req + "'.");
-}
-webpackEmptyContext.keys = function() { return []; };
-webpackEmptyContext.resolve = webpackEmptyContext;
-module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 174;
-
-
-/***/ }),
-
-/***/ 274:
+/***/ 186:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ng_bootstrap_ng_bootstrap__ = __webpack_require__(248);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ng_bootstrap_ng_bootstrap__ = __webpack_require__(160);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlokaDetailView; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -233,28 +219,28 @@ __decorate([
 SlokaDetailView = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
         selector: 'sloka-detail-view',
-        template: __webpack_require__(598),
-        styles: [__webpack_require__(587)]
+        template: __webpack_require__(477),
+        styles: [__webpack_require__(466)]
     }),
     __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__ng_bootstrap_ng_bootstrap__["b" /* NgbModal */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1__ng_bootstrap_ng_bootstrap__["b" /* NgbModal */]) === "function" && _a || Object])
 ], SlokaDetailView);
 
 var _a;
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/sloka-detail-child.component.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/sloka-detail-child.component.js.map
 
 /***/ }),
 
-/***/ 275:
+/***/ 187:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(62);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(72);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__ = __webpack_require__(100);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__ = __webpack_require__(85);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__ = __webpack_require__(52);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__ = __webpack_require__(86);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SummaryService; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -305,19 +291,33 @@ SummaryService = __decorate([
 ], SummaryService);
 
 var _a;
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/summary.service.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/summary.service.js.map
 
 /***/ }),
 
-/***/ 361:
+/***/ 280:
+/***/ (function(module, exports) {
+
+function webpackEmptyContext(req) {
+	throw new Error("Cannot find module '" + req + "'.");
+}
+webpackEmptyContext.keys = function() { return []; };
+webpackEmptyContext.resolve = webpackEmptyContext;
+module.exports = webpackEmptyContext;
+webpackEmptyContext.id = 280;
+
+
+/***/ }),
+
+/***/ 281:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(408);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(287);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__environments_environment__ = __webpack_require__(423);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__app_app_module__ = __webpack_require__(414);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__environments_environment__ = __webpack_require__(302);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__app_app_module__ = __webpack_require__(293);
 
 
 
@@ -326,11 +326,11 @@ if (__WEBPACK_IMPORTED_MODULE_2__environments_environment__["a" /* environment *
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_core__["enableProdMode"])();
 }
 __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_3__app_app_module__["a" /* AppModule */]);
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/main.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/main.js.map
 
 /***/ }),
 
-/***/ 412:
+/***/ 291:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -356,17 +356,17 @@ var AboutComponent = (function () {
 AboutComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
         selector: 'app-about',
-        template: __webpack_require__(592),
-        styles: [__webpack_require__(581)]
+        template: __webpack_require__(471),
+        styles: [__webpack_require__(460)]
     }),
     __metadata("design:paramtypes", [])
 ], AboutComponent);
 
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/about.component.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/about.component.js.map
 
 /***/ }),
 
-/***/ 413:
+/***/ 292:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -388,42 +388,42 @@ var AppComponent = (function () {
 AppComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
         selector: 'app-root',
-        template: __webpack_require__(593),
-        styles: [__webpack_require__(582)]
+        template: __webpack_require__(472),
+        styles: [__webpack_require__(461)]
     })
 ], AppComponent);
 
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/app.component.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/app.component.js.map
 
 /***/ }),
 
-/***/ 414:
+/***/ 293:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(35);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(50);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_forms__ = __webpack_require__(18);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_http__ = __webpack_require__(62);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_material__ = __webpack_require__(389);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__angular_router__ = __webpack_require__(125);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__ng_bootstrap_ng_bootstrap__ = __webpack_require__(248);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_ng2_filter_pipe__ = __webpack_require__(578);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_forms__ = __webpack_require__(30);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_http__ = __webpack_require__(72);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_material__ = __webpack_require__(286);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__angular_router__ = __webpack_require__(94);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__ng_bootstrap_ng_bootstrap__ = __webpack_require__(160);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_ng2_filter_pipe__ = __webpack_require__(457);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_ng2_filter_pipe___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7_ng2_filter_pipe__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__app_component__ = __webpack_require__(413);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__contact_contact_component__ = __webpack_require__(415);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__slokas_slokas_component__ = __webpack_require__(420);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__sloka_details_sloka_details_component__ = __webpack_require__(419);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__home_home_component__ = __webpack_require__(416);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__about_about_component__ = __webpack_require__(412);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__preface_preface_component__ = __webpack_require__(418);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__poet_poet_component__ = __webpack_require__(417);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__summary_summary_component__ = __webpack_require__(422);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__source_source_component__ = __webpack_require__(421);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__sloka_details_sloka_detail_child_component__ = __webpack_require__(274);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__sloka_service_service__ = __webpack_require__(142);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__summary_service__ = __webpack_require__(275);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21_hammerjs__ = __webpack_require__(576);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__app_component__ = __webpack_require__(292);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__contact_contact_component__ = __webpack_require__(294);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__slokas_slokas_component__ = __webpack_require__(299);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__sloka_details_sloka_details_component__ = __webpack_require__(298);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__home_home_component__ = __webpack_require__(295);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__about_about_component__ = __webpack_require__(291);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__preface_preface_component__ = __webpack_require__(297);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__poet_poet_component__ = __webpack_require__(296);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__summary_summary_component__ = __webpack_require__(301);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__source_source_component__ = __webpack_require__(300);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__sloka_details_sloka_detail_child_component__ = __webpack_require__(186);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__sloka_service_service__ = __webpack_require__(111);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__summary_service__ = __webpack_require__(187);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21_hammerjs__ = __webpack_require__(455);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_21_hammerjs___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_21_hammerjs__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -496,7 +496,7 @@ AppModule = __decorate([
             __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
             __WEBPACK_IMPORTED_MODULE_2__angular_forms__["a" /* FormsModule */],
             __WEBPACK_IMPORTED_MODULE_3__angular_http__["a" /* HttpModule */],
-            __WEBPACK_IMPORTED_MODULE_4__angular_material__["MaterialModule"].forRoot(),
+            __WEBPACK_IMPORTED_MODULE_4__angular_material__["a" /* MaterialModule */],
             __WEBPACK_IMPORTED_MODULE_5__angular_router__["a" /* RouterModule */].forRoot(appRoutes, { useHash: true }),
             __WEBPACK_IMPORTED_MODULE_6__ng_bootstrap_ng_bootstrap__["a" /* NgbModule */].forRoot(),
             __WEBPACK_IMPORTED_MODULE_3__angular_http__["b" /* JsonpModule */],
@@ -507,11 +507,11 @@ AppModule = __decorate([
     })
 ], AppModule);
 
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/app.module.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/app.module.js.map
 
 /***/ }),
 
-/***/ 415:
+/***/ 294:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -537,17 +537,17 @@ var ContactComponent = (function () {
 ContactComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
         selector: 'app-contact',
-        template: __webpack_require__(594),
-        styles: [__webpack_require__(583)]
+        template: __webpack_require__(473),
+        styles: [__webpack_require__(462)]
     }),
     __metadata("design:paramtypes", [])
 ], ContactComponent);
 
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/contact.component.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/contact.component.js.map
 
 /***/ }),
 
-/***/ 416:
+/***/ 295:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -573,17 +573,17 @@ var HomeComponent = (function () {
 HomeComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
         selector: 'app-home',
-        template: __webpack_require__(595),
-        styles: [__webpack_require__(584)]
+        template: __webpack_require__(474),
+        styles: [__webpack_require__(463)]
     }),
     __metadata("design:paramtypes", [])
 ], HomeComponent);
 
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/home.component.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/home.component.js.map
 
 /***/ }),
 
-/***/ 417:
+/***/ 296:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -609,17 +609,17 @@ var PoetComponent = (function () {
 PoetComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
         selector: 'app-poet',
-        template: __webpack_require__(596),
-        styles: [__webpack_require__(585)]
+        template: __webpack_require__(475),
+        styles: [__webpack_require__(464)]
     }),
     __metadata("design:paramtypes", [])
 ], PoetComponent);
 
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/poet.component.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/poet.component.js.map
 
 /***/ }),
 
-/***/ 418:
+/***/ 297:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -645,28 +645,28 @@ var PrefaceComponent = (function () {
 PrefaceComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
         selector: 'app-preface',
-        template: __webpack_require__(597),
-        styles: [__webpack_require__(586)]
+        template: __webpack_require__(476),
+        styles: [__webpack_require__(465)]
     }),
     __metadata("design:paramtypes", [])
 ], PrefaceComponent);
 
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/preface.component.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/preface.component.js.map
 
 /***/ }),
 
-/***/ 419:
+/***/ 298:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(125);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__ = __webpack_require__(142);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_switchMap__ = __webpack_require__(323);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(94);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__ = __webpack_require__(111);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_switchMap__ = __webpack_require__(131);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_switchMap___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_switchMap__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_Rx__ = __webpack_require__(604);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_Rx__ = __webpack_require__(483);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_Rx___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_Rx__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__sloka_detail_child_component__ = __webpack_require__(274);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__sloka_detail_child_component__ = __webpack_require__(186);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlokaDetailsComponent; });
 /* unused harmony export SearchPipe */
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -776,8 +776,8 @@ __decorate([
 SlokaDetailsComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
         selector: 'app-sloka-details',
-        template: __webpack_require__(599),
-        styles: [__webpack_require__(588)]
+        template: __webpack_require__(478),
+        styles: [__webpack_require__(467)]
         //directives : [SlokaDetailView]
     }),
     __metadata("design:paramtypes", [typeof (_c = typeof __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__["a" /* SlokaService */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__["a" /* SlokaService */]) === "function" && _c || Object, typeof (_d = typeof __WEBPACK_IMPORTED_MODULE_1__angular_router__["b" /* Router */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1__angular_router__["b" /* Router */]) === "function" && _d || Object, typeof (_e = typeof __WEBPACK_IMPORTED_MODULE_1__angular_router__["c" /* ActivatedRoute */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1__angular_router__["c" /* ActivatedRoute */]) === "function" && _e || Object])
@@ -802,17 +802,17 @@ SearchPipe = __decorate([
 ], SearchPipe);
 
 var _a, _b, _c, _d, _e;
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/sloka-details.component.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/sloka-details.component.js.map
 
 /***/ }),
 
-/***/ 420:
+/***/ 299:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(125);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__ = __webpack_require__(142);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(94);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__ = __webpack_require__(111);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlokasComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -850,23 +850,23 @@ var SlokasComponent = (function () {
 SlokasComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
         selector: 'app-slokas',
-        template: __webpack_require__(600),
-        styles: [__webpack_require__(589)]
+        template: __webpack_require__(479),
+        styles: [__webpack_require__(468)]
     }),
     __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_router__["b" /* Router */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1__angular_router__["b" /* Router */]) === "function" && _a || Object, typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__["a" /* SlokaService */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__["a" /* SlokaService */]) === "function" && _b || Object])
 ], SlokasComponent);
 
 var _a, _b;
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/slokas.component.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/slokas.component.js.map
 
 /***/ }),
 
-/***/ 421:
+/***/ 300:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_marked__ = __webpack_require__(577);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_marked__ = __webpack_require__(456);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_marked___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_marked__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SourceComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -896,22 +896,22 @@ var SourceComponent = (function () {
 SourceComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
         selector: 'app-source',
-        template: __webpack_require__(601),
-        styles: [__webpack_require__(590)]
+        template: __webpack_require__(480),
+        styles: [__webpack_require__(469)]
     }),
     __metadata("design:paramtypes", [])
 ], SourceComponent);
 
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/source.component.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/source.component.js.map
 
 /***/ }),
 
-/***/ 422:
+/***/ 301:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__summary_service__ = __webpack_require__(275);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__summary_service__ = __webpack_require__(187);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SummaryComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -948,18 +948,18 @@ var SummaryComponent = (function () {
 SummaryComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
         selector: 'app-summary',
-        template: __webpack_require__(602),
-        styles: [__webpack_require__(591)]
+        template: __webpack_require__(481),
+        styles: [__webpack_require__(470)]
     }),
     __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__summary_service__["a" /* SummaryService */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1__summary_service__["a" /* SummaryService */]) === "function" && _a || Object])
 ], SummaryComponent);
 
 var _a;
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/summary.component.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/summary.component.js.map
 
 /***/ }),
 
-/***/ 423:
+/***/ 302:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -967,171 +967,171 @@ var _a;
 var environment = {
     production: true
 };
-//# sourceMappingURL=/Users/karunakar.medamoni/Karunakar/git_repos/sisupal/src/environment.prod.js.map
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/environment.prod.js.map
 
 /***/ }),
 
-/***/ 581:
+/***/ 460:
 /***/ (function(module, exports) {
 
 module.exports = ""
 
 /***/ }),
 
-/***/ 582:
+/***/ 461:
 /***/ (function(module, exports) {
 
-module.exports = ".navbar {\n    border-radius: 0 !important;\n}\n\n.body {\n    margin-top: 5%;\n}\n\n.nav-item a {\n    padding-left: 5px;\n    font-family: calibri;\n    font-size: 18px;\n}\n\nbody,\nhtml,\np,\ndiv,\na,\nspan,\nh1,\nh2,\nh3,\nh4,\nh5,\nli,\nul,\ninput[type='text'] {\n    font-family: Calibri;\n    font-size: 16px;\n}\n\n.menu {\n    width: 100%;\n    float: right;\n}\n\n.spacer {\n    -webkit-box-flex: 1;\n    -ms-flex: 1 1 auto;\n    flex: 1 1 auto;\n}"
+module.exports = ".navbar {\r\n    border-radius: 0 !important;\r\n}\r\n\r\n.body {\r\n    margin-top: 5%;\r\n}\r\n\r\n.nav-item a {\r\n    padding-left: 5px;\r\n    font-family: calibri;\r\n    font-size: 18px;\r\n}\r\n\r\nbody,\r\nhtml,\r\np,\r\ndiv,\r\na,\r\nspan,\r\nh1,\r\nh2,\r\nh3,\r\nh4,\r\nh5,\r\nli,\r\nul,\r\ninput[type='text'] {\r\n    font-family: Calibri;\r\n    font-size: 16px;\r\n}\r\n\r\n.menu {\r\n    width: 100%;\r\n    float: right;\r\n}\r\n\r\n.spacer {\r\n    -webkit-box-flex: 1;\r\n    -ms-flex: 1 1 auto;\r\n    flex: 1 1 auto;\r\n}"
 
 /***/ }),
 
-/***/ 583:
+/***/ 462:
 /***/ (function(module, exports) {
 
-module.exports = ".spacer {\n    -webkit-box-flex: 1;\n    -ms-flex: 1 1 auto;\n    flex: 1 1 auto;\n}"
+module.exports = ".spacer {\r\n    -webkit-box-flex: 1;\r\n    -ms-flex: 1 1 auto;\r\n    flex: 1 1 auto;\r\n}"
 
 /***/ }),
 
-/***/ 584:
+/***/ 463:
 /***/ (function(module, exports) {
 
-module.exports = ".img {\n    margin-top: 20px;\n    width: 400px;\n    height: 270px;\n    border-radius: 40%;\n}\n\n.text {\n    top: 4.2em;\n}\n\n.background {\n    padding: 10px;\n}"
+module.exports = ".img {\r\n    margin-top: 20px;\r\n    width: 400px;\r\n    height: 270px;\r\n    border-radius: 13%;\r\n}\r\n\r\n.text {\r\n    top: 4.2em;\r\n}\r\n\r\n.background {\r\n    padding: 10px;\r\n}"
 
 /***/ }),
 
-/***/ 585:
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ 586:
+/***/ 464:
 /***/ (function(module, exports) {
 
 module.exports = ""
 
 /***/ }),
 
-/***/ 587:
-/***/ (function(module, exports) {
-
-module.exports = ".A {\n    background: #ccffff;\n}\n\n.B {\n    background: #00FF7F;\n}\n\n.n1 {\n    background-color: #ccffff;\n}\n\n.n2 {\n    background-color: #00FF7F;\n    /*cadetblue*/\n}\n\n.n3 {\n    background-color: #eb613d;\n    /*lightpink*/\n}\n\n.n4 {\n    background-color: #e6ff00;\n    /*lightgolden*/\n}\n\n.n5 {\n    background-color: #1E90FF;\n    /*aquamarine*/\n}\n\n.n6 {\n    background-color: #FF69B4;\n    /*peach*/\n}\n\n.n7 {\n    background-color: #BC8F8F;\n    /*slategray*/\n}\n\n.v {\n    background-color: #FE6265;\n    /*darkseagreen*/\n}\n\n.i {\n    background-color: rgb(255, 240, 245);\n    /* lavender */\n}\n\n.n8 {\n    background-color: rgb(192, 255, 193);\n    /*darkseagreen #C0FFC1*/\n}\n\n.NA {\n    background-color: rgb(233, 207, 236);\n    /*lavendar  #E9CFEC(E6E6FA)*/\n}\n\n.help {\n    width: 25px;\n    height: 25px;\n    border-radius: 50%;\n    float: left\n}\n\n.hint {\n    width: 150px;\n    float: left;\n}\n\n.helpBar {\n    padding: 6px;\n}\n\n.helpBar div {\n    padding: 2px 5px;\n}\n\n.table {\n    float: left;\n    width: auto !important;\n    font-size: 13px;\n}\n\n.modal-dialog {\n    width: 100% !important;\n    margin: 30px auto;\n    max-width: 100% !important;\n}\n\n@media (min-width: 576px) .modal-dialog {\n    max-width: auto !important;\n    margin: 30px auto;\n}\n\n.modal-lg {\n    max-width: 80% !important;\n}"
-
-/***/ }),
-
-/***/ 588:
-/***/ (function(module, exports) {
-
-module.exports = "  .card {\n      margin-top: 5px;\n  }\n  \n  .list .list-group-item {\n      margin-top: 7px;\n      box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);\n      cursor: pointer;\n  }\n  \n  .list {\n      box-shadow: none;\n  }\n  \n  .items li {\n      font-size: 12.5px;\n  }"
-
-/***/ }),
-
-/***/ 589:
-/***/ (function(module, exports) {
-
-module.exports = ".items {\n    list-style-type: none;\n    padding: 2px;\n}\n\n.items li {\n    padding: 1.3em 0 !important;\n}\n\n.items.selected {\n    /* background:#efefef;\n    // color: #fff; */\n}\n\n.selected li {\n    background: #5782a5;\n    color: #fff;\n}"
-
-/***/ }),
-
-/***/ 590:
+/***/ 465:
 /***/ (function(module, exports) {
 
 module.exports = ""
 
 /***/ }),
 
-/***/ 591:
+/***/ 466:
 /***/ (function(module, exports) {
 
-module.exports = "#padding {\n    margin-top: 20px !important;\n    padding: 15px;\n    text-align: justify;\n    font-family: 'calibri', monospace, 'monaco';\n}\n\n.tab-content {\n    padding: 2em !important;\n    text-align: justify;\n}"
+module.exports = ".A {\r\n    background: #ccffff;\r\n}\r\n\r\n.B {\r\n    background: #00FF7F;\r\n}\r\n\r\n.n1 {\r\n    background-color: #ccffff;\r\n}\r\n\r\n.n2 {\r\n    background-color: #00FF7F;\r\n    /*cadetblue*/\r\n}\r\n\r\n.n3 {\r\n    background-color: #eb613d;\r\n    /*lightpink*/\r\n}\r\n\r\n.n4 {\r\n    background-color: #e6ff00;\r\n    /*lightgolden*/\r\n}\r\n\r\n.n5 {\r\n    background-color: #1E90FF;\r\n    /*aquamarine*/\r\n}\r\n\r\n.n6 {\r\n    background-color: #FF69B4;\r\n    /*peach*/\r\n}\r\n\r\n.n7 {\r\n    background-color: #BC8F8F;\r\n    /*slategray*/\r\n}\r\n\r\n.v {\r\n    background-color: #FE6265;\r\n    /*darkseagreen*/\r\n}\r\n\r\n.i {\r\n    background-color: rgb(255, 240, 245);\r\n    /* lavender */\r\n}\r\n\r\n.n8 {\r\n    background-color: rgb(192, 255, 193);\r\n    /*darkseagreen #C0FFC1*/\r\n}\r\n\r\n.NA {\r\n    background-color: rgb(233, 207, 236);\r\n    /*lavendar  #E9CFEC(E6E6FA)*/\r\n}\r\n\r\n.help {\r\n    width: 25px;\r\n    height: 25px;\r\n    border-radius: 50%;\r\n    float: left\r\n}\r\n\r\n.hint {\r\n    width: 150px;\r\n    float: left;\r\n}\r\n\r\n.helpBar {\r\n    padding: 6px;\r\n}\r\n\r\n.helpBar div {\r\n    padding: 2px 5px;\r\n}\r\n\r\n.table {\r\n    float: left;\r\n    width: auto !important;\r\n    font-size: 13px;\r\n}\r\n\r\n.modal-dialog {\r\n    width: 100% !important;\r\n    margin: 30px auto;\r\n    max-width: 100% !important;\r\n}\r\n\r\n@media (min-width: 576px) .modal-dialog {\r\n    max-width: auto !important;\r\n    margin: 30px auto;\r\n}\r\n\r\n.modal-lg {\r\n    max-width: 80% !important;\r\n}"
 
 /***/ }),
 
-/***/ 592:
+/***/ 467:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col-md-12\">\n    <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\n        <li class=\"breadcrumb-item active\">About Us</li>\n    </ol>\n\n\n\n    <div class=\"intro-text animated slideInRight\">\n\n        <p>This is a project of Post Doctoral Research approved by U.G.C., on <code>Śiśupālavadha of Māgha</code> through a complete computational linguistic approach, being done by <code>Dr. Ryali Anupama</code> under the mentorship of<code>Prof. Amba Kulkarni</code>. It helps those Sanskrit lovers, who want to learn or teach the kāvya through the approach of khandānvaya. Several tools for analysis of Sanskrit texts have been made available by the consortium of Sanskrit Hindi Machine Translation led by University of Hyderabad, Hyderabad, at <a href=\"http://sanskrit.uohyd.ac.in/scl\" target=\"_blank\">http://sanskrit.uohyd.ac.in/scl</a> . Use of these tools will facilitate the poetic usability for a linguist and also for a learner. Thus using these tools, a complete analysis of Śiśupālavadha of Māgha is being developed by creating a web version, which serves the purpose of research, education, teaching and evaluation. Software/Tools used -\n        </p>\n        <p>The main interface that will be used in the project is anusāraka. It provides -</p>\n        <ol>\n\n            <li>User controlled access to various levels of analysis.</li>\n            <li>Link to various dictionaries for meanings of the head words.</li>\n            <li>Graphical display of phrase structure analysis of compounds.</li>\n            <li>Graphical display of sentential analysis.</li>\n        </ol>\n        <p>This provides a user a digitized learning/understanding environment. Apart from this, various other tools such as Transliteration, Sandhi – splitter, Morphological generator, Morphological analyzer, Sanskrit Hindi Machine Translation System etc., will be used. These are created by CGA programming in HTML of Apache Server.</p>\n\n    </div>\n</div>"
+module.exports = "  .card {\r\n      margin-top: 5px;\r\n  }\r\n  \r\n  .list .list-group-item {\r\n      margin-top: 7px;\r\n      box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);\r\n      cursor: pointer;\r\n  }\r\n  \r\n  .list {\r\n      box-shadow: none;\r\n  }\r\n  \r\n  .items li {\r\n      font-size: 12.5px;\r\n  }"
 
 /***/ }),
 
-/***/ 593:
+/***/ 468:
 /***/ (function(module, exports) {
 
-module.exports = "<!-- <md-toolbar color=\"primary\">\n    <span>शिशुपालवधम् - माघः (Śiśupālavadha of Māgha)</span>\n    <span class=\"spacer\"></span>\n    <button md-icon-button [mdMenuTriggerFor]=\"menu\" md->\n        <md-icon>more_vert</md-icon>\n    </button>\n    <md-menu #menu=\"mdMenu\">\n\n        <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/home\" routerLinkActive=\"true\">Home</a> </li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/about\" routerLinkActive=\"true\">About</a></li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/preface\" routerLinkActive=\"true\">Preface</a></li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/canto\" routerLinkActive=\"true\">Cantos</a></li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/poet\" routerLinkActive=\"true\">The Poet</a></li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/source\" routerLinkActive=\"true\">Source Epic</a></li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/summary\" routerLinkActive=\"true\">Summaries</a></li>\n\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/contact\" routerLinkActive=\"true\">Contact Us</a> </li> \n\n        <button md-menu-item routerLink=\"/home\" routerLinkActive=\"true\">\n            <md-icon>home</md-icon>\n            <span>Home</span>\n        </button>\n\n        <button md-menu-item routerLink=\"/about\" routerLinkActive=\"true\">\n            <md-icon>fingerprint</md-icon>\n            <span>About</span>\n        </button>\n\n        <button md-menu-item routerLink=\"/preface\" routerLinkActive=\"true\">\n            <md-icon>fingerprint</md-icon>\n            <span>Preface</span>\n        </button>\n\n        <button md-menu-item routerLink=\"/canto\" routerLinkActive=\"true\">\n            <md-icon>fingerprint</md-icon>\n            <span>Cantos</span>\n        </button>\n\n        <button md-menu-item routerLink=\"/poet\" routerLinkActive=\"true\">\n            <md-icon>fingerprint</md-icon>\n            <span>The Poet</span>\n        </button>\n\n        <button md-menu-item routerLink=\"/source\" routerLinkActive=\"true\">\n            <md-icon>fingerprint</md-icon>\n            <span>Source</span>\n        </button>\n\n        <button md-menu-item routerLink=\"/summary\" routerLinkActive=\"true\">\n            <md-icon>fingerprint</md-icon>\n            <span>Summary</span>\n        </button>\n\n    </md-menu>\n</md-toolbar> -->\n\n<nav class=\"navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top\">\n    <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n        <span class=\"navbar-toggler-icon\"></span>\n    </button>\n    <a class=\"navbar-brand\" href=\"#\"><span class=\"name\">शिशुपालवधम् - माघः (Śiśupālavadha of Māgha)</span></a>\n\n    <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n        <ul class=\"justify-content-center nav navbar-nav mr-auto  menu\">\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/home\" routerLinkActive=\"true\">Home</a> </li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/about\" routerLinkActive=\"true\">About</a></li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/preface\" routerLinkActive=\"true\">Preface</a></li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/canto\" routerLinkActive=\"true\">Cantos</a></li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/poet\" routerLinkActive=\"true\">The Poet</a></li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/source\" routerLinkActive=\"true\">Source Epic</a></li>\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/summary\" routerLinkActive=\"true\">Summaries</a></li>\n\n\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/contact\" routerLinkActive=\"true\">Contact Us</a> </li>\n        </ul>\n        <!-- <form class=\"form-inline my-2 my-lg-0\">\n            <input class=\"form-control mr-sm-2\" type=\"text\" placeholder=\"Search\">\n            <button class=\"btn btn-outline-success my-2 my-sm-0\" type=\"submit\">Search</button>\n        </form> -->\n    </div>\n</nav>\n\n<!-- \n<nav class=\"navbar navbar-inverse bg-inverse sticky-top \">\n    <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n        <span class=\"navbar-toggler-icon\"></span>\n    </button>\n    <a class=\"navbar-brand\" href=\"#\">{{title}}</a>\n\n    <div class=\"navbar-collapse\" id=\"navbarSupportedContent\">\n\n        <ul class=\" nav nav- \">\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/home\" routerLinkActive=\"true\">Home</a> </li>\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/about\" routerLinkActive=\"true\">About</a></li>\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/canto\" routerLinkActive=\"true\">Cantos</a></li>\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/contact\" routerLinkActive=\"true\">Contact</a> </li>\n\n        </ul>\n\n    </div>\n\n\n</nav>\n\n  -->\n<div class=\"container-fluid body \">\n\n    <router-outlet></router-outlet>\n\n\n</div>\n\n\n\n<footer class=\"footer\">\n    <div class=\"container\">\n        <p class=\"text-muted\"> &copy; 2016-2020 : Dr. Ryali Anupama </p>\n    </div>\n</footer>"
+module.exports = ".items {\r\n    list-style-type: none;\r\n    padding: 2px;\r\n}\r\n\r\n.items li {\r\n    padding: 1.3em 0 !important;\r\n}\r\n\r\n.items.selected {\r\n    /* background:#efefef;\r\n    // color: #fff; */\r\n}\r\n\r\n.selected li {\r\n    background: #5782a5;\r\n    color: #fff;\r\n}\r\n\r\n.hide {\r\n    display:none;\r\n}"
 
 /***/ }),
 
-/***/ 594:
+/***/ 469:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col-md-12\">\n    <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\n        <li class=\"breadcrumb-item active\">Contact</li>\n    </ol>\n\n    <!--\n    <md-toolbar color=\"primary\">\n        <span>GameViewer</span>\n        <span class=\"spacer\"></span>\n        <button md-icon-button [mdMenuTriggerFor]=\"menu\">\n            <md-icon>more_vert</md-icon>\n        </button>\n        <md-menu #menu=\"mdMenu\">\n\n            <button md-menu-item routerLink=\"/home\" routerLinkActive=\"true\">\n                <md-icon>home</md-icon>\n                <span>Home</span>\n            </button>\n\n            <button md-menu-item routerLink=\"/about\" routerLinkActive=\"true\">\n                <md-icon>fingerprint</md-icon>\n                <span>About</span>\n            </button>\n\n            <button md-menu-item routerLink=\"/preface\" routerLinkActive=\"true\">\n                <md-icon>fingerprint</md-icon>\n                <span>Preface</span>\n            </button>\n\n            <button md-menu-item routerLink=\"/canto\" routerLinkActive=\"true\">\n                <md-icon>fingerprint</md-icon>\n                <span>Cantos</span>\n            </button>\n\n            <button md-menu-item routerLink=\"/poet\" routerLinkActive=\"true\">\n                <md-icon>fingerprint</md-icon>\n                <span>The Poet</span>\n            </button>\n\n            <button md-menu-item routerLink=\"/source\" routerLinkActive=\"true\">\n                <md-icon>fingerprint</md-icon>\n                <span>Source</span>\n            </button>\n\n            <button md-menu-item routerLink=\"/summary\" routerLinkActive=\"true\">\n                <md-icon>fingerprint</md-icon>\n                <span>Summary</span>\n            </button>\n\n        </md-menu>\n    </md-toolbar>\n\n-->\n    <div class=\"container\">\n\n\n        <div class=\"row justify-content-md-center\">\n\n            <div class=\"col-12 col-md-auto\">\n\n                <div class=\"form-group row\">\n\n                    <div class=\"col-md-12\">\n                        <input type=\"email\" class=\"form-control\" id=\"inputEmail3\" placeholder=\"Email\">\n                    </div>\n                </div>\n                <div class=\"form-group row\">\n                    <div class=\"col-md-12\">\n                        <input type=\"password\" class=\"form-control\" id=\"inputPassword3\" placeholder=\"Password\">\n                    </div>\n                </div>\n\n                <div class=\"form-group row\">\n\n                    <textarea class=\"form-control\" width=\"100%\"></textarea>\n\n                </div>\n\n\n                <div class=\"form-group row\">\n                    <label class=\"col-sm-2\">Checkbox</label>\n                    <div class=\"col-sm-10\">\n                        <div class=\"form-check\">\n                            <label class=\"form-check-label\">\n                                <input class=\"form-check-input\" type=\"checkbox\"> Check me out\n                            </label>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"form-group row\">\n                    <div class=\"offset-sm-2 col-sm-10\">\n                        <button type=\"submit\" class=\"btn btn-primary\"> Submit </button>\n                    </div>\n                </div>\n\n\n            </div>\n\n        </div>\n\n\n        <!--  <md-toolbar color=\"primary\">\n            <span>GameViewer</span>\n        </md-toolbar>\n\n        <md-tab-group>\n            <md-tab label=\"Gallery\">\n\n            </md-tab>\n            <md-tab label=\"Settings\">\n\n            </md-tab>\n        </md-tab-group> -->\n\n\n    </div>\n\n\n</div>"
+module.exports = ""
 
 /***/ }),
 
-/***/ 595:
+/***/ 470:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col-md-12 intro-text animated fadeIn\">\n    <div class=\"col-md-12 text-center\">\n        <h2> <span class=\"name\">शिशुपालवधम् - माघः (Śiśupālavadha of Māgha)</span></h2>\n    </div>\n    <div class=\"col-md-12 row background \">\n\n\n        <div class=\"col-lg-6 col-md-6 col-xs-12 col-sm-12 animated fadeInLeft text-center\">\n\n            <img src=\"../../assets/cover.jpg\" class=\"img-responsive img\">\n\n        </div>\n\n\n        <div class=\"col-lg-6 col-md-6 col-xs-12 col-sm-12 animated fadeInRight text\">\n\n            <p>\n\n                Welcome to the e-version of <code>Śiśupālavadha of Māgha</code>. The e-version captures salient features of the book viz. पदपाठः (padapāṭhaḥ) पदपरिचयः (padaparicayaḥ) अन्वयः (anvayaḥ) style of understanding a text, and present them in e-form. The advantage of e-version is that the reader has full control over the interface and can choose to display only the relevent part. In addition to these, pictorial representation of the कारक (kāraka) analysis as well as समास (samāsa) analysis is provided. The समास-विग्रह (samāsa-vigrah) is available as a tool-tip along with the picture showing the composition. By placing a cursor on the समास (samāsa), one gets this information. The कारक (kāraka) analysis is available as a link to the sentence numbers.\n            </p>\n\n\n        </div>\n\n\n\n\n\n    </div>\n    <!-- <div class=\"col-md-12 text-center\">\n        <button class=\"btn btn-lg btn-danger\" ng-click=\"home()\">Śiśupālavadha of Māgha</button>\n    </div> -->\n\n</div>"
+module.exports = "#padding {\r\n    margin-top: 20px !important;\r\n    padding: 15px;\r\n    text-align: justify;\r\n    font-family: 'calibri', monospace, 'monaco';\r\n}\r\n\r\n.tab-content {\r\n    padding: 2em !important;\r\n    text-align: justify;\r\n}"
 
 /***/ }),
 
-/***/ 596:
+/***/ 471:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col-md-12\">\n    <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\n        <li class=\"breadcrumb-item active\">Poet</li>\n    </ol>\n\n\n    <div class=\"intro-text animated slideInUp\">\n\n        <p>\n            Māgha's Śiśupālavadha occupies a prominent place among the kāvyas of bṛhattrayī and pañcamahākāvyas of Sanskrit literature. Though, it is the only known available work of the poet, he is called Mahākavi, as it possesses all the virtues of a Mahākāvya. This work closes with the words,<code> 'इति श्रीभिन्नमालवास्तव्यदत्तकसूनोर्महावैय्याकरणस्य माघस्य कृतौ शिशुपालवधे'. </code> In these closing stanzas of his work he discloses about his clan with one or two particulars that he was the son of Dattaka and grandson of Suprabhadeva, where the latter was the chief minister at the court of king Śrī Varmala.</p>\n\n        <p>The word <code> 'महावैय्याकरणस्य' </code>in the above extract shows that the poet earned the reputation of being erudite in the science of vyākaraṇa. Moreover, his mastery on the science of vyākaraṇa is evidenced by his work itself. The variety of grammatical forms and constructions which he uses, the illustrations and similitudes with which he embellishes or substantiates his ideas through out the poem, the learned discussion on the morality and expediency of war in the second canto – all these bear ample testimony to his thorough acquaintance with the subject and thus, undoubtedly can be proclaimed as a profound scholar.\n        </p>\n        <p>Thus, being a very celebrated poet, he accomodated various aspects of many śāstras such as vyākaraṇa, rājanīti, arthaśāstra, dharmaśāstra, kāmaśāstra, jyautiṣa, saṅgīta, pākaśāstra, hastividyā, aśvaśāstra, purāṇas etc., in this grand epic. The kāvya is endowed with the three important virtues of a best kāvya, i.e., Upamā of kālidāsa, Arthagauravam of Bhāravi and Padalālityam of Daṇḍi. Hence, the popular notion 'māghe santi trayo guṇāḥ' came into existence. Mallinātha a famous commentator of this work, quoted on Māgha, 'navasarge gate māghe nava śabdo na vidyate' i.e., one who completes reading nine cantos of Māgha, will not find a new word to read. He also quoted - 'māghe meghe vayaṃ gataḥ' meaning, we will be lost in understanding Māghakāvya and Meghadūta.</p>\n\n    </div>\n\n</div>"
+module.exports = "<div class=\"col-md-12\">\r\n    <ol class=\"breadcrumb\">\r\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\r\n        <li class=\"breadcrumb-item active\">About Us</li>\r\n    </ol>\r\n\r\n\r\n\r\n    <div class=\"intro-text animated slideInRight\">\r\n\r\n        <p>This is a project of Post Doctoral Research approved by U.G.C., on <code>Śiśupālavadha of Māgha</code> through a complete computational linguistic approach, being done by <code>Dr. Ryali Anupama</code> under the mentorship of<code>Prof. Amba Kulkarni</code>. It helps those Sanskrit lovers, who want to learn or teach the kāvya through the approach of khandānvaya. Several tools for analysis of Sanskrit texts have been made available by the consortium of Sanskrit Hindi Machine Translation led by University of Hyderabad, Hyderabad, at <a href=\"http://sanskrit.uohyd.ac.in/scl\" target=\"_blank\">http://sanskrit.uohyd.ac.in/scl</a> . Use of these tools will facilitate the poetic usability for a linguist and also for a learner. Thus using these tools, a complete analysis of Śiśupālavadha of Māgha is being developed by creating a web version, which serves the purpose of research, education, teaching and evaluation. Software/Tools used -\r\n        </p>\r\n        <p>The main interface that will be used in the project is anusāraka. It provides -</p>\r\n        <ol>\r\n\r\n            <li>User controlled access to various levels of analysis.</li>\r\n            <li>Link to various dictionaries for meanings of the head words.</li>\r\n            <li>Graphical display of phrase structure analysis of compounds.</li>\r\n            <li>Graphical display of sentential analysis.</li>\r\n        </ol>\r\n        <p>This provides a user a digitized learning/understanding environment. Apart from this, various other tools such as Transliteration, Sandhi – splitter, Morphological generator, Morphological analyzer, Sanskrit Hindi Machine Translation System etc., will be used. These are created by CGA programming in HTML of Apache Server.</p>\r\n\r\n    </div>\r\n</div>"
 
 /***/ }),
 
-/***/ 597:
+/***/ 472:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col-md-12\">\n    <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\n        <li class=\"breadcrumb-item active\">Preface</li>\n    </ol>\n\n\n\n    <div class=\"intro-text animated slideInDown\">\n\n        <p>\n            <code>Śiśupālavadha of Māgha </code> consists of twenty cantos and occupies a prominent role among the kāvyas of bṛhattrayī and pañcachamahākāvyas of Sanskrit literature. So, it would be essential for any ardent Sanskrit learner to read and understand this work. In order to learn or to understand any Sanskrit text one basically goes through the steps, namely, Parts of speech of a word, it's Annotation of sandhi, Compound word analyzer, Morphological Analysis, Tagging of Sentential relations, Verse to prose word order generator etc., To accomplish all these, in the present project the methodology of tagging is adopted. The existing tools are used for generating the tagged output. These tools show up all possible tags, prioritized on their probabilities. Thus, with the help of this kind of anusāraka an interested reader can have complete analysis of any verse of Śiśupālavadha of Māgha at various levels. <code>\"Mallinātha's sarvaṅkaṣā\n\t\t\t\t\tcommentary, Chowkāmbha Publications for Hindi and English (only\n\t\t\t\t\tfrom cantos I-IV) translations are taken as reliable sources for\n\t\t\t\t\tcommentary and translation\"</code>.\n        </p>\n        <p>Thus this work with Hindi and English translation will be made available in e-version format which allows a reader to navigate through all the above mentioned steps and understand the text in a better way.</p>\n\n    </div>\n\n</div>"
+module.exports = "<!-- <md-toolbar color=\"primary\">\r\n    <span>शिशुपालवधम् - माघः (Śiśupālavadha of Māgha)</span>\r\n    <span class=\"spacer\"></span>\r\n    <button md-icon-button [mdMenuTriggerFor]=\"menu\" md->\r\n        <md-icon>more_vert</md-icon>\r\n    </button>\r\n    <md-menu #menu=\"mdMenu\">\r\n\r\n        <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/home\" routerLinkActive=\"true\">Home</a> </li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/about\" routerLinkActive=\"true\">About</a></li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/preface\" routerLinkActive=\"true\">Preface</a></li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/canto\" routerLinkActive=\"true\">Cantos</a></li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/poet\" routerLinkActive=\"true\">The Poet</a></li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/source\" routerLinkActive=\"true\">Source Epic</a></li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/summary\" routerLinkActive=\"true\">Summaries</a></li>\r\n\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/contact\" routerLinkActive=\"true\">Contact Us</a> </li> \r\n\r\n        <button md-menu-item routerLink=\"/home\" routerLinkActive=\"true\">\r\n            <md-icon>home</md-icon>\r\n            <span>Home</span>\r\n        </button>\r\n\r\n        <button md-menu-item routerLink=\"/about\" routerLinkActive=\"true\">\r\n            <md-icon>fingerprint</md-icon>\r\n            <span>About</span>\r\n        </button>\r\n\r\n        <button md-menu-item routerLink=\"/preface\" routerLinkActive=\"true\">\r\n            <md-icon>fingerprint</md-icon>\r\n            <span>Preface</span>\r\n        </button>\r\n\r\n        <button md-menu-item routerLink=\"/canto\" routerLinkActive=\"true\">\r\n            <md-icon>fingerprint</md-icon>\r\n            <span>Cantos</span>\r\n        </button>\r\n\r\n        <button md-menu-item routerLink=\"/poet\" routerLinkActive=\"true\">\r\n            <md-icon>fingerprint</md-icon>\r\n            <span>The Poet</span>\r\n        </button>\r\n\r\n        <button md-menu-item routerLink=\"/source\" routerLinkActive=\"true\">\r\n            <md-icon>fingerprint</md-icon>\r\n            <span>Source</span>\r\n        </button>\r\n\r\n        <button md-menu-item routerLink=\"/summary\" routerLinkActive=\"true\">\r\n            <md-icon>fingerprint</md-icon>\r\n            <span>Summary</span>\r\n        </button>\r\n\r\n    </md-menu>\r\n</md-toolbar> -->\r\n\r\n<nav class=\"navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top\">\r\n    <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n        <span class=\"navbar-toggler-icon\"></span>\r\n    </button>\r\n    <a class=\"navbar-brand\" href=\"#\"><span class=\"name\">शिशुपालवधम् - माघः (Śiśupālavadha of Māgha)</span></a>\r\n\r\n    <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\r\n        <ul class=\"justify-content-center nav navbar-nav mr-auto  menu\">\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/home\" routerLinkActive=\"true\">Home</a> </li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/about\" routerLinkActive=\"true\">About</a></li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/preface\" routerLinkActive=\"true\">Preface</a></li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/canto\" routerLinkActive=\"true\">Cantos</a></li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/poet\" routerLinkActive=\"true\">The Poet</a></li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/source\" routerLinkActive=\"true\">Source Epic</a></li>\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/summary\" routerLinkActive=\"true\">Summaries</a></li>\r\n\r\n\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/contact\" routerLinkActive=\"true\">Contact Us</a> </li>\r\n        </ul>\r\n        <!-- <form class=\"form-inline my-2 my-lg-0\">\r\n            <input class=\"form-control mr-sm-2\" type=\"text\" placeholder=\"Search\">\r\n            <button class=\"btn btn-outline-success my-2 my-sm-0\" type=\"submit\">Search</button>\r\n        </form> -->\r\n    </div>\r\n</nav>\r\n\r\n<!-- \r\n<nav class=\"navbar navbar-inverse bg-inverse sticky-top \">\r\n    <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n        <span class=\"navbar-toggler-icon\"></span>\r\n    </button>\r\n    <a class=\"navbar-brand\" href=\"#\">{{title}}</a>\r\n\r\n    <div class=\"navbar-collapse\" id=\"navbarSupportedContent\">\r\n\r\n        <ul class=\" nav nav- \">\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/home\" routerLinkActive=\"true\">Home</a> </li>\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/about\" routerLinkActive=\"true\">About</a></li>\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/canto\" routerLinkActive=\"true\">Cantos</a></li>\r\n            <li class=\"nav-item\"> <a class=\"nav-link\" routerLink=\"/contact\" routerLinkActive=\"true\">Contact</a> </li>\r\n\r\n        </ul>\r\n\r\n    </div>\r\n\r\n\r\n</nav>\r\n\r\n  -->\r\n<div class=\"container-fluid body \">\r\n\r\n    <router-outlet></router-outlet>\r\n\r\n\r\n</div>\r\n\r\n\r\n\r\n<footer class=\"footer\">\r\n    <div class=\"container\">\r\n        <p class=\"text-muted\"> &copy; 201-2018 : Dr. Ryali Anupama </p>\r\n    </div>\r\n</footer>"
 
 /***/ }),
 
-/***/ 598:
+/***/ 473:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col-md-12 helpBar row\">\n\n    <div class=\"col-md-2\">\n        <div class=\"n1 help\"></div>\n        <div style=\"width: auto; font-size: 14px;\">प्रथमा विभक्तिः</div>\n    </div>\n    <div class=\"col-md-2\">\n        <div class=\"n2 help\"></div>\n        <div style=\"width: auto; font-size: 14px;\">द्वितीया विभक्तिः </div>\n    </div>\n\n    <div class=\"col-md-2\">\n        <div class=\"n3 help\"></div>\n        <div style=\"width: auto; font-size: 14px;\">तृतीया विभक्तिः</div>\n    </div>\n    <div class=\"col-md-2\">\n        <div class=\"n4 help\"></div>\n        <div style=\"width: auto; font-size: 14px;\">चतुर्थी विभक्तिः </div>\n    </div>\n    <div class=\"col-md-2\">\n        <div class=\"n5 help\"></div>\n        <div style=\"width: auto; font-size: 14px;\">पञ्चमी विभक्तिः </div>\n    </div>\n    <div class=\"col-md-2\">\n        <div class=\"n6 help\"></div>\n        <div style=\"width: auto; font-size: 14px;\"> षष्ठी विभक्तिः</div>\n    </div>\n\n\n\n    <div class=\"col-md-2\">\n        <div class=\"n7 help\"></div>\n        <div style=\"width: auto; font-size: 14px;\">सप्तमी विभक्तिः</div>\n    </div>\n    <div class=\"col-md-2\">\n        <div class=\"v help\"></div>\n        <div style=\"width: auto; font-size: 14px;\">verb</div>\n    </div>\n\n    <div class=\"col-md-3\">\n        <div class=\"n8 help\"></div>\n        <div style=\"width: auto; font-size: 14px;\">सम्बोधना प्रथमा विभक्तिः</div>\n    </div>\n    <div class=\"col-md-2\">\n        <div class=\"NA help\"></div>\n        <div style=\"width: auto; font-size: 14px;\">NA</div>\n    </div>\n</div>\n\n<div class=\"row\">\n    <div class=\"col-md-12 row\">\n        <div class=\"col-md-2\">\n            <fieldset class=\"form-group\">\n                <input type=\"checkbox\" id=\"checkbox3\" [checked]=\"row1\" (change)=\"showRow($event.target.checked,'row1')\">\n                <label for=\"checkbox3\" class=\"disabled\">पदपाठः (A)</label>\n            </fieldset>\n        </div>\n        <div class=\"col-md-2\">\n            <fieldset class=\"form-group\">\n                <input type=\"checkbox\" class=\"filled-in\" id=\"checkbox4\" [checked]=\"row2\" (change)=\"showRow($event.target.checked,'row2')\">\n                <label for=\"checkbox4\" class=\"disabled\">संस्कृतम् (B)</label>\n            </fieldset>\n        </div>\n\n        <div class=\"col-md-2\">\n            <fieldset class=\"form-group\">\n                <input type=\"checkbox\" id=\"checkbox3\" [checked]=\"row3\" (change)=\"showRow($event.target.checked,'row3')\">\n                <label for=\"checkbox3\" class=\"disabled\">विभक्तिः (C)</label>\n            </fieldset>\n        </div>\n        <div class=\"col-md-2\">\n            <fieldset class=\"form-group\">\n                <input type=\"checkbox\" class=\"filled-in\" id=\"checkbox4\" [checked]=\"row4\" (change)=\"showRow($event.target.checked,'row4')\">\n                <label for=\"checkbox4\" class=\"disabled\">शब्दविश्लेषणम् (D)</label>\n            </fieldset>\n        </div>\n        <div class=\"col-md-2\">\n            <fieldset class=\"form-group\">\n                <input type=\"checkbox\" id=\"checkbox3\" [checked]=\"row5\" (change)=\"showRow($event.target.checked,'row5')\">\n                <label for=\"checkbox3\" class=\"disabled\">हिन्दी-विभक्तिः (E)</label>\n            </fieldset>\n        </div>\n        <div class=\"col-md-2\">\n            <fieldset class=\"form-group\">\n                <input type=\"checkbox\" class=\"filled-in\" id=\"checkbox4\" [checked]=\"row6\" (change)=\"showRow($event.target.checked,'row6')\">\n                <label for=\"checkbox4\" class=\"disabled\">हिन्दी अर्थ(F)</label>\n            </fieldset>\n        </div>\n        <div class=\"col-md-2\">\n            <fieldset class=\"form-group\">\n                <input type=\"checkbox\" id=\"checkbox3\" [checked]=\"row7\" (change)=\"showRow($event.target.checked,'row7')\">\n                <label for=\"checkbox3\" class=\"disabled\">Meaning(G)</label>\n            </fieldset>\n        </div>\n        <div class=\"col-md-2\">\n            <!--  <md-checkbox class=\"example-margin\" [checked]=\"row8\" (change)=\"showRow($event.target.checked,'row8')\">Samasa(H)</md-checkbox> -->\n\n            <fieldset class=\"form-group\">\n\n\n                <input type=\"checkbox\" class=\"filled-in\" id=\"checkbox4\" [checked]=\"row8\" (change)=\"showRow($event.target.checked,'row8')\">\n                <label for=\"checkbox4\" class=\"disabled\">Samasa(H)</label>\n            </fieldset>\n        </div>\n    </div>\n    <div class=\"col-md-12\">\n        <div *ngIf=\"slokaTranslation\">\n\n            <table *ngFor=\"let table of slokaTranslation\" class=\"table\">\n                <tr *ngFor=\"let row of table.trRows\">\n                    <td *ngFor=\"let td of row.tdColumns\" class=\"{{td.className}}\" [hidden]=\"show(td.row)\">\n\n                        <span *ngIf=\"td.tooltipImage\" [innerHTML]=\"td.data\" (mouseover)=\"mouseEnter(td.tooltipImage,content)\"></span>\n                        <span *ngIf=\"!td.tooltipImage\" [innerHTML]=\"td.data\"></span>\n                    </td>\n                </tr>\n            </table>\n        </div>\n    </div>\n</div>\n\n\n\n<ng-template #content let-c=\"close\" let-d=\"dismiss\">\n    <div class=\"modal-header\">\n        <button type=\"button\" class=\"close\" aria-label=\"Close\" (click)=\"d('Cross click')\">\n            <span aria-hidden=\"true\">&times;</span>\n        </button>\n    </div>\n    <div class=\"modal-body\">\n        <img src=\"assets/{{showImagePath}}\" class=\"img-fluid mx-auto d-block\">\n    </div>\n</ng-template>"
+module.exports = "<div class=\"col-md-12\">\r\n    <ol class=\"breadcrumb\">\r\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\r\n        <li class=\"breadcrumb-item active\">Contact</li>\r\n    </ol>\r\n\r\n    <!--\r\n    <md-toolbar color=\"primary\">\r\n        <span>GameViewer</span>\r\n        <span class=\"spacer\"></span>\r\n        <button md-icon-button [mdMenuTriggerFor]=\"menu\">\r\n            <md-icon>more_vert</md-icon>\r\n        </button>\r\n        <md-menu #menu=\"mdMenu\">\r\n\r\n            <button md-menu-item routerLink=\"/home\" routerLinkActive=\"true\">\r\n                <md-icon>home</md-icon>\r\n                <span>Home</span>\r\n            </button>\r\n\r\n            <button md-menu-item routerLink=\"/about\" routerLinkActive=\"true\">\r\n                <md-icon>fingerprint</md-icon>\r\n                <span>About</span>\r\n            </button>\r\n\r\n            <button md-menu-item routerLink=\"/preface\" routerLinkActive=\"true\">\r\n                <md-icon>fingerprint</md-icon>\r\n                <span>Preface</span>\r\n            </button>\r\n\r\n            <button md-menu-item routerLink=\"/canto\" routerLinkActive=\"true\">\r\n                <md-icon>fingerprint</md-icon>\r\n                <span>Cantos</span>\r\n            </button>\r\n\r\n            <button md-menu-item routerLink=\"/poet\" routerLinkActive=\"true\">\r\n                <md-icon>fingerprint</md-icon>\r\n                <span>The Poet</span>\r\n            </button>\r\n\r\n            <button md-menu-item routerLink=\"/source\" routerLinkActive=\"true\">\r\n                <md-icon>fingerprint</md-icon>\r\n                <span>Source</span>\r\n            </button>\r\n\r\n            <button md-menu-item routerLink=\"/summary\" routerLinkActive=\"true\">\r\n                <md-icon>fingerprint</md-icon>\r\n                <span>Summary</span>\r\n            </button>\r\n\r\n        </md-menu>\r\n    </md-toolbar>\r\n\r\n-->\r\n    <div class=\"container\">\r\n\r\n\r\n        <div class=\"row justify-content-md-center\">\r\n\r\n            <div class=\"col-12 col-md-auto\">\r\n\r\n                <div class=\"form-group row\">\r\n\r\n                    <div class=\"col-md-12\">\r\n                        <input type=\"email\" class=\"form-control\" id=\"inputEmail3\" placeholder=\"Email\">\r\n                    </div>\r\n                </div>\r\n                <div class=\"form-group row\">\r\n                    <div class=\"col-md-12\">\r\n                        <input type=\"password\" class=\"form-control\" id=\"inputPassword3\" placeholder=\"Password\">\r\n                    </div>\r\n                </div>\r\n\r\n                <div class=\"form-group row\">\r\n\r\n                    <textarea class=\"form-control\" width=\"100%\"></textarea>\r\n\r\n                </div>\r\n\r\n\r\n                <div class=\"form-group row\">\r\n                    <label class=\"col-sm-2\">Checkbox</label>\r\n                    <div class=\"col-sm-10\">\r\n                        <div class=\"form-check\">\r\n                            <label class=\"form-check-label\">\r\n                                <input class=\"form-check-input\" type=\"checkbox\"> Check me out\r\n                            </label>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n                <div class=\"form-group row\">\r\n                    <div class=\"offset-sm-2 col-sm-10\">\r\n                        <button type=\"submit\" class=\"btn btn-primary\"> Submit </button>\r\n                    </div>\r\n                </div>\r\n\r\n\r\n            </div>\r\n\r\n        </div>\r\n\r\n\r\n        <!--  <md-toolbar color=\"primary\">\r\n            <span>GameViewer</span>\r\n        </md-toolbar>\r\n\r\n        <md-tab-group>\r\n            <md-tab label=\"Gallery\">\r\n\r\n            </md-tab>\r\n            <md-tab label=\"Settings\">\r\n\r\n            </md-tab>\r\n        </md-tab-group> -->\r\n\r\n\r\n    </div>\r\n\r\n\r\n</div>"
 
 /***/ }),
 
-/***/ 599:
+/***/ 474:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col-md-12\">\n    <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/canto\" routerLinkActive=\"true\">Cantos</a></li>\n        <li class=\"breadcrumb-item active\">{{cantoInfo}}</li>\n    </ol>\n\n</div>\n\n<div class='col-md-12'>\n\n    <div class=\"col-md-12 row\" *ngIf=\"loading\">\n        ... Loading\n    </div>\n\n    <div class=\"col-md-12 row\" *ngIf=\"!loadin\">\n\n        <div class=\"col-md-3\" *ngIf=\"index\">\n\n            <ul class=\"items\">\n                <li (click)=\"showAll()\" class=\"text-center chip\" [class.selected]=\"isSelected(0)\"> All </li>\n                <li *ngFor=\"let item of index\" (click)=\"selectSloka(item)\" [class.selected]=\"isSelected(item) \" class=\"chip\" ngbTooltip=\"Click for {{item.slokaNo}} sloka \"> <span class=\"badge\">{{item.slokaNo}} </span> {{item.sloka}}</li>\n            </ul>\n\n        </div>\n\n        <div class=\"col-md-9\" *ngIf=\"canto\">\n\n\n            <!--  <input [(ngModel)]=\"userFilter.name\" placeholder=\"Search\" id=\"search\" class=\"form-control\"> -->\n\n\n            <ul class=\"list-group list\">\n                <li class=\"list-group-item animated fadeInUp chip\" *ngFor=\"let sloka of canto\">\n                    <div *ngIf=\"!sloka.show\" (click)=\"showView(sloka)\" ngbTooltip=\"Click to Translation\" container=\"body\">\n                        <span class=\"badge badge-default\">{{sloka.slokaNo}} </span>{{sloka.sloka}}\n                    </div>\n                    <div *ngIf=\"sloka.show\" (click)=\"showView(sloka)\" class=\" animated fadeIn\" ngbTooltip=\"Click to Hide\" container=\"body\">\n                        <div>\n\n                            <div class=\"card-block\">\n\n                                <h5 class=\"card-title\"> <span class=\"badge badge-default\">{{ sloka.slokaNo}}</span> {{sloka.sloka}}</h5>\n                                <h6 class=\"card-subtitle mb-2 text-primary\">{{sloka.pada}}</h6>\n                                <p class=\"card-text text-muted\">{{sloka.padaInfo}}</p>\n                                <h6 class=\"card-subtitle mb-2 text-danger\">{{sloka.anvaya}}</h6>\n                                <p class=\"card-text text-muted\"> {{sloka.anvayaInfo}}</p>\n                                <h6 class=\"card-subtitle mb-2 text-warning\">{{sloka.hindi}}</h6>\n                                <p class=\"card-text text-muted\"> {{sloka.hindiInfo}}</p>\n                                <h6 class=\"card-subtitle mb-2 text-info\">{{sloka.english}}</h6>\n                                <p class=\"card-text text-muted\"> {{sloka.englishInfo}}</p>\n\n                            </div>\n                        </div>\n\n                    </div>\n                    <div class=\"col-md-12 animated fadeIn\" *ngIf=\"sloka.show\">\n                        <sloka-detail-view [title]='sloka.sloka' [slokaTranslation]='getSlokaTranslation(sloka.slokaNo)'></sloka-detail-view>\n                    </div>\n\n                </li>\n            </ul>\n\n        </div>\n    </div>\n\n</div>"
+module.exports = "<div class=\"col-md-12 intro-text animated fadeIn\">\r\n    <div class=\"col-md-12 text-center\">\r\n        <h2> <span class=\"name\">शिशुपालवधम् - माघः (Śiśupālavadha of Māgha)</span></h2>\r\n    </div>\r\n    <div class=\"col-md-12 row background \">\r\n\r\n\r\n        <div class=\"col-lg-6 col-md-6 col-xs-12 col-sm-12 animated fadeInLeft text-center\">\r\n\r\n            <img src=\"../../assets/cover.jpg\" class=\"img-responsive img\">\r\n\r\n        </div>\r\n\r\n\r\n        <div class=\"col-lg-6 col-md-6 col-xs-12 col-sm-12 animated fadeInRight text\">\r\n\r\n            <p>\r\n\r\n                Welcome to the e-version of <code>Śiśupālavadha of Māgha</code>. The e-version captures salient features of the book viz. पदपाठः (padapāṭhaḥ) पदपरिचयः (padaparicayaḥ) अन्वयः (anvayaḥ) style of understanding a text, and present them in e-form. The advantage of e-version is that the reader has full control over the interface and can choose to display only the relevent part. In addition to these, pictorial representation of the कारक (kāraka) analysis as well as समास (samāsa) analysis is provided. The समास-विग्रह (samāsa-vigrah) is available as a tool-tip along with the picture showing the composition. By placing a cursor on the समास (samāsa), one gets this information. The कारक (kāraka) analysis is available as a link to the sentence numbers.\r\n            </p>\r\n\r\n\r\n        </div>\r\n\r\n\r\n\r\n\r\n\r\n    </div>\r\n    <!-- <div class=\"col-md-12 text-center\">\r\n        <button class=\"btn btn-lg btn-danger\" ng-click=\"home()\">Śiśupālavadha of Māgha</button>\r\n    </div> -->\r\n\r\n</div>"
 
 /***/ }),
 
-/***/ 600:
+/***/ 475:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col-md-12\">\n    <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item \"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\n        <li class=\"breadcrumb-item active \"> Cantos</li>\n    </ol>\n\n\n    <div class=\"col-md-12 row\">\n        <!-- <div class=\"col-md-2\" *ngFor=\" let sloka of slokas \" (click)=\"onSelect(sloka) \"> <span class=\"badge badge-default rounded-circle\">{{ sloka.id}}</span> {{sloka.name}}</div> -->\n\n        <div class=\"items col-md-3 text-center \" *ngFor=\"let sloka of slokas\" (click)=\"onSelect(sloka) \" [class.selected]=\"isSelected(sloka)\" ngbTooltip=\"Click to view Canto information\">\n\n            <li class=\"chip animated fadeInLeft \"> {{sloka.name}} {{ sloka.id}}</li>\n\n        </div>\n\n    </div>\n\n</div>"
+module.exports = "<div class=\"col-md-12\">\r\n    <ol class=\"breadcrumb\">\r\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\r\n        <li class=\"breadcrumb-item active\">Poet</li>\r\n    </ol>\r\n\r\n\r\n    <div class=\"intro-text animated slideInUp\">\r\n\r\n        <p>\r\n            Māgha's Śiśupālavadha occupies a prominent place among the kāvyas of bṛhattrayī and pañcamahākāvyas of Sanskrit literature. Though, it is the only known available work of the poet, he is called Mahākavi, as it possesses all the virtues of a Mahākāvya. This work closes with the words,<code> 'इति श्रीभिन्नमालवास्तव्यदत्तकसूनोर्महावैय्याकरणस्य माघस्य कृतौ शिशुपालवधे'. </code> In these closing stanzas of his work he discloses about his clan with one or two particulars that he was the son of Dattaka and grandson of Suprabhadeva, where the latter was the chief minister at the court of king Śrī Varmala.</p>\r\n\r\n        <p>The word <code> 'महावैय्याकरणस्य' </code>in the above extract shows that the poet earned the reputation of being erudite in the science of vyākaraṇa. Moreover, his mastery on the science of vyākaraṇa is evidenced by his work itself. The variety of grammatical forms and constructions which he uses, the illustrations and similitudes with which he embellishes or substantiates his ideas through out the poem, the learned discussion on the morality and expediency of war in the second canto – all these bear ample testimony to his thorough acquaintance with the subject and thus, undoubtedly can be proclaimed as a profound scholar.\r\n        </p>\r\n        <p>Thus, being a very celebrated poet, he accomodated various aspects of many śāstras such as vyākaraṇa, rājanīti, arthaśāstra, dharmaśāstra, kāmaśāstra, jyautiṣa, saṅgīta, pākaśāstra, hastividyā, aśvaśāstra, purāṇas etc., in this grand epic. The kāvya is endowed with the three important virtues of a best kāvya, i.e., Upamā of kālidāsa, Arthagauravam of Bhāravi and Padalālityam of Daṇḍi. Hence, the popular notion 'māghe santi trayo guṇāḥ' came into existence. Mallinātha a famous commentator of this work, quoted on Māgha, 'navasarge gate māghe nava śabdo na vidyate' i.e., one who completes reading nine cantos of Māgha, will not find a new word to read. He also quoted - 'māghe meghe vayaṃ gataḥ' meaning, we will be lost in understanding Māghakāvya and Meghadūta.</p>\r\n\r\n    </div>\r\n\r\n</div>"
 
 /***/ }),
 
-/***/ 601:
+/***/ 476:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col-md-12\">\n    <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\n        <li class=\"breadcrumb-item active\">Source - MAHĀBHĀRATA – THE SOURCE EPIC</li>\n    </ol>\n\n\n\n    <div class=\"panel\">\n\n        <p>Śiśupālavadha of Māgha is an extract of 33rd to 45th chapters of sabhāparva of Srīmad Mahābhārata. In Śiśupālavadha of Māgha, the poet, follows, in the main, the story of the Mahābhārata, but the simple story of the epic is by his poetic touch lifted into the region of true poetry and turned into a highly finished poem. The descriptions and most of the situations are all of his own and they owe very little to the original. Below are the extracts of slokas of Śrīmad Mahābhārata that contain the content of Śiśupālavadha.\n\n        </p>\n\n    </div>\n\n\n    <div class=\"row\">\n\n\n        <div class=\"col-md-3\">\n\n            <ul class=\"items text-center\">\n                <li (click)=\"showMPSP(33)\" [ngClass]=\"{'selected':mpsp == 33 }\">अध्याय-33</li>\n                <li (click)=\"showMPSP(34)\" [ngClass]=\"{'selected':mpsp == 34 }\">अध्याय-34</li>\n                <li (click)=\"showMPSP(35)\" [ngClass]=\"{'selected':mpsp == 35 }\">अध्याय-35</li>\n                <li (click)=\"showMPSP(36)\" [ngClass]=\"{'selected':mpsp == 36 }\">अध्याय-36</li>\n                <li (click)=\"showMPSP(37)\" [ngClass]=\"{'selected':mpsp == 37 }\">अध्याय-37</li>\n                <li (click)=\"showMPSP(38)\" [ngClass]=\"{'selected':mpsp == 38 }\">अध्याय-38</li>\n                <li (click)=\"showMPSP(39)\" [ngClass]=\"{'selected':mpsp == 39 }\">अध्याय-39</li>\n                <li (click)=\"showMPSP(40)\" [ngClass]=\"{'selected':mpsp == 40 }\">अध्याय-40</li>\n                <li (click)=\"showMPSP(41)\" [ngClass]=\"{'selected':mpsp == 41 }\">अध्याय-41</li>\n                <li (click)=\"showMPSP(42)\" [ngClass]=\"{'selected':mpsp == 42 }\">अध्याय-42</li>\n                <li (click)=\"showMPSP(43)\" [ngClass]=\"{'selected':mpsp == 43 }\">अध्याय-43</li>\n                <li (click)=\"showMPSP(44)\" [ngClass]=\"{'selected':mpsp == 44 }\">अध्याय-44</li>\n                <li (click)=\"showMPSP(45)\" [ngClass]=\"{'selected':mpsp == 45 }\">अध्याय-45</li>\n            </ul>\n\n        </div>\n\n\n        <div class=\"col-md-9\">\n\n            <div *ngIf=\"mpsp == 33\">\n\n                <embed src=\"assets/html/mb/MB-SP-33.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n            <div *ngIf=\"mpsp == 34\">\n\n                <embed src=\"assets/html/mb/MB-SP-34.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n\n            <div *ngIf=\"mpsp == 35\">\n\n                <embed src=\"assets/html/mb/MB-SP-35.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n            <div *ngIf=\"mpsp == 36\">\n\n                <embed src=\"assets/html/mb/MB-SP-36.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n            <div *ngIf=\"mpsp == 37\">\n\n                <embed src=\"assets/html/mb/MB-SP-37.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n            <div *ngIf=\"mpsp == 38\">\n\n                <embed src=\"assets/html/mb/MB-SP-38.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n            <div *ngIf=\"mpsp == 39\">\n\n                <embed src=\"assets/html/mb/MB-SP-39.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n            <div *ngIf=\"mpsp == 40\">\n\n                <embed src=\"assets/html/mb/MB-SP-40.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n            <div *ngIf=\"mpsp == 41\">\n\n                <embed src=\"assets/html/mb/MB-SP-41.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n            <div *ngIf=\"mpsp == 42\">\n\n                <embed src=\"assets/html/mb/MB-SP-42.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n            <div *ngIf=\"mpsp == 43\">\n\n                <embed src=\"assets/html/mb/MB-SP-43.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n            <div *ngIf=\"mpsp == 44\">\n\n                <embed src=\"assets/html/mb/MB-SP-44.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n            <div *ngIf=\"mpsp == 45\">\n\n                <embed src=\"assets/html/mb/MB-SP-45.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\n\n            </div>\n\n\n        </div>\n\n\n    </div>\n\n\n\n\n\n\n</div>"
+module.exports = "<div class=\"col-md-12\">\r\n    <ol class=\"breadcrumb\">\r\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\r\n        <li class=\"breadcrumb-item active\">Preface</li>\r\n    </ol>\r\n\r\n\r\n\r\n    <div class=\"intro-text animated slideInDown\">\r\n\r\n        <p>\r\n            <code>Śiśupālavadha of Māgha </code> consists of twenty cantos and occupies a prominent role among the kāvyas of bṛhattrayī and pañcachamahākāvyas of Sanskrit literature. So, it would be essential for any ardent Sanskrit learner to read and understand this work. In order to learn or to understand any Sanskrit text one basically goes through the steps, namely, Parts of speech of a word, it's Annotation of sandhi, Compound word analyzer, Morphological Analysis, Tagging of Sentential relations, Verse to prose word order generator etc., To accomplish all these, in the present project the methodology of tagging is adopted. The existing tools are used for generating the tagged output. These tools show up all possible tags, prioritized on their probabilities. Thus, with the help of this kind of anusāraka an interested reader can have complete analysis of any verse of Śiśupālavadha of Māgha at various levels. <code>\"Mallinātha's sarvaṅkaṣā\r\n\t\t\t\t\tcommentary, Chowkāmbha Publications for Hindi and English (only\r\n\t\t\t\t\tfrom cantos I-IV) translations are taken as reliable sources for\r\n\t\t\t\t\tcommentary and translation\"</code>.\r\n        </p>\r\n        <p>Thus this work with Hindi and English translation will be made available in e-version format which allows a reader to navigate through all the above mentioned steps and understand the text in a better way.</p>\r\n\r\n    </div>\r\n\r\n</div>"
 
 /***/ }),
 
-/***/ 602:
+/***/ 477:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col-md-12\">\n    <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\n        <li class=\"breadcrumb-item active\">Summary</li>\n    </ol>\n    <div class=\"row\">\n        <div class=\"col-md-3\" *ngIf=\"data\">\n            <ul class=\"items\">\n                <li *ngFor=\"let item of data\" class=\"chip text-center\" (click)=\"onSelect(item)\" [class.selected]=\"selected == item.name \"> {{item.name}}</li>\n            </ul>\n        </div>\n        <div class=\"col-md-9\">\n            <div *ngFor=\"let item of data\">\n                <div *ngIf=\"selected == item.name\" class=\"card\">\n                    <ngb-tabset>\n                        <ngb-tab *ngFor=\"let obj of item.summaryList\" title={{obj.title}}>\n                            <ng-template ngbTabContent>\n                                <div [innerHTML]=\"obj.desc\"></div>\n                            </ng-template>\n                        </ngb-tab>\n                    </ngb-tabset>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>"
+module.exports = "<div class=\"col-md-12 helpBar row\">\r\n\r\n    <div class=\"col-md-2\">\r\n        <div class=\"n1 help\"></div>\r\n        <div style=\"width: auto; font-size: 14px;\">प्रथमा विभक्तिः</div>\r\n    </div>\r\n    <div class=\"col-md-2\">\r\n        <div class=\"n2 help\"></div>\r\n        <div style=\"width: auto; font-size: 14px;\">द्वितीया विभक्तिः </div>\r\n    </div>\r\n\r\n    <div class=\"col-md-2\">\r\n        <div class=\"n3 help\"></div>\r\n        <div style=\"width: auto; font-size: 14px;\">तृतीया विभक्तिः</div>\r\n    </div>\r\n    <div class=\"col-md-2\">\r\n        <div class=\"n4 help\"></div>\r\n        <div style=\"width: auto; font-size: 14px;\">चतुर्थी विभक्तिः </div>\r\n    </div>\r\n    <div class=\"col-md-2\">\r\n        <div class=\"n5 help\"></div>\r\n        <div style=\"width: auto; font-size: 14px;\">पञ्चमी विभक्तिः </div>\r\n    </div>\r\n    <div class=\"col-md-2\">\r\n        <div class=\"n6 help\"></div>\r\n        <div style=\"width: auto; font-size: 14px;\"> षष्ठी विभक्तिः</div>\r\n    </div>\r\n\r\n\r\n\r\n    <div class=\"col-md-2\">\r\n        <div class=\"n7 help\"></div>\r\n        <div style=\"width: auto; font-size: 14px;\">सप्तमी विभक्तिः</div>\r\n    </div>\r\n    <div class=\"col-md-2\">\r\n        <div class=\"v help\"></div>\r\n        <div style=\"width: auto; font-size: 14px;\">verb</div>\r\n    </div>\r\n\r\n    <div class=\"col-md-3\">\r\n        <div class=\"n8 help\"></div>\r\n        <div style=\"width: auto; font-size: 14px;\">सम्बोधना प्रथमा विभक्तिः</div>\r\n    </div>\r\n    <div class=\"col-md-2\">\r\n        <div class=\"NA help\"></div>\r\n        <div style=\"width: auto; font-size: 14px;\">NA</div>\r\n    </div>\r\n</div>\r\n\r\n<div class=\"row\">\r\n    <div class=\"col-md-12 row\">\r\n        <div class=\"col-md-2\">\r\n            <fieldset class=\"form-group\">\r\n                <input type=\"checkbox\" id=\"checkbox3\" [checked]=\"row1\" (change)=\"showRow($event.target.checked,'row1')\">\r\n                <label for=\"checkbox3\" class=\"disabled\">पदपाठः (A)</label>\r\n            </fieldset>\r\n        </div>\r\n        <div class=\"col-md-2\">\r\n            <fieldset class=\"form-group\">\r\n                <input type=\"checkbox\" class=\"filled-in\" id=\"checkbox4\" [checked]=\"row2\" (change)=\"showRow($event.target.checked,'row2')\">\r\n                <label for=\"checkbox4\" class=\"disabled\">संस्कृतम् (B)</label>\r\n            </fieldset>\r\n        </div>\r\n\r\n        <div class=\"col-md-2\">\r\n            <fieldset class=\"form-group\">\r\n                <input type=\"checkbox\" id=\"checkbox3\" [checked]=\"row3\" (change)=\"showRow($event.target.checked,'row3')\">\r\n                <label for=\"checkbox3\" class=\"disabled\">विभक्तिः (C)</label>\r\n            </fieldset>\r\n        </div>\r\n        <div class=\"col-md-2\">\r\n            <fieldset class=\"form-group\">\r\n                <input type=\"checkbox\" class=\"filled-in\" id=\"checkbox4\" [checked]=\"row4\" (change)=\"showRow($event.target.checked,'row4')\">\r\n                <label for=\"checkbox4\" class=\"disabled\">शब्दविश्लेषणम् (D)</label>\r\n            </fieldset>\r\n        </div>\r\n        <div class=\"col-md-2\">\r\n            <fieldset class=\"form-group\">\r\n                <input type=\"checkbox\" id=\"checkbox3\" [checked]=\"row5\" (change)=\"showRow($event.target.checked,'row5')\">\r\n                <label for=\"checkbox3\" class=\"disabled\">हिन्दी-विभक्तिः (E)</label>\r\n            </fieldset>\r\n        </div>\r\n        <div class=\"col-md-2\">\r\n            <fieldset class=\"form-group\">\r\n                <input type=\"checkbox\" class=\"filled-in\" id=\"checkbox4\" [checked]=\"row6\" (change)=\"showRow($event.target.checked,'row6')\">\r\n                <label for=\"checkbox4\" class=\"disabled\">हिन्दी अर्थ(F)</label>\r\n            </fieldset>\r\n        </div>\r\n        <div class=\"col-md-2\">\r\n            <fieldset class=\"form-group\">\r\n                <input type=\"checkbox\" id=\"checkbox3\" [checked]=\"row7\" (change)=\"showRow($event.target.checked,'row7')\">\r\n                <label for=\"checkbox3\" class=\"disabled\">Meaning(G)</label>\r\n            </fieldset>\r\n        </div>\r\n        <div class=\"col-md-2\">\r\n            <!--  <md-checkbox class=\"example-margin\" [checked]=\"row8\" (change)=\"showRow($event.target.checked,'row8')\">Samasa(H)</md-checkbox> -->\r\n\r\n            <fieldset class=\"form-group\">\r\n\r\n\r\n                <input type=\"checkbox\" class=\"filled-in\" id=\"checkbox4\" [checked]=\"row8\" (change)=\"showRow($event.target.checked,'row8')\">\r\n                <label for=\"checkbox4\" class=\"disabled\">Samasa(H)</label>\r\n            </fieldset>\r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"col-md-12\">\r\n    \r\n        <code>Note: Please mouse over on blue color text to view graphical information</code>\r\n    \r\n    </div>\r\n    \r\n    <div class=\"col-md-12\">\r\n        <div *ngIf=\"slokaTranslation\">\r\n\r\n            <table *ngFor=\"let table of slokaTranslation\" class=\"table\">\r\n                <tr *ngFor=\"let row of table.trRows\">\r\n                    <td *ngFor=\"let td of row.tdColumns\" class=\"{{td.className}}\" [hidden]=\"show(td.row)\">\r\n\r\n                        <span *ngIf=\"td.tooltipImage\" [innerHTML]=\"td.data\" (mouseover)=\"mouseEnter(td.tooltipImage,content)\"></span>\r\n                        <span *ngIf=\"!td.tooltipImage\" [innerHTML]=\"td.data\"></span>\r\n                    </td>\r\n                </tr>\r\n            </table>\r\n        </div>\r\n    </div>\r\n</div>\r\n\r\n\r\n\r\n<ng-template #content let-c=\"close\" let-d=\"dismiss\">\r\n    <div class=\"modal-header\">\r\n        <button type=\"button\" class=\"close\" aria-label=\"Close\" (click)=\"d('Cross click')\">\r\n            <span aria-hidden=\"true\">&times;</span>\r\n        </button>\r\n    </div>\r\n    <div class=\"modal-body\">\r\n        <img src=\"assets/{{showImagePath}}\" class=\"img-fluid mx-auto d-block\">\r\n    </div>\r\n</ng-template>"
 
 /***/ }),
 
-/***/ 854:
+/***/ 478:
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"col-md-12\">\r\n    <ol class=\"breadcrumb\">\r\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\r\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/canto\" routerLinkActive=\"true\">Cantos</a></li>\r\n        <li class=\"breadcrumb-item active\">{{cantoInfo}}</li>\r\n    </ol>\r\n\r\n</div>\r\n\r\n<div class='col-md-12'>\r\n\r\n    <div class=\"col-md-12 row\" *ngIf=\"loading\">\r\n        ... Loading\r\n    </div>\r\n\r\n    <div class=\"col-md-12 row\" *ngIf=\"!loadin\">\r\n\r\n        <div class=\"col-md-3\" *ngIf=\"index\">\r\n\r\n            <ul class=\"items\">\r\n                <li (click)=\"showAll()\" class=\"text-center chip\" [class.selected]=\"isSelected(0)\"> All </li>\r\n                <li *ngFor=\"let item of index\" (click)=\"selectSloka(item)\" [class.selected]=\"isSelected(item) \" class=\"chip\" ngbTooltip=\"Click for {{item.slokaNo}} sloka \"> <span class=\"badge\">{{item.slokaNo}} </span> {{item.sloka}}</li>\r\n            </ul>\r\n\r\n        </div>\r\n\r\n        <div class=\"col-md-9\" *ngIf=\"canto\">\r\n\r\n\r\n            <!--  <input [(ngModel)]=\"userFilter.name\" placeholder=\"Search\" id=\"search\" class=\"form-control\"> -->\r\n\r\n\r\n            <ul class=\"list-group list\">\r\n                <li class=\"list-group-item animated fadeInUp chip\" *ngFor=\"let sloka of canto\">\r\n                    <div *ngIf=\"!sloka.show\" (click)=\"showView(sloka)\" ngbTooltip=\"Click to Translation\" container=\"body\">\r\n                        <span class=\"badge badge-default\">{{sloka.slokaNo}} </span>{{sloka.sloka}}\r\n                    </div>\r\n                    <div *ngIf=\"sloka.show\" (click)=\"showView(sloka)\" class=\" animated fadeIn\" ngbTooltip=\"Click to Hide\" container=\"body\">\r\n                        <div>\r\n\r\n                            <div class=\"card-block\">\r\n\r\n                                <h5 class=\"card-title\"> <span class=\"badge badge-default\">{{ sloka.slokaNo}}</span> {{sloka.sloka}}</h5>\r\n                                <h6 class=\"card-subtitle mb-2 text-primary\">{{sloka.pada}}</h6>\r\n                                <p class=\"card-text text-muted\">{{sloka.padaInfo}}</p>\r\n                                <h6 class=\"card-subtitle mb-2 text-danger\">{{sloka.anvaya}}</h6>\r\n                                <p class=\"card-text text-muted\"> {{sloka.anvayaInfo}}</p>\r\n                                <h6 class=\"card-subtitle mb-2 text-warning\">{{sloka.hindi}}</h6>\r\n                                <p class=\"card-text text-muted\"> {{sloka.hindiInfo}}</p>\r\n                                <h6 class=\"card-subtitle mb-2 text-info\">{{sloka.english}}</h6>\r\n                                <p class=\"card-text text-muted\"> {{sloka.englishInfo}}</p>\r\n\r\n                            </div>\r\n                        </div>\r\n\r\n                    </div>\r\n                    <div class=\"col-md-12 animated fadeIn\" *ngIf=\"sloka.show\">\r\n                        <sloka-detail-view [title]='sloka.sloka' [slokaTranslation]='getSlokaTranslation(sloka.slokaNo)'></sloka-detail-view>\r\n                    </div>\r\n\r\n                </li>\r\n            </ul>\r\n\r\n        </div>\r\n    </div>\r\n\r\n</div>"
+
+/***/ }),
+
+/***/ 479:
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"col-md-12\">\r\n    <ol class=\"breadcrumb\">\r\n        <li class=\"breadcrumb-item \"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\r\n        <li class=\"breadcrumb-item active \"> Cantos</li>\r\n    </ol>\r\n\r\n\r\n    <div class=\"col-md-12 row\">\r\n        <!-- <div class=\"col-md-2\" *ngFor=\" let sloka of slokas \" (click)=\"onSelect(sloka) \"> <span class=\"badge badge-default rounded-circle\">{{ sloka.id}}</span> {{sloka.name}}</div> -->\r\n\r\n        <div class=\"items col-md-3 text-center \" *ngFor=\"let sloka of slokas\" (click)=\"onSelect(sloka) \" [class.selected]=\"isSelected(sloka)\"  [class.hide]=\"!isSelected(sloka)\" ngbTooltip=\"Click to view Canto information\" >\r\n\r\n            <li class=\"chip animated fadeInLeft \"> {{sloka.name}}</li>\r\n\r\n        </div>\r\n\r\n    </div>\r\n\r\n</div>"
+
+/***/ }),
+
+/***/ 480:
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"col-md-12\">\r\n    <ol class=\"breadcrumb\">\r\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\r\n        <li class=\"breadcrumb-item active\">Source - MAHĀBHĀRATA – THE SOURCE EPIC</li>\r\n    </ol>\r\n\r\n\r\n\r\n    <div class=\"panel\">\r\n\r\n        <p>Śiśupālavadha of Māgha is an extract of 33rd to 45th chapters of sabhāparva of Srīmad Mahābhārata. In Śiśupālavadha of Māgha, the poet, follows, in the main, the story of the Mahābhārata, but the simple story of the epic is by his poetic touch lifted into the region of true poetry and turned into a highly finished poem. The descriptions and most of the situations are all of his own and they owe very little to the original. Below are the extracts of slokas of Śrīmad Mahābhārata that contain the content of Śiśupālavadha.\r\n\r\n        </p>\r\n\r\n    </div>\r\n\r\n\r\n    <div class=\"row\">\r\n\r\n\r\n        <div class=\"col-md-3\">\r\n\r\n            <ul class=\"items text-center\">\r\n                <li (click)=\"showMPSP(33)\" [ngClass]=\"{'selected':mpsp == 33 }\">अध्याय-33</li>\r\n                <li (click)=\"showMPSP(34)\" [ngClass]=\"{'selected':mpsp == 34 }\">अध्याय-34</li>\r\n                <li (click)=\"showMPSP(35)\" [ngClass]=\"{'selected':mpsp == 35 }\">अध्याय-35</li>\r\n                <li (click)=\"showMPSP(36)\" [ngClass]=\"{'selected':mpsp == 36 }\">अध्याय-36</li>\r\n                <li (click)=\"showMPSP(37)\" [ngClass]=\"{'selected':mpsp == 37 }\">अध्याय-37</li>\r\n                <li (click)=\"showMPSP(38)\" [ngClass]=\"{'selected':mpsp == 38 }\">अध्याय-38</li>\r\n                <li (click)=\"showMPSP(39)\" [ngClass]=\"{'selected':mpsp == 39 }\">अध्याय-39</li>\r\n                <li (click)=\"showMPSP(40)\" [ngClass]=\"{'selected':mpsp == 40 }\">अध्याय-40</li>\r\n                <li (click)=\"showMPSP(41)\" [ngClass]=\"{'selected':mpsp == 41 }\">अध्याय-41</li>\r\n                <li (click)=\"showMPSP(42)\" [ngClass]=\"{'selected':mpsp == 42 }\">अध्याय-42</li>\r\n                <li (click)=\"showMPSP(43)\" [ngClass]=\"{'selected':mpsp == 43 }\">अध्याय-43</li>\r\n                <li (click)=\"showMPSP(44)\" [ngClass]=\"{'selected':mpsp == 44 }\">अध्याय-44</li>\r\n                <li (click)=\"showMPSP(45)\" [ngClass]=\"{'selected':mpsp == 45 }\">अध्याय-45</li>\r\n            </ul>\r\n\r\n        </div>\r\n\r\n\r\n        <div class=\"col-md-9\">\r\n\r\n            <div *ngIf=\"mpsp == 33\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-33.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n            <div *ngIf=\"mpsp == 34\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-34.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n\r\n            <div *ngIf=\"mpsp == 35\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-35.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n            <div *ngIf=\"mpsp == 36\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-36.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n            <div *ngIf=\"mpsp == 37\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-37.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n            <div *ngIf=\"mpsp == 38\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-38.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n            <div *ngIf=\"mpsp == 39\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-39.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n            <div *ngIf=\"mpsp == 40\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-40.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n            <div *ngIf=\"mpsp == 41\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-41.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n            <div *ngIf=\"mpsp == 42\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-42.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n            <div *ngIf=\"mpsp == 43\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-43.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n            <div *ngIf=\"mpsp == 44\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-44.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n            <div *ngIf=\"mpsp == 45\">\r\n\r\n                <embed src=\"assets/html/mb/MB-SP-45.pdf\" width=\"100%\" height=\"700\" type='application/pdf'>\r\n\r\n            </div>\r\n\r\n\r\n        </div>\r\n\r\n\r\n    </div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n</div>"
+
+/***/ }),
+
+/***/ 481:
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"col-md-12\">\r\n    <ol class=\"breadcrumb\">\r\n        <li class=\"breadcrumb-item\"> <a routerLink=\"/home\" routerLinkActive=\"true\">Home</a></li>\r\n        <li class=\"breadcrumb-item active\">Summary</li>\r\n    </ol>\r\n    <div class=\"row\">\r\n        <div class=\"col-md-3\" *ngIf=\"data\">\r\n            <ul class=\"items\">\r\n                <li *ngFor=\"let item of data\" class=\"chip text-center\" (click)=\"onSelect(item)\" [class.selected]=\"selected == item.name \"> {{item.name}}</li>\r\n            </ul>\r\n        </div>\r\n        <div class=\"col-md-9\">\r\n            <div *ngFor=\"let item of data\">\r\n                <div *ngIf=\"selected == item.name\" class=\"card\">\r\n                    <ngb-tabset>\r\n                        <ngb-tab *ngFor=\"let obj of item.summaryList\" title={{obj.title}}>\r\n                            <ng-template ngbTabContent>\r\n                                <div [innerHTML]=\"obj.desc\"></div>\r\n                            </ng-template>\r\n                        </ngb-tab>\r\n                    </ngb-tabset>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>"
+
+/***/ }),
+
+/***/ 731:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(361);
+module.exports = __webpack_require__(281);
 
 
 /***/ })
 
-},[854]);
+},[731]);
 //# sourceMappingURL=main.bundle.map

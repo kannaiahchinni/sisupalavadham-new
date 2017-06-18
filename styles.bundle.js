@@ -1,6 +1,48 @@
 webpackJsonp([2,4],{
 
-/***/ 313:
+/***/ 283:
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(453);
+if(typeof content === 'string') content = [[module.i, content, '']];
+// add the styles to the DOM
+var update = __webpack_require__(729)(content, {});
+if(content.locals) module.exports = content.locals;
+// Hot Module Replacement
+if(false) {
+	// When the styles change, update the <style> tags
+	if(!content.locals) {
+		module.hot.accept("!!../node_modules/css-loader/index.js?{\"sourceMap\":false}!../node_modules/postcss-loader/index.js!./styles.css", function() {
+			var newContent = require("!!../node_modules/css-loader/index.js?{\"sourceMap\":false}!../node_modules/postcss-loader/index.js!./styles.css");
+			if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
+			update(newContent);
+		});
+	}
+	// When the module is disposed, remove the <style> tags
+	module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+
+/***/ 453:
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(454)();
+// imports
+
+
+// module
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\r\n\r\n/*@import '~@angular/material/core/theming/prebuilt/deeppurple-amber.css'; */\r\n.items {\r\n    margin: 0 0 2em 0;\r\n    list-style-type: none;\r\n    padding: 0;\r\n}\r\n\r\n.items li {\r\n    cursor: pointer;\r\n    position: relative;\r\n    left: 0;\r\n    background-color: #EEE;\r\n    margin: .5em;\r\n    padding: .3em 0;\r\n    border-radius: 4px;\r\n}\r\n\r\n.items li:hover {\r\n    color: #607D8B;\r\n    background-color: #DDD;\r\n    left: .1em;\r\n}\r\n\r\n.items li.selected {\r\n    background-color: #607D8B;\r\n    /*#CFD8DC; */\r\n    color: white;\r\n}\r\n\r\n.items li.selected:hover {\r\n    background-color: #BBD8DC;\r\n}\r\n\r\n.items .text {\r\n    position: relative;\r\n    top: -3px;\r\n}\r\n\r\n.items .badge {\r\n    display: inline-block;\r\n    font-size: small;\r\n    color: white;\r\n    background-color: #607D8B;\r\n    position: relative;\r\n    left: -1px;\r\n    top: -2px;\r\n    margin-right: .8em;\r\n    border-radius: 4px 0 0 4px;\r\n    width: 2.2em;\r\n    height: 2em;\r\n}\r\n\r\n.bg-inverse {\r\n    background-color: #1fa67a !important;\r\n}\r\n\r\nbody,\r\nhtml {\r\n    font-family: Calibri, 'monaco,arial';\r\n    -webkit-font-smoothing: antialiased;\r\n}\r\n\r\n\r\n/* Sticky footer styles\r\n-------------------------------------------------- */\r\n\r\nhtml {\r\n    position: relative;\r\n    min-height: 100%;\r\n    font-family: 'calibri', 'Monaco', 'Monospace' !important;\r\n}\r\n\r\nbody {\r\n    /* Margin bottom by footer height */\r\n    margin-bottom: 60px;\r\n    font-family: 'calibri', 'Monaco', 'Monospace' !important;\r\n}\r\n\r\n.footer {\r\n    position: absolute;\r\n    bottom: 0;\r\n    width: 100%;\r\n    /* Set the fixed height of the footer here */\r\n    height: 60px;\r\n    background-color: #f5f5f5;\r\n}\r\n\r\n\r\n/* Custom page CSS\r\n-------------------------------------------------- */\r\n\r\n\r\n/* Not required for template or sticky footer method. */\r\n\r\nbody > container {}\r\n\r\n.container .text-muted {\r\n    margin: 20px 0;\r\n}\r\n\r\n.footer > .container {\r\n    padding-right: 15px;\r\n    padding-left: 15px;\r\n}\r\n\r\ncode {\r\n    font-size: 80%;\r\n}\r\n\r\n.intro-text {\r\n    display: table;\r\n    height: auto;\r\n    padding: 100px 10px;\r\n    width: 100%;\r\n}\r\n\r\nmodal-dialog {\r\n    width: 100% !important;\r\n    margin: 30px auto;\r\n    max-width: 100% !important;\r\n}\r\n\r\n@media (min-width: 576px) .modal-dialog {\r\n    max-width: auto !important;\r\n    margin: 30px auto;\r\n}\r\n\r\n.tab-content {\r\n    padding: 2em !important;\r\n    text-align: justify;\r\n    font-family: 'calibri', 'Monaco', 'Monospace' !important;\r\n}", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ 454:
 /***/ (function(module, exports) {
 
 /*
@@ -57,64 +99,7 @@ module.exports = function() {
 
 /***/ }),
 
-/***/ 363:
-/***/ (function(module, exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__(575);
-if(typeof content === 'string') content = [[module.i, content, '']];
-// add the styles to the DOM
-var update = __webpack_require__(852)(content, {});
-if(content.locals) module.exports = content.locals;
-// Hot Module Replacement
-if(false) {
-	// When the styles change, update the <style> tags
-	if(!content.locals) {
-		module.hot.accept("!!./../node_modules/css-loader/index.js?{\"sourceMap\":false}!./../node_modules/postcss-loader/index.js!./styles.css", function() {
-			var newContent = require("!!./../node_modules/css-loader/index.js?{\"sourceMap\":false}!./../node_modules/postcss-loader/index.js!./styles.css");
-			if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
-			update(newContent);
-		});
-	}
-	// When the module is disposed, remove the <style> tags
-	module.hot.dispose(function() { update(); });
-}
-
-/***/ }),
-
-/***/ 574:
-/***/ (function(module, exports, __webpack_require__) {
-
-exports = module.exports = __webpack_require__(313)();
-// imports
-
-
-// module
-exports.push([module.i, ".md-ripple-background,.md-ripple-foreground{background-color:rgba(0,0,0,.0588);position:absolute}.md-elevation-z0{box-shadow:0 0 0 0 rgba(0,0,0,.2),0 0 0 0 rgba(0,0,0,.14),0 0 0 0 rgba(0,0,0,.12)}.md-elevation-z1{box-shadow:0 2px 1px -1px rgba(0,0,0,.2),0 1px 1px 0 rgba(0,0,0,.14),0 1px 3px 0 rgba(0,0,0,.12)}.md-elevation-z2{box-shadow:0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12)}.md-elevation-z3{box-shadow:0 3px 3px -2px rgba(0,0,0,.2),0 3px 4px 0 rgba(0,0,0,.14),0 1px 8px 0 rgba(0,0,0,.12)}.md-elevation-z4{box-shadow:0 2px 4px -1px rgba(0,0,0,.2),0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12)}.md-elevation-z5{box-shadow:0 3px 5px -1px rgba(0,0,0,.2),0 5px 8px 0 rgba(0,0,0,.14),0 1px 14px 0 rgba(0,0,0,.12)}.md-elevation-z6{box-shadow:0 3px 5px -1px rgba(0,0,0,.2),0 6px 10px 0 rgba(0,0,0,.14),0 1px 18px 0 rgba(0,0,0,.12)}.md-elevation-z7{box-shadow:0 4px 5px -2px rgba(0,0,0,.2),0 7px 10px 1px rgba(0,0,0,.14),0 2px 16px 1px rgba(0,0,0,.12)}.md-elevation-z8{box-shadow:0 5px 5px -3px rgba(0,0,0,.2),0 8px 10px 1px rgba(0,0,0,.14),0 3px 14px 2px rgba(0,0,0,.12)}.md-elevation-z9{box-shadow:0 5px 6px -3px rgba(0,0,0,.2),0 9px 12px 1px rgba(0,0,0,.14),0 3px 16px 2px rgba(0,0,0,.12)}.md-elevation-z10{box-shadow:0 6px 6px -3px rgba(0,0,0,.2),0 10px 14px 1px rgba(0,0,0,.14),0 4px 18px 3px rgba(0,0,0,.12)}.md-elevation-z11{box-shadow:0 6px 7px -4px rgba(0,0,0,.2),0 11px 15px 1px rgba(0,0,0,.14),0 4px 20px 3px rgba(0,0,0,.12)}.md-elevation-z12{box-shadow:0 7px 8px -4px rgba(0,0,0,.2),0 12px 17px 2px rgba(0,0,0,.14),0 5px 22px 4px rgba(0,0,0,.12)}.md-elevation-z13{box-shadow:0 7px 8px -4px rgba(0,0,0,.2),0 13px 19px 2px rgba(0,0,0,.14),0 5px 24px 4px rgba(0,0,0,.12)}.md-elevation-z14{box-shadow:0 7px 9px -4px rgba(0,0,0,.2),0 14px 21px 2px rgba(0,0,0,.14),0 5px 26px 4px rgba(0,0,0,.12)}.md-elevation-z15{box-shadow:0 8px 9px -5px rgba(0,0,0,.2),0 15px 22px 2px rgba(0,0,0,.14),0 6px 28px 5px rgba(0,0,0,.12)}.md-elevation-z16{box-shadow:0 8px 10px -5px rgba(0,0,0,.2),0 16px 24px 2px rgba(0,0,0,.14),0 6px 30px 5px rgba(0,0,0,.12)}.md-elevation-z17{box-shadow:0 8px 11px -5px rgba(0,0,0,.2),0 17px 26px 2px rgba(0,0,0,.14),0 6px 32px 5px rgba(0,0,0,.12)}.md-elevation-z18{box-shadow:0 9px 11px -5px rgba(0,0,0,.2),0 18px 28px 2px rgba(0,0,0,.14),0 7px 34px 6px rgba(0,0,0,.12)}.md-elevation-z19{box-shadow:0 9px 12px -6px rgba(0,0,0,.2),0 19px 29px 2px rgba(0,0,0,.14),0 7px 36px 6px rgba(0,0,0,.12)}.md-elevation-z20{box-shadow:0 10px 13px -6px rgba(0,0,0,.2),0 20px 31px 3px rgba(0,0,0,.14),0 8px 38px 7px rgba(0,0,0,.12)}.md-elevation-z21{box-shadow:0 10px 13px -6px rgba(0,0,0,.2),0 21px 33px 3px rgba(0,0,0,.14),0 8px 40px 7px rgba(0,0,0,.12)}.md-elevation-z22{box-shadow:0 10px 14px -6px rgba(0,0,0,.2),0 22px 35px 3px rgba(0,0,0,.14),0 8px 42px 7px rgba(0,0,0,.12)}.md-elevation-z23{box-shadow:0 11px 14px -7px rgba(0,0,0,.2),0 23px 36px 3px rgba(0,0,0,.14),0 9px 44px 8px rgba(0,0,0,.12)}.md-elevation-z24{box-shadow:0 11px 15px -7px rgba(0,0,0,.2),0 24px 38px 3px rgba(0,0,0,.14),0 9px 46px 8px rgba(0,0,0,.12)}[md-ripple]{overflow:hidden}[md-ripple].mdRippleUnbounded{overflow:visible}.md-ripple-background{opacity:0;transition:opacity .3s linear;left:0;top:0;right:0;bottom:0}.mdRippleUnbounded .md-ripple-background{display:none}.md-ripple-background.md-ripple-active,.mdRippleFocused .md-ripple-background{opacity:1}.md-ripple-foreground{border-radius:50%;pointer-events:none;opacity:.25;transition:opacity,transform 0s cubic-bezier(0,0,.2,1)}.md-ripple-foreground.md-ripple-fade-in{opacity:1}.md-ripple-foreground.md-ripple-fade-out{opacity:0}.cdk-visually-hidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;text-transform:none;width:1px}.cdk-global-overlay-wrapper,.cdk-overlay-container{pointer-events:none;top:0;left:0;height:100%;width:100%}.cdk-overlay-container{position:fixed;z-index:1000}.cdk-global-overlay-wrapper{display:flex;position:absolute;z-index:1000}.cdk-overlay-pane{position:absolute;pointer-events:auto;box-sizing:border-box;z-index:1000}.cdk-overlay-backdrop{position:absolute;top:0;bottom:0;left:0;right:0;z-index:1000;pointer-events:auto;transition:opacity .4s cubic-bezier(.25,.8,.25,1);opacity:0}.cdk-overlay-backdrop.cdk-overlay-backdrop-showing{opacity:.48}.cdk-overlay-dark-backdrop{background:rgba(0,0,0,.6)}.cdk-overlay-transparent-backdrop{background:0 0}.mdRippleFocused .md-ripple-background{background-color:rgba(255,215,64,.1)}[md-button].md-button-focus.md-primary .md-button-focus-overlay,[md-fab].md-button-focus.md-primary .md-button-focus-overlay,[md-icon-button].md-button-focus.md-primary .md-button-focus-overlay,[md-mini-fab].md-button-focus.md-primary .md-button-focus-overlay,[md-raised-button].md-button-focus.md-primary .md-button-focus-overlay{background-color:rgba(103,58,183,.12)}[md-button].md-button-focus.md-accent .md-button-focus-overlay,[md-fab].md-button-focus.md-accent .md-button-focus-overlay,[md-icon-button].md-button-focus.md-accent .md-button-focus-overlay,[md-mini-fab].md-button-focus.md-accent .md-button-focus-overlay,[md-raised-button].md-button-focus.md-accent .md-button-focus-overlay{background-color:rgba(255,215,64,.12)}[md-button].md-button-focus.md-warn .md-button-focus-overlay,[md-fab].md-button-focus.md-warn .md-button-focus-overlay,[md-icon-button].md-button-focus.md-warn .md-button-focus-overlay,[md-mini-fab].md-button-focus.md-warn .md-button-focus-overlay,[md-raised-button].md-button-focus.md-warn .md-button-focus-overlay{background-color:rgba(244,67,54,.12)}[md-button],[md-icon-button]{background:0 0}[md-button].md-primary,[md-icon-button].md-primary{color:#673ab7}[md-button].md-accent,[md-icon-button].md-accent{color:#ffd740}[md-button].md-warn,[md-icon-button].md-warn{color:#f44336}[md-button].md-accent[disabled],[md-button].md-primary[disabled],[md-button].md-warn[disabled],[md-button][disabled][disabled],[md-icon-button].md-accent[disabled],[md-icon-button].md-primary[disabled],[md-icon-button].md-warn[disabled],[md-icon-button][disabled][disabled]{color:rgba(0,0,0,.38)}[md-button]:hover.md-primary .md-button-focus-overlay,[md-icon-button]:hover.md-primary .md-button-focus-overlay{background-color:rgba(103,58,183,.12)}[md-button]:hover.md-accent .md-button-focus-overlay,[md-icon-button]:hover.md-accent .md-button-focus-overlay{background-color:rgba(255,215,64,.12)}[md-button]:hover.md-warn .md-button-focus-overlay,[md-icon-button]:hover.md-warn .md-button-focus-overlay{background-color:rgba(244,67,54,.12)}[md-fab],[md-mini-fab],[md-raised-button]{background-color:#fafafa}[md-fab].md-primary,[md-mini-fab].md-primary,[md-raised-button].md-primary{color:rgba(255,255,255,.87);background-color:#673ab7}[md-fab].md-accent,[md-mini-fab].md-accent,[md-raised-button].md-accent{color:rgba(0,0,0,.87);background-color:#ffd740}[md-fab].md-warn,[md-mini-fab].md-warn,[md-raised-button].md-warn{color:#fff;background-color:#f44336}[md-fab].md-accent[disabled],[md-fab].md-primary[disabled],[md-fab].md-warn[disabled],[md-fab][disabled][disabled],[md-mini-fab].md-accent[disabled],[md-mini-fab].md-primary[disabled],[md-mini-fab].md-warn[disabled],[md-mini-fab][disabled][disabled],[md-raised-button].md-accent[disabled],[md-raised-button].md-primary[disabled],[md-raised-button].md-warn[disabled],[md-raised-button][disabled][disabled]{color:rgba(0,0,0,.38);background-color:rgba(0,0,0,.12)}[md-fab],[md-mini-fab]{background-color:#ffd740;color:rgba(0,0,0,.87)}.md-button-toggle-checked .md-button-toggle-label-content{background-color:#e0e0e0}.md-button-toggle-disabled .md-button-toggle-label-content{background-color:rgba(0,0,0,.38)}md-card{background:#fff;color:#000}md-card-subtitle{color:rgba(0,0,0,.54)}.md-checkbox-frame{border-color:rgba(0,0,0,.54)}.md-checkbox-checkmark{fill:#fafafa}.md-checkbox-checkmark-path{stroke:#fafafa!important}.md-checkbox-mixedmark{background-color:#fafafa}.md-checkbox-checked.md-primary .md-checkbox-background,.md-checkbox-indeterminate.md-primary .md-checkbox-background{background-color:#673ab7}.md-checkbox-checked.md-accent .md-checkbox-background,.md-checkbox-indeterminate.md-accent .md-checkbox-background{background-color:#ffc107}.md-checkbox-checked.md-warn .md-checkbox-background,.md-checkbox-indeterminate.md-warn .md-checkbox-background{background-color:#f44336}.md-checkbox-disabled.md-checkbox-checked .md-checkbox-background,.md-checkbox-disabled.md-checkbox-indeterminate .md-checkbox-background{background-color:#b0b0b0}.md-checkbox-disabled:not(.md-checkbox-checked) .md-checkbox-frame{border-color:#b0b0b0}.md-checkbox:not(.md-checkbox-disabled).md-primary .md-checkbox-ripple .md-ripple-foreground{background-color:rgba(103,58,183,.26)}.md-checkbox:not(.md-checkbox-disabled).md-accent .md-checkbox-ripple .md-ripple-foreground{background-color:rgba(255,215,64,.26)}.md-checkbox:not(.md-checkbox-disabled).md-warn .md-checkbox-ripple .md-ripple-foreground{background-color:rgba(244,67,54,.26)}.md-chip:not(.md-basic-chip){background-color:#e0e0e0;color:rgba(0,0,0,.87)}.md-chip.md-chip-selected:not(.md-basic-chip){background-color:grey;color:rgba(255,255,255,.87)}.md-chip.md-chip-selected:not(.md-basic-chip).md-primary{background-color:#673ab7;color:rgba(255,255,255,.87)}.md-chip.md-chip-selected:not(.md-basic-chip).md-accent{background-color:#ffc107;color:rgba(0,0,0,.87)}.md-chip.md-chip-selected:not(.md-basic-chip).md-warn{background-color:#f44336;color:#fff}md-dialog-container{background:#fff}md-icon.md-primary{color:#673ab7}md-icon.md-accent{color:#ffd740}md-icon.md-warn{color:#f44336}.md-input-placeholder{color:rgba(0,0,0,.38)}.md-input-placeholder.md-focused{color:#673ab7}.md-input-placeholder.md-focused.md-accent{color:#ffd740}.md-input-placeholder.md-focused.md-warn{color:#f44336}.md-input-placeholder.md-float.md-focused .md-placeholder-required,input.md-input-element:-webkit-autofill+.md-input-placeholder .md-placeholder-required{color:#ffd740}[md-menu-item] md-icon,md-list [md-subheader],md-nav-list [md-subheader]{color:rgba(0,0,0,.54)}.md-input-underline{border-color:rgba(0,0,0,.12)}.md-input-underline .md-input-ripple{background-color:#673ab7}.md-input-underline .md-input-ripple.md-accent{background-color:#ffd740}.md-input-underline .md-input-ripple.md-warn{background-color:#f44336}md-list a[md-list-item],md-list md-list-item,md-nav-list a[md-list-item],md-nav-list md-list-item{color:#000}md-divider{border-top-color:rgba(0,0,0,.12)}md-nav-list .md-list-item.md-list-item-focus,md-nav-list .md-list-item:hover{background:rgba(0,0,0,.04)}.md-menu-content{background:#fff}[md-menu-item]{background:0 0;color:rgba(0,0,0,.87)}[md-menu-item][disabled]{color:rgba(0,0,0,.38)}[md-menu-item]:focus:not([disabled]),[md-menu-item]:hover:not([disabled]){background:rgba(0,0,0,.04)}.md-progress-bar-background{background:url(data:image/svg+xml;charset=UTF-8,%3Csvg%20version%3D%271.1%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20xmlns%3Axlink%3D%27http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%27%20x%3D%270px%27%20y%3D%270px%27%20enable-background%3D%27new%200%200%205%202%27%20xml%3Aspace%3D%27preserve%27%20viewBox%3D%270%200%205%202%27%20preserveAspectRatio%3D%27none%20slice%27%3E%3Ccircle%20cx%3D%271%27%20cy%3D%271%27%20r%3D%271%27%20fill%3D%27#d1c4e9%27%2F%3E%3C%2Fsvg%3E)}.md-progress-bar-buffer{background-color:#d1c4e9}.md-progress-bar-fill::after{background-color:#5e35b1}md-progress-bar.md-accent .md-progress-bar-background{background:url(data:image/svg+xml;charset=UTF-8,%3Csvg%20version%3D%271.1%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20xmlns%3Axlink%3D%27http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%27%20x%3D%270px%27%20y%3D%270px%27%20enable-background%3D%27new%200%200%205%202%27%20xml%3Aspace%3D%27preserve%27%20viewBox%3D%270%200%205%202%27%20preserveAspectRatio%3D%27none%20slice%27%3E%3Ccircle%20cx%3D%271%27%20cy%3D%271%27%20r%3D%271%27%20fill%3D%27#ffecb3%27%2F%3E%3C%2Fsvg%3E)}md-progress-bar.md-accent .md-progress-bar-buffer{background-color:#ffecb3}md-progress-bar.md-accent .md-progress-bar-fill::after{background-color:#ffb300}md-progress-bar.md-warn .md-progress-bar-background{background:url(data:image/svg+xml;charset=UTF-8,%3Csvg%20version%3D%271.1%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20xmlns%3Axlink%3D%27http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%27%20x%3D%270px%27%20y%3D%270px%27%20enable-background%3D%27new%200%200%205%202%27%20xml%3Aspace%3D%27preserve%27%20viewBox%3D%270%200%205%202%27%20preserveAspectRatio%3D%27none%20slice%27%3E%3Ccircle%20cx%3D%271%27%20cy%3D%271%27%20r%3D%271%27%20fill%3D%27#ffcdd2%27%2F%3E%3C%2Fsvg%3E)}md-progress-bar.md-warn .md-progress-bar-buffer{background-color:#ffcdd2}md-progress-bar.md-warn .md-progress-bar-fill::after{background-color:#e53935}md-progress-circle path,md-progress-spinner path,md-spinner path{stroke:#5e35b1}md-progress-circle.md-accent path,md-progress-spinner.md-accent path,md-spinner.md-accent path{stroke:#ffb300}md-progress-circle.md-warn path,md-progress-spinner.md-warn path,md-spinner.md-warn path{stroke:#e53935}.md-radio-outer-circle{border-color:rgba(0,0,0,.54)}.md-radio-checked .md-radio-outer-circle{border-color:#ffd740}.md-radio-disabled .md-radio-outer-circle{border-color:rgba(0,0,0,.38)}.md-radio-inner-circle{background-color:#ffd740}.md-radio-disabled .md-radio-inner-circle{background-color:rgba(0,0,0,.38)}.md-radio-ripple .md-ripple-foreground{background-color:rgba(255,215,64,.26)}.md-radio-disabled .md-radio-ripple .md-ripple-foreground{background-color:rgba(0,0,0,.38)}.md-select-trigger{color:rgba(0,0,0,.38);border-bottom:1px solid rgba(0,0,0,.12)}md-select:focus:not(.md-select-disabled) .md-select-trigger{color:#673ab7;border-bottom:1px solid #673ab7}md-select.ng-invalid.ng-touched:not(.md-select-disabled) .md-select-trigger{color:#f44336;border-bottom:1px solid #f44336}.md-select-arrow{color:rgba(0,0,0,.38)}md-select:focus:not(.md-select-disabled) .md-select-arrow{color:#673ab7}md-select.ng-invalid.ng-touched:not(.md-select-disabled) .md-select-arrow{color:#f44336}.md-select-content{background:#fff}md-option.md-selected,md-option:focus:not(.md-option-disabled),md-option:hover:not(.md-option-disabled){background:rgba(0,0,0,.04)}.md-select-value{color:rgba(0,0,0,.87)}.md-select-disabled .md-select-value{color:rgba(0,0,0,.38)}md-option.md-selected{color:#673ab7}md-option.md-option-disabled{color:rgba(0,0,0,.38)}.md-sidenav-container,.md-slider-thumb-label-text,md-sidenav,md-toolbar{color:rgba(0,0,0,.87)}.md-sidenav-container{background-color:#fafafa}md-sidenav,md-sidenav.md-sidenav-push{background-color:#fff}.md-sidenav-backdrop.md-sidenav-shown{background-color:rgba(0,0,0,.6)}md-slide-toggle.md-checked:not(.md-disabled) .md-slide-toggle-thumb{background-color:#ffc107}md-slide-toggle.md-checked:not(.md-disabled) .md-slide-toggle-bar{background-color:rgba(255,193,7,.5)}md-slide-toggle.md-slide-toggle-focused:not(.md-checked) .md-ink-ripple{background-color:rgba(0,0,0,.12)}md-slide-toggle.md-slide-toggle-focused .md-ink-ripple{background-color:rgba(255,193,7,.26)}md-slide-toggle.md-primary.md-checked:not(.md-disabled) .md-slide-toggle-thumb{background-color:#673ab7}md-slide-toggle.md-primary.md-checked:not(.md-disabled) .md-slide-toggle-bar{background-color:rgba(103,58,183,.5)}md-slide-toggle.md-primary.md-slide-toggle-focused:not(.md-checked) .md-ink-ripple{background-color:rgba(0,0,0,.12)}md-slide-toggle.md-primary.md-slide-toggle-focused .md-ink-ripple{background-color:rgba(103,58,183,.26)}md-slide-toggle.md-warn.md-checked:not(.md-disabled) .md-slide-toggle-thumb{background-color:#f44336}md-slide-toggle.md-warn.md-checked:not(.md-disabled) .md-slide-toggle-bar{background-color:rgba(244,67,54,.5)}md-slide-toggle.md-warn.md-slide-toggle-focused:not(.md-checked) .md-ink-ripple{background-color:rgba(0,0,0,.12)}md-slide-toggle.md-warn.md-slide-toggle-focused .md-ink-ripple{background-color:rgba(244,67,54,.26)}.md-disabled .md-slide-toggle-thumb{background-color:#bdbdbd}.md-disabled .md-slide-toggle-bar{background-color:rgba(0,0,0,.1)}.md-slide-toggle-thumb{background-color:#fafafa}.md-slide-toggle-bar{background-color:rgba(0,0,0,.38)}.md-slider-track{background-color:rgba(0,0,0,.26)}.md-slider-thumb,.md-slider-thumb-label,.md-slider-track-fill{background-color:#ffd740}.md-tab-header,[md-tab-nav-bar]{border-bottom:1px solid #e0e0e0}.md-tab-label:focus{background-color:rgba(209,196,233,.3)}md-ink-bar{background-color:#673ab7}md-toolbar{background:#f5f5f5}md-toolbar.md-primary{background:#673ab7;color:rgba(255,255,255,.87)}md-toolbar.md-accent{background:#ffd740;color:rgba(0,0,0,.87)}md-toolbar.md-warn{background:#f44336;color:#fff}.md-tooltip{background:rgba(97,97,97,.9)}", ""]);
-
-// exports
-
-
-/***/ }),
-
-/***/ 575:
-/***/ (function(module, exports, __webpack_require__) {
-
-exports = module.exports = __webpack_require__(313)();
-// imports
-exports.i(__webpack_require__(574), "");
-
-// module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n.items {\n    margin: 0 0 2em 0;\n    list-style-type: none;\n    padding: 0;\n}\n\n.items li {\n    cursor: pointer;\n    position: relative;\n    left: 0;\n    background-color: #EEE;\n    margin: .5em;\n    padding: .3em 0;\n    border-radius: 4px;\n}\n\n.items li:hover {\n    color: #607D8B;\n    background-color: #DDD;\n    left: .1em;\n}\n\n.items li.selected {\n    background-color: #607D8B;\n    /*#CFD8DC; */\n    color: white;\n}\n\n.items li.selected:hover {\n    background-color: #BBD8DC;\n}\n\n.items .text {\n    position: relative;\n    top: -3px;\n}\n\n.items .badge {\n    display: inline-block;\n    font-size: small;\n    color: white;\n    background-color: #607D8B;\n    position: relative;\n    left: -1px;\n    top: -2px;\n    margin-right: .8em;\n    border-radius: 4px 0 0 4px;\n    width: 2.2em;\n    height: 2em;\n}\n\n.bg-inverse {\n    background-color: #1fa67a !important;\n}\n\nbody,\nhtml {\n    font-family: Calibri, 'monaco,arial';\n    -webkit-font-smoothing: antialiased;\n}\n\n\n/* Sticky footer styles\n-------------------------------------------------- */\n\nhtml {\n    position: relative;\n    min-height: 100%;\n    font-family: 'calibri', 'Monaco', 'Monospace' !important;\n}\n\nbody {\n    /* Margin bottom by footer height */\n    margin-bottom: 60px;\n    font-family: 'calibri', 'Monaco', 'Monospace' !important;\n}\n\n.footer {\n    position: absolute;\n    bottom: 0;\n    width: 100%;\n    /* Set the fixed height of the footer here */\n    height: 60px;\n    background-color: #f5f5f5;\n}\n\n\n/* Custom page CSS\n-------------------------------------------------- */\n\n\n/* Not required for template or sticky footer method. */\n\nbody > container {}\n\n.container .text-muted {\n    margin: 20px 0;\n}\n\n.footer > .container {\n    padding-right: 15px;\n    padding-left: 15px;\n}\n\ncode {\n    font-size: 80%;\n}\n\n.intro-text {\n    display: table;\n    height: auto;\n    padding: 100px 10px;\n    width: 100%;\n}\n\nmodal-dialog {\n    width: 100% !important;\n    margin: 30px auto;\n    max-width: 100% !important;\n}\n\n@media (min-width: 576px) .modal-dialog {\n    max-width: auto !important;\n    margin: 30px auto;\n}\n\n.tab-content {\n    padding: 2em !important;\n    text-align: justify;\n    font-family: 'calibri', 'Monaco', 'Monospace' !important;\n}", ""]);
-
-// exports
-
-
-/***/ }),
-
-/***/ 852:
+/***/ 729:
 /***/ (function(module, exports) {
 
 /*
@@ -130,7 +115,7 @@ var stylesInDom = {},
 		};
 	},
 	isOldIE = memoize(function() {
-		return /msie [6-9]\b/.test(window.navigator.userAgent.toLowerCase());
+		return /msie [6-9]\b/.test(self.navigator.userAgent.toLowerCase());
 	}),
 	getHeadElement = memoize(function () {
 		return document.head || document.getElementsByTagName("head")[0];
@@ -367,13 +352,13 @@ function updateLink(linkElement, obj) {
 
 /***/ }),
 
-/***/ 856:
+/***/ 733:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(363);
+module.exports = __webpack_require__(283);
 
 
 /***/ })
 
-},[856]);
+},[733]);
 //# sourceMappingURL=styles.bundle.map
