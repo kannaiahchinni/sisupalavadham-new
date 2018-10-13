@@ -1,0 +1,158 @@
+row1#!number#!<a href="html/SV-V/SV-15/15.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-15/15.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">15.A</a>#!html/SV-V/SV-15/15.jpg#!row1#!NA#!अग्रे
+row2#!number#!15.B</a>#!row2#!NA#!अग्रे 
+row3#!number#!15.C</a>#!row3#!NA#!अग्र{नपुं}{1;द्वि}/अग्र{नपुं}{2;द्वि}/अग्र{नपुं}{8;द्वि}/अग्रा{स्त्री}{1;द्वि}/अग्रा{स्त्री}{2;द्वि}/अग्रा{स्त्री}{8;एक}/अग्रा{स्त्री}{8;द्वि}/अग्र{नपुं}{7;एक} 
+row4#!number#!15.D</a>#!row4#!NA#!अग्रे{अव्य}
+row5#!number#!15.E</a>#!row5#!NA#!क्रियाविशेषणम्,2
+row6#!number#!15.F</a>#!row6#!NA#!आगे
+row7#!number#!15.G</a>#!row7#!NA#!Ahead
+row8#!number#!15.H</a>#!row8#!NA#!
+
+row1#!n3#!गतेन
+row2#!n3#!गतेन 
+row3#!n3#!गत{नपुं}{3;एक}/गत{पुं}{3;एक} 
+row4#!n3#!गम्1{कृत्_प्रत्ययः:क्त;गमॢँ;भ्वादिः}{पुं}{3;एक}
+row5#!n3#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,7 </a>
+row6#!n3#!पहुँचे_हुए
+row7#!n3#!went
+row8#!n3#!-
+
+row1#!n2#!रम्यां
+row2#!n2#!रम्यां 
+row3#!n2#!रम्या{स्त्री}{2;एक} 
+row4#!n2#!रम्या{स्त्री}{2;एक} 
+row5#!n2#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,4 </a>
+row6#!n2#!सुन्दर
+row7#!n2#!beautiful
+row8#!n2#!-
+
+row1#!n2#!वसतिं
+row2#!n2#!वसतिं 
+row3#!n2#!वसति{स्त्री}{2;एक} 
+row4#!n2#!वसति{स्त्री}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,5</a>
+row6#!n2#!स्थान_को
+row7#!n2#!place
+row8#!n2#!-
+
+row1#!NA#!परिगृह्य
+row2#!NA#!परिगृह्य 
+row3#!NA#!परि_गृह्1{कृत्_प्रत्ययः:ल्यप्;गृहूँ;भ्वादिः} 
+row4#!NA#!परि_गृह्1{कृत्_प्रत्ययः:ल्यप्;गृहूँ;भ्वादिः} 
+row5#!NA#!<a href="javascript:show('पूर्वकालः, ')">पूर्वकालः,11 </a>
+row6#!NA#!पा_कर
+row7#!NA#!having reached
+row8#!NA#!-
+
+row1#!n3#!आपात्य-सैनिक-निराकरण-आकुलेन
+row2#!n3#!आपात्य-सैनिक-निराकरण-आकुलेन 
+row3#!n3#!आपात्य-सैनिक-निराकरण-आकुल{नपुं}{3;एक} 
+row4#!n3#!आपात्य-सैनिक-निराकरण-आकुल{पुं}{3;एक} 
+row5#!n3#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,7 </a>
+row6#!n3#!वहाँ_आकर_ठहरने_की_इच्छा_करने_वाले_सैनिकों_को_रोकने_में_व्यस्त
+row7#!n3#!when the army wanted to stay there
+row8#!n3#!<a href="html/SV-V/SV-15/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-15/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<आपात्य-सैनिकाः>K1-निराकरणम्>T6-आकुलः>T7</a>#!html/SV-V/SV-15/samaasa1.jpg
+
+
+row1#!n3#!उद्बाहुना
+row2#!n3#!उद्बाहुना 
+row3#!n3#!उद्बाहु{पुं}{3;एक}/उद्बाहु{नपुं}{3;एक} 
+row4#!n3#!उद्बाहु{पुं}{3;एक} 
+row5#!n3#!<a href="javascript:show('करण,')">करण,17</a>
+row6#!n3#!ऊपर_हाथ_किये_हुए
+row7#!n3#!by waiving hands
+row8#!n3#!<a href="html/SV-V/SV-15/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-15/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><उद्-बाहुः>Bs6</a>#!html/SV-V/SV-15/samaasa2.jpg
+
+
+row1#!NA#!(केनचित्)
+row2#!NA#!केनचित्
+row3#!NA#!केनचित्{अव्य}/किञ्चित्{पुं}{3;एक}/किञ्चित्{नपुं}{3;एक} 
+row4#!NA#!केनचित्{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,11</a>
+row6#!NA#!किसीसे 
+row7#!NA#!by some
+row8#!NA#!-
+
+row1#!n3#!(जनेन)
+row2#!n3#!जनेन
+row3#!n3#!जन{पुं}{3;एक} 
+row4#!n3#!जन{पुं}{3;एक} 
+row5#!n3#!<a href="javascript:show('करण,')">करण,11</a>
+row6#!n3#!जन_से 
+row7#!n3#!person
+row8#!n3#!-
+
+row1#!NA#!अन्यतः
+row2#!NA#!अन्यतः 
+row3#!NA#!अन्य{तसिल्} 
+row4#!NA#!अन्य{तसिल्}{अव्य}
+row5#!NA#!<a href="javascript:show('अपादानम्, ')">अपादानम्,11 </a>
+row6#!NA#!दूसरी_ओर
+row7#!NA#!from other side
+row8#!NA#!-
+
+row1#!n1#!यान्तः
+row2#!n1#!यान्तः 
+row3#!n1#!यात्{पुं}{1;बहु}/यान्त{पुं}{1;एक} 
+row4#!n1#!या1{कृत्_प्रत्ययः:शतृ;या;अदादिः;पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('समानकालः, ')">समानकालः,17 </a>
+row6#!n1#!जाते_हुए
+row7#!n1#!while going
+row8#!n1#!-
+
+row1#!n1#!आत्म-वर्ग्या
+row2#!n1#!आत्म-वर्ग्या 
+row3#!n1#!आत्म-वर्ग्या{स्त्री}{1;एक} 
+row4#!n1#!आत्म-वर्ग्य{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,17</a>
+row6#!n1#!साथियों_को
+row7#!n1#!friends (another army)
+row8#!n1#!<a href="html/SV-V/SV-15/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-15/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><आत्म-वर्ग्याः>T6</a>#!html/SV-V/SV-15/samaasa3.jpg
+
+
+row1#!n2#!प्लुत-कृत-स्वरम्
+row2#!n2#!प्लुत-कृत-स्वरम् 
+row3#!n2#!प्लुत-कृत-स्वर{पुं}{2;एक} 
+row4#!n2#!प्लुत-कृत-स्वर{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म, ')">कर्म,17 </a>
+row6#!n2#!अत्युच्च स्वर_से
+row7#!n2#!loudly
+row8#!n2#!<a href="html/SV-V/SV-15/samaasa4.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-15/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><प्लुतकृत-स्वरः>Bs7</a>#!html/SV-V/SV-15/samaasa4.jpg
+
+
+row1#!NA#!आशु
+row2#!NA#!आशु 
+row3#!NA#!आशु{अव्य}/आशु{नपुं}{1;एक}/आशु{नपुं}{2;एक} 
+row4#!NA#!आशु{अव्य} 
+row5#!NA#!<a href="javascript:show('क्रियाविशेषणम्, ')">क्रियाविशेषणम्,17 </a>
+row6#!NA#!शीघ्रता_से
+row7#!NA#!quickly
+row8#!NA#!-
+
+row1#!NA#!दूरात्
+row2#!NA#!दूरात् 
+row3#!NA#!दूरात्{अव्य}/दूर{पुं}{5;एक}/दूर{नपुं}{5;एक} 
+row4#!NA#!दूरात्{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,17</a>
+row6#!NA#!दूर_से 
+row7#!NA#!from a distance
+row8#!NA#!-
+
+row1#!NA#!मुहुः
+row2#!NA#!मुहुः 
+row3#!NA#!मुहुः{अव्य}/मुहुः{अव्य} 
+row4#!NA#!मुहुः{अव्य} 
+row5#!NA#!<a href="javascript:show('क्रियाविशेषणम्, ')">क्रियाविशेषणम्,17 </a>
+row6#!NA#!बार-बार
+row7#!NA#!frequently
+row8#!NA#!-
+
+row1#!v#!आजुहुविरे.
+row2#!v#!आजुहुविरे 
+row3#!v#!आङ्_ह्वे1{कर्तरि;लिट्;प्र;बहु;उभयपदी;ह्वेञ्;भ्वादिः}.
+row4#!v#!आङ्_ह्वे1{कर्तरि;लिट्;प्र;बहु;उभयपदी;ह्वेञ्;भ्वादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!बुलाया.
+row7#!v#!called.
+row8#!v#!-
+
+

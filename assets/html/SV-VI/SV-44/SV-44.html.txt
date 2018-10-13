@@ -1,0 +1,121 @@
+row1#!number#!<a href="html/SV-VI/SV-44/44.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-44/44.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">44.A</a>#!html/SV-VI/SV-44/44.jpg#!row1#!n1#!समयः
+row2#!number#!44.B</a>#!row2#!n1#!समयः
+row3#!number#!44.C</a>#!row3#!n1#!समय{पुं;1;एक}
+row4#!number#!44.D</a>#!row4#!n1#!समय{पुं;1;एक}
+row5#!number#!44.E</a>#!row5#!n1#!कर्ता,5
+row6#!number#!44.F</a>#!row6#!n1#!समय
+row7#!number#!44.G</a>#!row7#!n1#!Time
+row8#!number#!44.H</a>#!row8#!n1#!
+
+row1#!NA#!एव
+row2#!NA#!एव
+row3#!NA#!एव{अव्य}
+row4#!NA#!एव{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,1</a>
+row6#!NA#!ही
+row7#!NA#!indeed
+row8#!NA#!-
+
+row1#!n6#!शरीरिणां
+row2#!n6#!शरीरिणां
+row3#!n6#!शरीरिन्{पुं;6;बहु}
+row4#!n6#!शरीरिन्{पुं;6;बहु}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,4</a>
+row6#!n6#!प्राणियों_के
+row7#!n6#!embodied being
+row8#!n6#!-
+
+row1#!n2#!बल-अबलं
+row2#!n2#!बल-अबलं
+row3#!n2#!बल-अबल{नपुं;1;एक}/अबल{नपुं;2;एक}/अबल{नपुं;2;एक}
+row4#!n2#!बल-अबल{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,5</a>
+row6#!n2#!बल-अबल_को
+row7#!n2#!strong and weak
+row8#!n2#!<a href="html/SV-VI/SV-44/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-44/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><बल-अबलम्>Ds</a>#!html/SV-VI/SV-44/samaasa1.jpg
+
+
+row1#!v#!करोति
+row2#!v#!करोति
+row3#!v#!कृ3{कर्तरि;लट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}
+row4#!v#!कृ3{कर्तरि;लट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}
+row5#!v#!<a href="javascript:show('प्रतियोगी,')">प्रतियोगी,6</a>
+row6#!v#!करता_है
+row7#!v#!makes
+row8#!v#!-
+
+row1#!NA#!इति
+row2#!NA#!इति
+row3#!NA#!इति{अव्य}
+row4#!NA#!इति{अव्य}
+row5#!NA#!<a href="javascript:show('अनुयोगी,')">अनुयोगी,7</a>
+row6#!NA#!ऐसा
+row7#!NA#!thus
+row8#!NA#!-
+
+row1#!n1#!प्रणि-गदन्तः
+row2#!n1#!प्रणि-गदन्तः
+row3#!n1#!प्रणि-गदत्{पुं;1;बहु}/गदत्{पुं;8;बहु}
+row4#!n1#!प्रणि_गद्2{कृत्_प्रत्ययः:शतृ;गदीँ;चुरादिः;पुं}{1;बहु}
+row5#!n1#!<a href="javascript:show('प्रतियोगी,')">प्रतियोगी,8</a>
+row6#!n1#!कहते_हुए
+row7#!n1#!while saying
+row8#!n1#!-
+
+row1#!NA#!इव
+row2#!NA#!इव
+row3#!NA#!इव{अव्य}
+row4#!NA#!इव{अव्य}
+row5#!NA#!<a href="javascript:show('अनुयोगी,')">अनुयोगी,10</a>
+row6#!NA#!जैसे
+row7#!NA#!like
+row8#!NA#!-
+
+row1#!n7#!शरदि
+row2#!n7#!शरदि
+row3#!n7#!शरद्{स्त्री;7;एक}
+row4#!n7#!शरद्{स्त्री;7;एक}
+row5#!n7#!<a href="javascript:show('अधिकरणम्,')">अधिकरणम्,13</a>
+row6#!n7#!शरद्-ऋतु_में
+row7#!n7#!in autumn season
+row8#!n7#!-
+
+row1#!n1#!हंस-रवाः
+row2#!n1#!हंस-रवाः
+row3#!n1#!हंस-रव{पुं;1;बहु}/रव{पुं;8;बहु}
+row4#!n1#!हंस-रव{पुं;1;बहु}
+row5#!n1#!<a href="javascript:show('सम्बोध्यः,')">सम्बोध्यः,13</a>
+row6#!n1#!हंसों_के_शब्द
+row7#!n1#!chirping of Swans
+row8#!n1#!<a href="html/SV-VI/SV-44/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-44/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><हंस-रवाः>T6</a>#!html/SV-VI/SV-44/samaasa2.jpg
+
+
+row1#!n2#!परुषीकृतस्वर-मयूरं
+row2#!n2#!परुषीकृतस्वर-मयूरं
+row3#!n2#!परुषीकृतस्वर-मयूर{पुं;2;एक}
+row4#!n2#!परुषीकृतस्वर-मयूर{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,13</a>
+row6#!n2#!मयूरों के स्वरों को परुष (अरमणीय) करने वाले
+row7#!n2#!'while making peacocks'' sound unpleasant'
+row8#!n2#!<a href="html/SV-VI/SV-44/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-44/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<परुषीकृत-स्वराः>Bs6-मयूरम्>Bs7</a>#!html/SV-VI/SV-44/samaasa3.jpg
+
+
+row1#!n2#!रमणीयताम्
+row2#!n2#!रमणीयताम्
+row3#!n2#!रमणीयताम्}
+row4#!n2#!रमणीयताम्{स्त्री;2;एक}
+row5#!n2#!<a href="javascript:show('कर्मसमानाधिकरणम्,')">कर्मसमानाधिकरणम्,13</a>
+row6#!n2#!रमणीयता_को
+row7#!n2#!pleasantness
+row8#!n2#!-
+
+row1#!v#!अयुः
+row2#!v#!अयुः
+row3#!v#!या1{कर्तरि;लङ्;प्र;बहु;परस्मैपदी;या;अदादिः}
+row4#!v#!या1{कर्तरि;लङ्;प्र;बहु;परस्मैपदी;या;अदादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!प्राप्त_हुए.
+row7#!v#!obtained.
+row8#!v#!-
+
+

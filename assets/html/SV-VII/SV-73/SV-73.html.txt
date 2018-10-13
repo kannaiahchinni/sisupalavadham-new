@@ -1,0 +1,94 @@
+row1#!number#!<a href="html/SV-VII/SV-73/73.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-73/73.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">73.A</a>#!html/SV-VII/SV-73/73.jpg#!row1#!n2#!हिमलव-सदृशः
+row2#!number#!73.B</a>#!row2#!n2#!हिमलव-सदृशः
+row3#!number#!73.C</a>#!row3#!n2#!हिमलव-सदृश्{पुं;1;बहु}/सदृश्{पुं;2;बहु}/सदृश्{पुं;5;एक}/सदृश्{पुं;6;एक}/सदृश्{पुं;8;बहु}/सदृश्{नपुं;1;बहु}/सदृश्{नपुं;2;बहु}/सदृश्{नपुं;5;एक}/सदृश्{नपुं;6;एक}/सदृश्{नपुं;8;बहु}/सदृश{पुं;1;एक}
+row4#!number#!73.D</a>#!row4#!n2#!हिमलव-सदृश्{पुं;2;एक}
+row5#!number#!73.E</a>#!row5#!n2#!विशेषणम्,2
+row6#!number#!73.F</a>#!row6#!n2#!हिमकण_के_सदृश
+row7#!number#!73.G</a>#!row7#!n2#!which are like droplets of snow
+row8#!number#!73.H</a>#!row8#!n2#!<<हिम-लवाः>T6-सदृक्>T6
+
+row1#!n2#!श्रमोद-बिन्दून्
+row2#!n2#!श्रमोद-बिन्दून्
+row3#!n2#!श्रमोद-बिन्दु{पुं;2;बहु}
+row4#!n2#!श्रमोद-बिन्दु{पुं;2;बहु}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,2</a>
+row6#!n2#!स्वेद-बिन्दुओं_को
+row7#!n2#!drops of sweat
+row8#!n2#!<a href="html/SV-VII/SV-73/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-73/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<श्रम-उदम्>T3-बिन्दवः>T6</a>#!html/SV-VII/SV-73/samaasa1.jpg
+
+
+row1#!n3#!अप-नयता
+row2#!n3#!अप-नयता
+row3#!n3#!अप-नयत्{पुं;3;एक}/नयत्{नपुं;3;एक}/नयता{स्त्री;1;एक}
+row4#!n3#!अप_नी1{कृत्_प्रत्ययः:शतृ;णीञ्;भ्वादिः;पुं}{3;एक}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,5</a>
+row6#!n3#!दूर_करते_हुए
+row7#!n3#!(with a pretext) to erase
+row8#!n3#!-
+
+row1#!NA#!किल
+row2#!NA#!किल
+row3#!NA#!किल{अव्य}/किल्1{कर्तरि;लोट्;म;एक;परस्मैपदी;किलँ;तुदादिः}
+row4#!NA#!किल{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,3</a>
+row6#!NA#!ही
+row7#!NA#!indeed
+row8#!NA#!-
+
+row1#!n3#!तरुणेन
+row2#!n3#!तरुणेन
+row3#!n3#!तरुण{पुं;3;एक}/तरुण{नपुं;3;एक}
+row4#!n3#!तरुण{पुं;3;एक}
+row5#!n3#!<a href="javascript:show('कर्ता,')">कर्ता,10</a>
+row6#!n3#!युवक_से
+row7#!n3#!by a young man
+row8#!n3#!-
+
+row1#!n6#!नूतनोढ-वध्वाः
+row2#!n6#!नूतनोढ-वध्वाः
+row3#!n6#!नूतनोढ-वधू{स्त्री;5;एक}/वधू{स्त्री;6;एक}/वधु{स्त्री;5;एक}/वधु{स्त्री;6;एक}
+row4#!n6#!नूतनोढ-वधू{स्त्री;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,7</a>
+row6#!n6#!नवोढ़ा-प्रियाङ्गना_के
+row7#!n6#!of newly wed wife
+row8#!n6#!<a href="html/SV-VII/SV-73/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-73/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<नूतन-ऊढा>K3-वधूः>K3</a>#!html/SV-VII/SV-73/samaasa2.jpg
+
+
+row1#!n2#!कुचकलश-किशोरकौ
+row2#!n2#!कुचकलश-किशोरकौ
+row3#!n2#!कुचकलश-किशोरक{पुं;1;द्वि}/किशोरक{पुं;2;द्वि}/किशोरक{पुं;8;द्वि}
+row4#!n2#!कुचकलश-किशोरक{पुं;2;द्वि}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,10</a>
+row6#!n2#!कलशतुल्य तथा अश्वशावक के समान स्तनद्वय को
+row7#!n2#!on the (two) breasts that were appearing like jars and colts
+row8#!n2#!<a href="html/SV-VII/SV-73/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-73/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<कुच-कलशौ>K5-किशोरकौ>K5</a>#!html/SV-VII/SV-73/samaasa3.jpg
+
+
+row1#!NA#!कथञ्चित्
+row2#!NA#!कथञ्चित्
+row3#!NA#!कथञ्चित्{अव्य}
+row4#!NA#!कथञ्चित्{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया-विशेषणम्,')">क्रिया-विशेषणम्,10</a>
+row6#!NA#!किसी प्रकार अर्थात् बड़ी कठिनाई के साथ
+row7#!NA#!some how (with a great difficulty)
+row8#!NA#!-
+
+row1#!n3#!तरलतया
+row2#!n3#!तरलतया
+row3#!n3#!तरलता{स्त्री;3;एक}
+row4#!n3#!तरलता{स्त्री;3;एक}
+row5#!n3#!<a href="javascript:show('हेतुः')">हेतुः.10</a>
+row6#!n3#!चपलता_से
+row7#!n3#!out of libidinous
+row8#!n3#!-
+
+
+
+
+
+
+
+
+
+
+

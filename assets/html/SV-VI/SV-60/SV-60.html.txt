@@ -1,0 +1,94 @@
+row1#!number#!<a href="html/SV-VI/SV-60/60.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-60/60.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">60.A</a>#!html/SV-VI/SV-60/60.jpg#!row1#!n6#!धृततुषार-कणस्य
+row2#!number#!60.B</a>#!row2#!n6#!धृततुषार-कणस्य
+row3#!number#!60.C</a>#!row3#!n6#!धृततुषार-कण{पुं;6;एक}
+row4#!number#!60.D</a>#!row4#!n6#!धृततुषार-कण{पुं;6;एक}
+row5#!number#!60.E</a>#!row5#!n6#!षष्ठीसम्बन्धः,2
+row6#!number#!60.F</a>#!row6#!n6#!हिमकण युक्त
+row7#!number#!60.G</a>#!row7#!n6#!of snowy
+row8#!number#!60.H</a>#!row8#!n6#!<धृत-<तुषार-कणाः>T6>Bs3
+
+row1#!n6#!नभस्वतः
+row2#!n6#!नभस्वतः
+row3#!n6#!नभस्वत्{पुं;2;बहु}/नभस्वत्{पुं;5;एक}/नभस्वत्{पुं;6;एक}/नभस्वत्{नपुं;5;एक}/नभस्वत्{नपुं;6;एक}
+row4#!n6#!नभस्वत्{पुं;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,3</a>
+row6#!n6#!वायु_के
+row7#!n6#!wind
+row8#!n6#!-
+
+row1#!n1#!तरुलताङ्गुलितर्जन-विभ्रमाः
+row2#!n1#!तरुलताङ्गुलितर्जन-विभ्रमाः
+row3#!n1#!तरुलताङ्गुलितर्जन-विभ्रम{पुं;1;बहु}/विभ्रम{पुं;8;बहु}/विभ्रमा{स्त्री;1;बहु}/विभ्रमा{स्त्री;2;बहु}/विभ्रमा{स्त्री;8;बहु}
+row4#!n1#!तरुलताङ्गुलितर्जन-विभ्रम{पुं;1;बहु}
+row5#!n1#!<a href="javascript:show('कर्म,')">कर्म,10</a>
+row6#!n1#!वृक्षों पर चढ़ी हुई लताओं के (कम्पनरूप) तर्जनों रूपी विलासों को
+row7#!n1#!Amorous pastime in the form of rupture caused
+row8#!n1#!<a href="html/SV-VI/SV-60/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-60/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<<तरु-लताः>T6-अङ्गुल्यः>K6-तर्जनानि>T3-विभ्रमाः>K6</a>#!html/SV-VI/SV-60/samaasa1.jpg
+
+
+row1#!n2#!पृथु
+row2#!n2#!पृथु
+row3#!n2#!पृथु{नपुं;1;एक}/पृथु{नपुं;2;एक}/पृथु{नपुं;8;एक}
+row4#!n2#!पृथु{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,5</a>
+row6#!n2#!विशाल
+row7#!n2#!large
+row8#!n2#!-
+
+row1#!n2#!इष्टभुज-अन्तरं
+row2#!n2#!इष्टभुज-अन्तरं
+row3#!n2#!इष्टभुज-अन्तर{पुं;2;एक}/अन्तर{नपुं;1;एक}/अन्तर{नपुं;2;एक}/अन्तर{पुं;2;एक}/अन्तर{नपुं;1;एक}/अन्तर{नपुं;2;एक}
+row4#!n2#!इष्टभुज-अन्तर{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,7</a>
+row6#!n2#!प्रियतम की छाती को
+row7#!n2#!to the creepers in the form of women
+row8#!n2#!<a href="html/SV-VI/SV-60/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-60/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><इष्ट-भुजान्तरम्>T6</a>#!html/SV-VI/SV-60/samaasa2.jpg
+
+
+row1#!NA#!निरन्तरम्
+row2#!NA#!निरन्तरम्
+row3#!NA#!निरन्तर{पुं;2;एक}/निरन्तर{नपुं;1;एक}/निरन्तर{नपुं;2;एक}
+row4#!NA#!निरन्तर{अव्य}
+row5#!NA#!<a href="javascript:show('क्रियाविशेषणम्,')">क्रियाविशेषणम्,7</a>
+row6#!NA#!निरन्तर
+row7#!NA#!always
+row8#!NA#!-
+
+row1#!n3#!अनितया
+row2#!n3#!अनितया
+row3#!n3#!अनिता{स्त्री;3;एक}
+row4#!n3#!इ1{क्त;इण्;अदादिः;स्त्री;3;एक}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,8</a>
+row6#!n3#!प्राप्त नहीं करने वाली
+row7#!n3#!unable to obtain
+row8#!n3#!<a href="html/SV-VI/SV-60/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-60/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><अ-इता>Tn</a>#!html/SV-VI/SV-60/samaasa3.jpg
+
+
+row1#!n3#!वनितया
+row2#!n3#!वनितया
+row3#!n3#!वनिता{स्त्री;3;एक}
+row4#!n3#!वनिता{स्त्री;3;एक}
+row5#!n3#!<a href="javascript:show('कर्ता,')">कर्ता,10</a>
+row6#!n3#!स्त्री_से
+row7#!n3#!by women
+row8#!n3#!-
+
+row1#!NA#!न
+row2#!NA#!न
+row3#!NA#!न{अव्य}
+row4#!NA#!न{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,10</a>
+row6#!NA#!नहीं
+row7#!NA#!not
+row8#!NA#!-
+
+row1#!v#!विषेहिरे
+row2#!v#!विषेहिरे
+row3#!v#!विषेहिरे}
+row4#!v#!वि_सह्1{कर्मणि;लिट्;प्र.बहु;आत्मनेपदी;षहँ;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!सहन_कर_सकी.
+row7#!v#!bear.
+row8#!v#!-
+
+

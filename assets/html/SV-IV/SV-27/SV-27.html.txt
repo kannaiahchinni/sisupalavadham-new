@@ -1,0 +1,149 @@
+row1#!number#!<a href="html/SV-IV/SV-27/27-a.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-27/27-a.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">27-a.A</a>#!html/SV-IV/SV-27/27-a.jpg#!row1#!n6#!मेरोः
+row2#!number#!27-a.B</a>#!row2#!n6#!मेरोः 
+row3#!number#!27-a.C</a>#!row3#!n6#!मेरु{पुं}{5;एक}/मेरु{पुं}{6;एक} 
+row4#!number#!27-a.D</a>#!row4#!n6#!मेरु{पुं}{6;एक} 
+row5#!number#!27-a.E</a>#!row5#!n6#!षष्ठीसम्बन्धः,2 
+row6#!number#!27-a.F</a>#!row6#!n6#!सुमेरु_के
+row7#!number#!27-a.G</a>#!row7#!n6#!those of Meru
+row8#!number#!27-a.H</a>#!row8#!n6#!
+
+row1#!n7#!समान-वप्रे
+row2#!n7#!समान-वप्रे 
+row3#!n7#!समान-वप्र{नपुं}{1;द्वि}/वप्र{नपुं}{2;द्वि}/वप्र{पुं}{7;एक}/वप्र{नपुं}{7;एक} 
+row4#!n7#!समान-वप्र{पुं}{7;एक} 
+row5#!n7#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,3 </a>
+row6#!n7#!समान वप्रवाले
+row7#!n7#!whose peaks are like
+row8#!n7#!<a href="html/SV-IV/SV-27/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-27/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><समान -वप्रः>Bs6</a>#!html/SV-IV/SV-27/samaasa1.jpg
+
+
+row1#!n7#!अस्मिन्
+row2#!n7#!अस्मिन् 
+row3#!n7#!इदम्{पुं}{7;एक}/इदम्{नपुं}{7;एक} 
+row4#!n7#!इदम्{पुं}{7;एक} 
+row5#!n7#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,4</a>
+row6#!n7#!इस (रैवतक पर्वत_पर)
+row7#!n7#!on this Raivataka Mountain
+row8#!n7#!-
+
+row1#!NA#!इतस्ततः
+row2#!NA#!इतस्ततः 
+row3#!NA#!इतस्ततः{अव्य} 
+row4#!NA#!इतस्ततः{अव्य} 
+row5#!NA#!<a href="javascript:show('अधिकरणम्, ')">अधिकरणम्,6 </a>
+row6#!NA#!इधर_उधर 
+row7#!NA#!here and there
+row8#!NA#!-
+
+row1#!n1#!मणि-सानुरागाः
+row2#!n1#!मणिसानुरागाः 
+row3#!n1#!मणि-सानुराग{पुं}{1;बहु}/सानुरागा{स्त्री}{1;बहु}/सानुरागा{स्त्री}{2;बहु} 
+row4#!n1#!मणि-सानुराग{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('कर्ता, ')">कर्ता,6 </a>
+row6#!n1#!मणिमय शिखरों_के_रंग
+row7#!n1#!the brilliant hues of jewelled ridges
+row8#!n1#!<a href="html/SV-IV/SV-27/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-27/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<मणि-सानवः>T6-रागाः>T6</a>#!html/SV-IV/SV-27/samaasa2.jpg
+
+
+row1#!v#!विलसन्ति.
+row2#!v#!विलसन्ति 
+row3#!v#!विलसत्{नपुं}{1;बहु}/विलसत्{नपुं}{2;बहु}/वि_लस्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;लसँ;भ्वादिः}. 
+row4#!v#!वि_लस्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;लसँ;भ्वादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!शोभ_रहे_हैं.
+row7#!v#!gleam.
+row8#!v#!-
+
+row1#!number#!<a href="html/SV-IV/SV-27/27-b.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-27/27-b.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">27-b.A</a>#!html/SV-IV/SV-27/27-b.jpg#!row1#!n7#!नव-प्रेमणि
+row2#!number#!27-b.B</a>#!row2#!n7#!नवप्रेमणि 
+row3#!number#!27-b.C</a>#!row3#!n7#!नव-प्रेमन्{नपुं}{7;एक} 
+row4#!number#!27-b.D</a>#!row4#!n7#!नव-प्रेमन्{पुं}{7;एक} 
+row5#!number#!27-b.E</a>#!row5#!n7#!विशेषणम्,2
+row6#!number#!27-b.F</a>#!row6#!n7#!नये प्रेम वाले
+row7#!number#!27-b.G</a>#!row7#!n7#!Whose love is new
+row8#!number#!27-b.H</a>#!row8#!n7#!<नव-प्रेम>Bs6
+
+row1#!n7#!पत्यौ
+row2#!n7#!पत्यौ 
+row3#!n7#!पति{पुं}{7;एक}/पत्य{पुं}{1;द्वि}/पत्य{पुं}{2;द्वि} 
+row4#!n7#!पति{पुं}{7;एक} 
+row5#!n7#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,8</a>
+row6#!n7#!पति_में
+row7#!n7#!towards their husbands
+row8#!n7#!-
+
+row1#!n1#!सानुरागाः
+row2#!n1#!सानुरागाः 
+row3#!n1#!सानुराग{पुं}{1;बहु}/सानुरागा{स्त्री}{1;बहु}/सानुरागा{स्त्री}{2;बहु} 
+row4#!n1#!सानुराग{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,6</a>
+row6#!n1#!आसक्त 
+row7#!n1#!full of love
+row8#!n1#!<a href="html/SV-IV/SV-27/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-27/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><सह-अनुरागः>BvS</a>#!html/SV-IV/SV-27/samaasa3.jpg
+
+
+row1#!n3#!सुरसुन्दरीभिः
+row2#!n3#!सुरसुन्दरीभिः 
+row3#!n3#!सुरसुन्दरी{स्त्री}{3;बहु} 
+row4#!n3#!सुरसुन्दरी{स्त्री}{3;बहु} 
+row5#!n3#!<a href="javascript:show('उपपदसम्बन्धः, ')">उपपदसम्बन्धः,5 </a>
+row6#!n3#!देवाङ्गनाओं_के
+row7#!n3#!celestial beauties
+row8#!n3#!<a href="html/SV-IV/SV-27/samaasa4.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-27/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><सुर-सुन्दर्यः>T6</a>#!html/SV-IV/SV-27/samaasa4.jpg
+
+
+row1#!n1#!समाः
+row2#!n1#!समाः 
+row3#!n1#!सम{पुं}{1;बहु}/समा{स्त्री}{1;बहु}/समा{स्त्री}{2;बहु}/समा{स्त्री}{1;बहु}/समा{स्त्री}{2;बहु} 
+row4#!n1#!समा{स्त्री}{1;बहु} 
+row5#!n1#!<a href="javascript:show('समुच्चितम्,')">समुच्चितम्,7</a>
+row6#!n1#!समान
+row7#!n1#!equal to
+row8#!n1#!-
+
+row1#!n1#!स्त्रियः
+row2#!n1#!स्त्रियः 
+row3#!n1#!स्त्री{स्त्री}{1;बहु}/स्त्री{स्त्री}{2;बहु} 
+row4#!n1#!स्त्री{स्त्री}{1;बहु} 
+row5#!n1#!<a href="javascript:show('समुच्चितम्,')">समुच्चितम्,7</a>
+row6#!n1#!स्त्री
+row7#!n1#!women
+row8#!n1#!-
+
+row1#!NA#!च
+row2#!NA#!च 
+row3#!NA#!च{अव्य} 
+row4#!NA#!च{अव्य} 
+row5#!NA#!<a href="javascript:show('कर्ता,')">कर्ता,9</a>
+row6#!NA#!भी
+row7#!NA#!also
+row8#!NA#!-
+
+row1#!NA#!(इतस्ततः)
+row2#!NA#!इतस्ततः
+row3#!NA#!इतस्ततः{अव्य} 
+row4#!NA#!इतस्ततः{अव्य} 
+row5#!NA#!<a href="javascript:show('अधिकरणम्, ')">अधिकरणम्,9 </a>
+row6#!NA#!इधर_उधर 
+row7#!NA#!here and there
+row8#!NA#!-
+
+row1#!v#!(विलसन्ति).
+row2#!v#!विलसन्ति
+row3#!v#!विलसत्{नपुं}{1;बहु}/विलसत्{नपुं}{2;बहु}/वि_लस्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;लसँ;भ्वादिः}. 
+row4#!v#!वि_लस्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;लसँ;भ्वादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!शोभ_रहे_हैं.
+row7#!v#!gleam.
+row8#!v#!-
+
+row1#!number#!<a href="html/SV-IV/SV-27/dir = Canto-IV/IV-27.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-27/dir = Canto-IV/IV-27.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">dir = Canto-IV/IV-27.A</a>#!html/SV-IV/SV-27/dir = Canto-IV/IV-27.jpg
+row2#!number#!dir = Canto-IV/IV-27.B</a>
+row3#!number#!dir = Canto-IV/IV-27.C</a>
+row4#!number#!dir = Canto-IV/IV-27.D</a>
+row5#!number#!dir = Canto-IV/IV-27.E</a>
+row6#!number#!dir = Canto-IV/IV-27.F</a>
+row7#!number#!dir = Canto-IV/IV-27.G</a>
+row8#!number#!dir = Canto-IV/IV-27.H</a>
+
+

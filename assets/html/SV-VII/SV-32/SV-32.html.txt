@@ -1,0 +1,113 @@
+row1#!number#!<a href="html/SV-VII/SV-32/32.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-32/32.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">32.A</a>#!html/SV-VII/SV-32/32.jpg#!row1#!n1#!अन्या
+row2#!number#!32.B</a>#!row2#!n1#!अन्या
+row3#!number#!32.C</a>#!row3#!n1#!अन्या{स्त्री;1;एक}/अन्या{स्त्री;1;एक}
+row4#!number#!32.D</a>#!row4#!n1#!अन्या{स्त्री;1;एक}
+row5#!number#!32.E</a>#!row5#!n1#!कर्ता,12
+row6#!number#!32.F</a>#!row6#!n1#!अन्य_कोई_अङ्गना
+row7#!number#!32.G</a>#!row7#!n1#!Another woman
+row8#!number#!32.H</a>#!row8#!n1#!
+
+row1#!n2#!प्रियम्
+row2#!n2#!प्रियम्
+row3#!n2#!प्रिय{पुं;2;एक}/प्रिय{नपुं;1;एक}/प्रिय{नपुं;2;एक}
+row4#!n2#!प्रिय{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('उपपदसं,')">उपपदसं,3</a>
+row6#!n2#!प्रिय
+row7#!n2#!beloved
+row8#!n2#!-
+
+row1#!NA#!अभि
+row2#!NA#!अभि
+row3#!NA#!अभी{पुं;8;एक}/अभी{नपुं;1;एक}/अभी{नपुं;2;एक}/अभी{नपुं;8;एक}
+row4#!NA#!अभि{अव्य}
+row5#!NA#!<a href="javascript:show('अधिकरणम्,')">अधिकरणम्,12</a>
+row6#!NA#!के_सामने
+row7#!NA#!in front of (her)
+row8#!NA#!-
+
+row1#!n6#!कुसुमोद्यतस्य
+row2#!n6#!कुसुमोद्यतस्य
+row3#!n6#!कुसुमोद्यतस्य}
+row4#!n6#!कुसुमोद्यतस्य{पुं;6;एक}
+row5#!n6#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,5</a>
+row6#!n6#!पुष्प तोड़ने के लिए ऊपर किये हुए (दक्षिण)
+row7#!n6#!in order to pluck flowers when raised (her)
+row8#!n6#!<a href="html/SV-VII/SV-32/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-32/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><कुसुम-उद्यतः></a>#!html/SV-VII/SV-32/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><कुसुम-उद्यतः
+
+
+row1#!n6#!बाहोः
+row2#!n6#!बाहोः
+row3#!n6#!बाहु{पुं;5;एक}/बाहु{पुं;6;एक}
+row4#!n6#!बाहु{पुं;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,6</a>
+row6#!n6#!बाहु_के
+row7#!n6#!(right) shoulder
+row8#!n6#!-
+
+row1#!n2#!नवनखमण्डन-चारु
+row2#!n2#!नवनखमण्डन-चारु
+row3#!n2#!नवनखमण्डन-चारु{नपुं;1;एक}/चारु{नपुं;2;एक}/चारु{नपुं;8;एक}
+row4#!n2#!नवनखमण्डन-चारु{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,12</a>
+row6#!n2#!(सुरतावसर पर किये हुए) नवीन नखक्षतरूपी भूषण से अलंकृत
+row7#!n2#!that was adorned with new scars of nails (during coitus) was visible
+row8#!n2#!<a href="html/SV-VII/SV-32/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-32/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<नव-नखम्>K1-मण्डनम्>K6-चारु>T3</a>#!html/SV-VII/SV-32/samaasa2.jpg
+
+
+row1#!n2#!मूलं
+row2#!n2#!मूलं
+row3#!n2#!मूल{पुं;2;एक}/मूल{नपुं;1;एक}/मूल{नपुं;2;एक}
+row4#!n2#!मूल{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,12</a>
+row6#!n2#!मूल (बगल काँख) को
+row7#!n2#!(her) waist
+row8#!n2#!-
+
+row1#!NA#!मुहुः
+row2#!NA#!मुहुः
+row3#!NA#!मुहुः{अव्य}/मुहुः{अव्य}
+row4#!NA#!मुहुः{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,12</a>
+row6#!NA#!बार-बार
+row7#!NA#!frequently
+row8#!NA#!-
+
+row1#!n3#!इतरकर-आहितेन
+row2#!n3#!इतरकर-आहितेन
+row3#!n3#!इतरकर-आहित{नपुं;3;एक}
+row4#!n3#!इतरकर-आहित{पुं;3;एक}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,10</a>
+row6#!n3#!बाँयें हाथ से रखे
+row7#!n3#!with (her) left hand
+row8#!n3#!<a href="html/SV-VII/SV-32/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-32/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<इतर-कर>K3-आहितः>T3</a>#!html/SV-VII/SV-32/samaasa3.jpg
+
+
+row1#!n3#!अंशुकेन
+row2#!n3#!अंशुकेन
+row3#!n3#!अंशुक{नपुं;3;एक}/अंशुक{पुं;3;एक}
+row4#!n3#!अंशुक{पुं;3;एक}
+row5#!n3#!<a href="javascript:show('करण,')">करण,12</a>
+row6#!n3#!वस्त्र_से
+row7#!n3#!with (her) fine upper garment
+row8#!n3#!-
+
+row1#!n2#!पीनस्तन-तट-रोधि
+row2#!n2#!पीनस्तन-तट-रोधि
+row3#!n2#!पीनस्तन-तट-रोधि}
+row4#!n2#!पीनस्तन-तट-रोधि{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,12</a>
+row6#!n2#!पीनस्तन को आवृत करती हुई
+row7#!n2#!while hiding her large breasts
+row8#!n2#!<a href="html/SV-VII/SV-32/samaasa4.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-32/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<पीन-स्तनतटम्>K1-रोधि>U</a>#!html/SV-VII/SV-32/samaasa4.jpg
+
+
+row1#!v#!तिरो-दधे
+row2#!v#!तिरो-दधे
+row3#!v#!तिरो-दधि{नपुं;8;एक}/धा1{कर्तरि;लिट्;उ;एक;आत्मनेपदी;डुधाञ्;जुहोत्यादिः}/धा1{कर्तरि;लिट्;प्र;एक;आत्मनेपदी;डुधाञ्;जुहोत्यादिः}/धा1{कर्तरि;लट्;उ;एक;आत्मनेपदी;डुधाञ्;जुहोत्यादिः}/धा1{कर्मणि;लिट्;उ;एक;आत्मनेपदी;डुधाञ्;जुहोत्यादिः}/धा1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;डुधाञ्;जुहोत्यादिः}/धे1{कर्मणि;लिट्;उ;एक;आत्मनेपदी;धेट्;भ्वादिः}/धे1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;धेट्;भ्वादिः}
+row4#!v#!तिरो-धा1{कर्तरि;लिट्;प्र;एक;आत्मनेपदी;डुधाञ्;जुहोत्यादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!छिपाती_थी.
+row7#!v#!covered.
+row8#!v#!-
+
+

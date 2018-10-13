@@ -1,0 +1,191 @@
+row1#!number#!<a href="html/SV-V/SV-26/26-a.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-26/26-a.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">26-a.A</a>#!html/SV-V/SV-26/26-a.jpg#!row1#!n1#!त्रास-आकुलः
+row2#!number#!26-a.B</a>#!row2#!n1#!त्रासाकुलः 
+row3#!number#!26-a.C</a>#!row3#!n1#!त्रास-आकुल{पुं}{1;एक} 
+row4#!number#!26-a.D</a>#!row4#!n1#!त्रास-आकुल{पुं}{1;एक} 
+row5#!number#!26-a.E</a>#!row5#!n1#!कर्ता,4
+row6#!number#!26-a.F</a>#!row6#!n1#!भय_से_व्याकुल
+row7#!number#!26-a.G</a>#!row7#!n1#!Distress due to fear
+row8#!number#!26-a.H</a>#!row8#!n1#!<त्रास-आकुलः>T3
+
+row1#!n2#!निकेतान्
+row2#!n2#!निकेतान् 
+row3#!n2#!निकेत{पुं}{2;बहु} 
+row4#!n2#!निकेत{पुं}{2;बहु} 
+row5#!n2#!<a href="javascript:show('उपपदसम्बन्धः, ')">उपपदसम्बन्धः,3 </a>
+row6#!n2#!निवास_स्थानों_के
+row7#!n2#!camps (of the army)
+row8#!n2#!-
+
+row1#!NA#!परितः
+row2#!NA#!परितः 
+row3#!NA#!परितः{अव्य} 
+row4#!NA#!परितः{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,4</a>
+row6#!NA#!चारों_ओर
+row7#!NA#!around
+row8#!NA#!-
+
+row1#!n1#!परिपतन्
+row2#!n1#!परिपतन् 
+row3#!n1#!परिपतत्{पुं}{1;एक} 
+row4#!n1#!परि_पद्1{कृत्_प्रत्ययः:शतृ;पदँ;दिवादिः;पुं}{1;एक}
+row5#!n1#!<a href="javascript:show('समानकालः,')">समानकालः,11</a>
+row6#!n1#!दौड़ते_हुए
+row7#!n1#!while running
+row8#!n1#!-
+
+row1#!n1#!मृगः
+row2#!n1#!मृगः 
+row3#!n1#!मृग{पुं}{1;एक} 
+row4#!n1#!मृग{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('कर्म,')">कर्म,11</a>
+row6#!n1#!मृग
+row7#!n1#!deer
+row8#!n1#!-
+
+row1#!NA#!कैश्चित्
+row2#!NA#!कैश्चित् 
+row3#!NA#!कैश्चित्{अव्य}/किञ्चित्{पुं}{3;बहु}/किञ्चित्{नपुं}{3;बहु} 
+row4#!NA#!कैश्चित्{अव्य}
+row5#!NA#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,9</a>
+row6#!NA#!किसी_से
+row7#!NA#!by some one
+row8#!NA#!-
+
+row1#!NA#!अपि
+row2#!NA#!अपि 
+row3#!NA#!अपि{अव्य} 
+row4#!NA#!अपि{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः, ')">सम्बन्धः,6 </a>
+row6#!NA#!भी 
+row7#!NA#!even
+row8#!NA#!-
+
+row1#!n3#!धन्विभिः
+row2#!n3#!धन्विभिः 
+row3#!n3#!धन्विन्{पुं}{3;बहु} 
+row4#!n3#!धन्विन्{पुं}{3;बहु} 
+row5#!n3#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,9 </a>
+row6#!n3#!धनुर्धर_से
+row7#!n3#!by an archer
+row8#!n3#!-
+
+row1#!n3#!पुम्भिः
+row2#!n3#!पुम्भिः 
+row3#!n3#!पुम्स्{पुं}{3;बहु} 
+row4#!n3#!पुम्स्{पुं}{3;बहु} 
+row5#!n3#!<a href="javascript:show('कर्ता,')">कर्ता,11</a>
+row6#!n3#!मनुष्यों_से
+row7#!n3#!by men
+row8#!n3#!-
+
+row1#!NA#!न
+row2#!NA#!न 
+row3#!NA#!न{अव्य} 
+row4#!NA#!न{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,11</a>
+row6#!NA#!नहीं 
+row7#!NA#!not
+row8#!NA#!-
+
+row1#!v#!अ-न्वबन्धि.
+row2#!v#!अन्वबन्धि 
+row3#!v#!अ-{अव्य}-न्वबन्धि. 
+row4#!v#!अनु_बन्ध्1{कर्मणि;लुङ्;प्र.;एक;आत्मनेपदी;बन्धँ;क्र्यादिः}.
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!पीछा_किया.
+row7#!v#!went behind.
+row8#!v#!-
+
+row1#!number#!<a href="html/SV-V/SV-26/26-b.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-26/26-b.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">26-b.A</a>#!html/SV-V/SV-26/26-b.jpg#!row1#!NA#!तथापि
+row2#!number#!26-b.B</a>#!row2#!NA#!तथापि 
+row3#!number#!26-b.C</a>#!row3#!NA#!तथापि{अव्य} 
+row4#!number#!26-b.D</a>#!row4#!NA#!तथापि{अव्य} 
+row5#!number#!26-b.E</a>#!row5#!NA#!सम्बन्धः,10
+row6#!number#!26-b.F</a>#!row6#!NA#!फिर_भी 
+row7#!number#!26-b.G</a>#!row7#!NA#!Even then
+row8#!number#!26-b.H</a>#!row8#!NA#!
+
+row1#!n6#!अङ्गनानाम्
+row2#!n6#!अङ्गनानाम् 
+row3#!n6#!अङ्गन{नपुं}{6;बहु}/अङ्गना{स्त्री}{6;बहु} 
+row4#!n6#!अङ्गन{स्त्री}{6;बहु} 
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः, ')">षष्ठीसम्बन्धः,3 </a>
+row6#!n6#!स्त्रियों_के
+row7#!n6#!of women
+row8#!n6#!-
+
+row1#!n1#!आकर्ण-पूर्ण-नयनेषु-हतेक्षण-श्रीः
+row2#!n1#!आकर्ण-पूर्ण-नयनेषु-हतेक्षण-श्रीः 
+row3#!n1#!आकर्ण-पूर्ण-नयनेषु-हतेक्षण-श्री{स्त्री}{1;एक}/श्री{स्त्री}{2;बहु} 
+row4#!n1#!आकर्ण-पूर्ण-नयनेषु-हतेक्षण-श्री{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,8</a>
+row6#!n1#!कानों तक फैले हुए नेत्ररूपी बाणों से नष्ट नेत्र शोभा वाला
+row7#!n1#!with the arrows in the form of eyes of women
+row8#!n1#!<a href="html/SV-V/SV-26/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-26/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<<आकर्ण-पूर्णम्>T6-नयने>K3-इषवः>K7-<ईक्षण-श्रीः>T6>Bs6</a>#!html/SV-V/SV-26/samaasa1.jpg
+
+
+row1#!NA#!(अतः)
+row2#!NA#!अतः
+row3#!NA#!अतः{अव्य} 
+row4#!NA#!अतः{अव्य} 
+row5#!NA#!<a href="javascript:show('हेतुः,')">हेतुः,5</a>
+row6#!NA#!अतः 
+row7#!NA#!so
+row8#!NA#!-
+
+row1#!NA#!क्वचित्
+row2#!NA#!क्वचित् 
+row3#!NA#!क्वचित्{अव्य} 
+row4#!NA#!क्वचित्{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,10</a>
+row6#!NA#!कहीं 
+row7#!NA#!anywhere
+row8#!NA#!-
+
+row1#!NA#!(अपि)
+row2#!NA#!अपि
+row3#!NA#!अपि{अव्य} 
+row4#!NA#!अपि{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,5</a>
+row6#!NA#!भी 
+row7#!NA#!even
+row8#!NA#!-
+
+row1#!n1#!(सः)
+row2#!n1#!सः
+row3#!n1#!तद्{पुं}{1;एक} 
+row4#!n1#!तद्{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,8</a>
+row6#!n1#!वह 
+row7#!n1#!that
+row8#!n1#!-
+
+row1#!n1#!मृगः
+row2#!n1#!मृगः
+row3#!n1#!मृग{पुं}{1;एक} 
+row4#!n1#!मृग{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,10</a>
+row6#!n1#!मृग
+row7#!n1#!deer
+row8#!n1#!-
+
+row1#!NA#!न
+row2#!NA#!न 
+row3#!NA#!न{अव्य} 
+row4#!NA#!न{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,10</a>
+row6#!NA#!नहीं 
+row7#!NA#!not
+row8#!NA#!-
+
+row1#!v#!तस्थौ.
+row2#!v#!तस्थौ 
+row3#!v#!स्था1{कर्तरि;लिट्;उ;एक;परस्मैपदी;ष्ठा;भ्वादिः}/स्था1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ष्ठा;भ्वादिः}/तस्थु{पुं}{7;एक}. 
+row4#!v#!स्था1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ष्ठा;भ्वादिः}.
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!रहा. 
+row7#!v#!stayed.
+row8#!v#!-
+
+

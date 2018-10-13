@@ -1,0 +1,122 @@
+row1#!number#!<a href="html/SV-VI/SV-45/45.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-45/45.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">45.A</a>#!html/SV-VI/SV-45/45.jpg#!row1#!NA#!पुरः
+row2#!number#!45.B</a>#!row2#!NA#!पुरः
+row3#!number#!45.C</a>#!row3#!NA#!पुरः{अव्य}/पुर्{स्त्री;1;बहु}/पुर्{स्त्री;2;बहु}/पुर्{स्त्री;5;एक}/पुर्{स्त्री;6;एक}/पुर्{स्त्री;8;बहु}
+row4#!number#!45.D</a>#!row4#!NA#!पुरः{अव्य}
+row5#!number#!45.E</a>#!row5#!NA#!अधिकरणम्,8
+row6#!number#!45.F</a>#!row6#!NA#!आगे
+row7#!number#!45.G</a>#!row7#!NA#!Earlier
+row8#!number#!45.H</a>#!row8#!NA#!
+
+row1#!n3#!धवलपक्षविहङ्गम-कूजितैः
+row2#!n3#!धवलपक्षविहङ्गम-कूजितैः
+row3#!n3#!धवलपक्षविहङ्गम-कूजित{नपुं;3;बहु}/कूजित{नपुं;3;बहु}
+row4#!n3#!धवलपक्षविहङ्गम-कूजित{नपुं;3;बहु}
+row5#!n3#!<a href="javascript:show('करणम्,')">करणम्,8</a>
+row6#!n3#!हंसों की ध्वनियों से
+row7#!n3#!by chirping sound of the Swans
+row8#!n3#!<a href="html/SV-VI/SV-45/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-45/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<धवल-पक्षाः>Bs6-विहङ्गमाः>K1-कूजितानि>T6</a>#!html/SV-VI/SV-45/samaasa1.jpg
+
+
+row1#!n6#!विजित-ध्वनेः
+row2#!n6#!विजित-ध्वनेः
+row3#!n6#!विजित-ध्वनि{पुं;5;एक}/ध्वनि{पुं;6;एक}/ध्वन्2{कर्तरि;विधिलिङ्;म;एक;परस्मैपदी;ध्वनँ;भ्वादिः}
+row4#!n6#!विजित-ध्वनि{पुं;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,4</a>
+row6#!n6#!पराजित ध्वनि वाले
+row7#!n6#!having lost to
+row8#!n6#!<a href="html/SV-VI/SV-45/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-45/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><विजित-ध्वनिः>Bs6</a>#!html/SV-VI/SV-45/samaasa2.jpg
+
+
+row1#!n6#!शिखण्डिनः
+row2#!n6#!शिखण्डिनः
+row3#!n6#!शिखण्डिन्{पुं;1;बहु}/शिखण्डिन्{पुं;2;बहु}/शिखण्डिन्{पुं;5;एक}/शिखण्डिन्{पुं;6;एक}/शिखण्डिन्{पुं;8;बहु}/शिखण्डिन्{नपुं;5;एक}/शिखण्डिन्{नपुं;6;एक}
+row4#!n6#!शिखण्डिन्{पुं;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,5</a>
+row6#!n6#!मोरों_के
+row7#!n6#!'of Peacocks'''
+row8#!n6#!-
+
+row1#!n1#!तनु-रुहाणि
+row2#!n1#!तनु-रुहाणि
+row3#!n1#!तनु-रुह{नपुं;1;बहु}/रुह{नपुं;2;बहु}/रुह{नपुं;8;बहु}/रुह{नपुं;8;बहु}
+row4#!n1#!तनु-रुह{नपुं;1;बहु}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,8</a>
+row6#!n1#!पंख
+row7#!n1#!feathers
+row8#!n1#!<a href="html/SV-VI/SV-45/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-45/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><तनु-रुहाणि>T7</a>#!html/SV-VI/SV-45/samaasa3.jpg
+
+
+row1#!n3#!अक्षमया
+row2#!n3#!अक्षमया
+row3#!n3#!अक्षमा{स्त्री;3;एक}
+row4#!n3#!अक्षमा{स्त्री;3;एक}
+row5#!n3#!<a href="javascript:show('हेतुः,')">हेतुः,7</a>
+row6#!n3#!असहनशीलता_से
+row7#!n3#!due to envy
+row8#!n3#!-
+
+row1#!NA#!इव
+row2#!NA#!इव
+row3#!NA#!इव{अव्य}
+row4#!NA#!इव{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,8</a>
+row6#!NA#!जैसे
+row7#!NA#!as if
+row8#!NA#!-
+
+row1#!v#!जगलुः
+row2#!v#!जगलुः
+row3#!v#!गॄ1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;गॄ;तुदादिः}/गॄ2{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;गॄ;क्र्यादिः}/गल्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;गलँ;भ्वादिः}
+row4#!v#!गल्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;गलँ;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!झड़_गये
+row7#!v#!fell down
+row8#!v#!-
+
+row1#!NA#!हि
+row2#!NA#!हि
+row3#!NA#!हि{अव्य}
+row4#!NA#!हि{अव्य}
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,13</a>
+row6#!NA#!क्यों_कि
+row7#!NA#!indeed
+row8#!NA#!-
+
+row1#!n1#!अरि-भवः
+row2#!n1#!अरि-भवः
+row3#!n1#!अरि-भव{पुं;1;एक}/भव{पुं;1;एक}
+row4#!n1#!अरि-भव{पुं;1;एक}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,13</a>
+row6#!n1#!शत्रुओं_से_होने_वाला
+row7#!n1#!caused by enemies
+row8#!n1#!<a href="html/SV-VI/SV-45/samaasa4.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VI/SV-45/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><अरि-भवः>U</a>#!html/SV-VI/SV-45/samaasa4.jpg
+
+
+row1#!n1#!परि-भवः
+row2#!n1#!परि-भवः
+row3#!n1#!परि-{अव्य-भव;पुं;1;एक}/भव{पुं;1;एक}
+row4#!n1#!परि-भव{पुं;1;एक}
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,12</a>
+row6#!n1#!अपमान
+row7#!n1#!humiliation
+row8#!n1#!-
+
+row1#!n1#!सु-दुःसहः
+row2#!n1#!सु-दुःसहः
+row3#!n1#!सु-{अव्य-दुःसहः}
+row4#!n1#!सु-दुःसहः{पुं;1;एक}
+row5#!n1#!<a href="javascript:show('कर्तृसमानाधिकरणम्,')">कर्तृसमानाधिकरणम्,13</a>
+row6#!n1#!अत्यन्त असहनीय
+row7#!n1#!very much
+row8#!n1#!-
+
+row1#!v#!(भवति)
+row2#!v#!भवति
+row3#!v#!भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}
+row4#!v#!भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!होता_है.
+row7#!v#!is
+row8#!v#!-
+
+

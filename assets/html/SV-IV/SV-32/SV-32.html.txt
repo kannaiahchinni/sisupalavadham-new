@@ -1,0 +1,103 @@
+row1#!number#!<a href="html/SV-IV/SV-32/32.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-32/32.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">32.A</a>#!html/SV-IV/SV-32/32.jpg#!row1#!n1#!असौ
+row2#!number#!32.B</a>#!row2#!n1#!असौ 
+row3#!number#!32.C</a>#!row3#!n1#!अदस्{पुं}{1;एक}/अदस्{स्त्री}{1;एक}/असि{पुं}{7;एक}/असि{स्त्री}{7;एक}/असु{पुं}{7;एक} 
+row4#!number#!32.D</a>#!row4#!n1#!अदस्{पुं}{1;एक} 
+row5#!number#!32.E</a>#!row5#!n1#!कर्ता,11 
+row6#!number#!32.F</a>#!row6#!n1#!इस (रैवतक-पर्वत)
+row7#!number#!32.G</a>#!row7#!n1#!This mountain
+row8#!number#!32.H</a>#!row8#!n1#!
+
+row1#!n3#!रुचिरचित्रतनूरुहश-अलिभिः
+row2#!n3#!रुचिरचित्रतनूरुहशालिभिः 
+row3#!n3#!रुचिरचित्रतनूरुहश-अलि{पुं}{3;बहु}/अलिन्{पुं}{3;बहु} 
+row4#!n3#!रुचिरचित्रतनूरुहश-अलि{पुं}{3;बहु} 
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,5</a>
+row6#!n3#!मनोहर अनेक वर्णों_के_रोमवाले
+row7#!n3#!that have shining and variegated hair
+row8#!n3#!<a href="html/SV-IV/SV-32/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-32/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<रुचिर-चित्राणि>K1-तनूरुहाणि>K1-शालयः>U</a>#!html/SV-IV/SV-32/samaasa1.jpg
+
+
+row1#!NA#!परितः
+row2#!NA#!परितः 
+row3#!NA#!परितः{अव्य} 
+row4#!NA#!परितः{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,11</a>
+row6#!NA#!चारों_ओर 
+row7#!NA#!all around
+row8#!NA#!-
+
+row1#!n3#!प्रचलितैः
+row2#!n3#!प्रचलितैः
+row3#!n3#!प्रचलित{पुं}{3;बहु}/प्रचलित{नपुं}{3;बहु} 
+row4#!n3#!प्र_चल्1{कृत्_प्रत्ययः:क्त;चलँ;भ्वादिः;पुं}{3;बहु} 
+row5#!n3#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,5 </a>
+row6#!n3#!घूमते_हुए
+row7#!n3#!moving
+row8#!n3#!-
+
+row1#!n3#!प्रियक-व्रजैः
+row2#!n3#!प्रियक-व्रजैः 
+row3#!n3#!प्रियक-व्रज{पुं}{3;बहु} 
+row4#!n3#!प्रियक-व्रज{पुं}{3;बहु} 
+row5#!n3#!<a href="javascript:show('कर्ता, ')">कर्ता,7 </a>
+row6#!n3#!'''प्रियक नामक मृगविशेषों_से'
+row7#!n3#!with its herds of priyaka deer
+row8#!n3#!<a href="html/SV-IV/SV-32/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-32/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><प्रियक-व्रजः>T6</a>#!html/SV-IV/SV-32/samaasa2.jpg
+
+
+row1#!n2#!जङ्गमतां
+row2#!n2#!जङ्गमतां 
+row3#!n2#!जङ्गमता{स्त्री}{2;एक} 
+row4#!n2#!जङ्गमता{स्त्री}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,11</a>
+row6#!n2#!जङ्गमता_को 
+row7#!n2#!moveable
+row8#!n2#!-
+
+row1#!n3#!गतैः
+row2#!n3#!गतैः 
+row3#!n3#!गत{नपुं}{3;बहु}/गत{पुं}{3;बहु} 
+row4#!n3#!गम्1{कृत्_प्रत्ययः:क्त;गमॢँ;भ्वादिः}{पुं}{3;बहु} 
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,9</a>
+row6#!n3#!प्राप्त
+row7#!n3#!become
+row8#!n3#!-
+
+row1#!n3#!विविध-रत्नमयैः
+row2#!n3#!विविध-रत्नमयैः 
+row3#!n3#!विविध-रत्नमय{पुं}{3;बहु}/रत्नमय{नपुं}{3;बहु} 
+row4#!n3#!विविध-रत्नमय{पुं}{3;बहु}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,9</a>
+row6#!n3#!अनेक रत्नमय
+row7#!n3#!full of various jewels
+row8#!n3#!<a href="html/SV-IV/SV-32/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-32/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><विविध-रत्नानि>K1</a>#!html/SV-IV/SV-32/samaasa3.jpg
+
+
+row1#!n3#!अवयवैः
+row2#!n3#!अवयवैः 
+row3#!n3#!अवयव{पुं}{3;बहु} 
+row4#!n3#!अवयव{पुं}{3;बहु} 
+row5#!n3#!<a href="javascript:show('प्रतियोगी, ')">प्रतियोगी,10 </a>
+row6#!n3#!अवयवों_के
+row7#!n3#!own limbs
+row8#!n3#!-
+
+row1#!NA#!इव
+row2#!NA#!इव 
+row3#!NA#!इव{अव्य} 
+row4#!NA#!इव{अव्य} 
+row5#!NA#!<a href="javascript:show('अनुयोगी,')">अनुयोगी,5</a>
+row6#!NA#!समान
+row7#!NA#!as if it were
+row8#!NA#!-
+
+row1#!v#!अभिभाति.
+row2#!v#!अभिभाति 
+row3#!v#!अभि_भा1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भा;अदादिः}/अभिभात्{पुं}{7;एक}/अभिभात्{नपुं}{7;एक}. 
+row4#!v#!अभि_भा1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भा;अदादिः}.
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!शोभ_रहा_है.
+row7#!v#!appears.
+row8#!v#!-
+
+

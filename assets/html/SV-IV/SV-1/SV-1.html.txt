@@ -1,0 +1,130 @@
+row1#!number#!<a href="html/SV-IV/SV-1/1.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-1/1.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">1.A</a>#!html/SV-IV/SV-1/1.jpg#!row1#!n1#!असौ
+row2#!number#!1.B</a>#!row2#!n1#!असौ 
+row3#!number#!1.C</a>#!row3#!n1#!अदस्{पुं}{1;एक}/अदस्{स्त्री}{1;एक}/असि{पुं}{7;एक}/असि{स्त्री}{7;एक}/असु{पुं}{7;एक} 
+row4#!number#!1.D</a>#!row4#!n1#!अदस्{पुं}{1;एक} 
+row5#!number#!1.E</a>#!row5#!n1#!कर्ता,14
+row6#!number#!1.F</a>#!row6#!n1#!यह
+row7#!number#!1.G</a>#!row7#!n1#!He
+row8#!number#!1.H</a>#!row8#!n1#!
+
+row1#!n2#!नील-उपल-स्यूत-विचित्र-धातुम्
+row2#!n2#!नील-उपल-स्यूत-विचित्र-धातुम् 
+row3#!n2#!नील-उपल-स्यूत-विचित्र-धातु{पुं}{2;एक} 
+row4#!n2#!नील-उपल-स्यूत-विचित्र-धातु{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,13</a>
+row6#!n2#!इन्द्रनीलमणियों_से_सम्बद्ध_अनेकविध_विचित्र_धातुओंवाले
+row7#!n2#!the many hued minerals of which were imbedded
+row8#!n2#!<a href="html/SV-IV/SV-1/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-1/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<नील-उपलाः>K1-स्यूतविचित्रधातुः>Bs6</a>#!html/SV-IV/SV-1/samaasa1.jpg
+
+
+row1#!n3#!रत्न-भाभिः
+row2#!n3#!रत्नभाभिः 
+row3#!n3#!रत्न-भा{स्त्री}{3;बहु}/भास्{स्त्री}{3;बहु} 
+row4#!n3#!रत्न-भा{स्त्री}{3;बहु} 
+row5#!n3#!<a href="javascript:show('उपपदसम्बन्धः,')">उपपदसम्बन्धः,4</a>
+row6#!n3#!रत्नों_की_कान्तियों_के
+row7#!n3#!with sapphires
+row8#!n3#!<a href="html/SV-IV/SV-1/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-1/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><रत्न-भाः>T6</a>#!html/SV-IV/SV-1/samaasa2.jpg
+
+
+row1#!NA#!सह
+row2#!NA#!सह 
+row3#!NA#!सह{अव्य} 
+row4#!NA#!सह{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,6</a>
+row6#!NA#!साथ 
+row7#!NA#!along
+row8#!NA#!-
+
+row1#!n2#!भूमिं
+row2#!n2#!भूमिं 
+row3#!n2#!भूमि{स्त्री}{2;एक} 
+row4#!n2#!भूमि{स्त्री}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,6</a>
+row6#!n2#!भूमि_को 
+row7#!n2#!the ground
+row8#!n2#!-
+
+row1#!NA#!भित्-वा
+row2#!NA#!भित्वा 
+row3#!NA#!भित्-वा{अव्य} 
+row4#!NA#!भिद्1{कृत्_प्रत्ययः:क्त्वा;भिदिँर्;रुदादिः};{अव्य}
+row5#!NA#!<a href="javascript:show('पूर्वकाल,')">पूर्वकाल,14</a>
+row6#!NA#!फाड़कर
+row7#!NA#!having broken
+row8#!NA#!-
+
+row1#!n2#!उत्थितम्
+row2#!n2#!उत्थितम् 
+row3#!n2#!उत्थित{पुं}{2;एक}/उत्थित{नपुं}{1;एक}/उत्थित{नपुं}{2;एक} 
+row4#!n2#!उद्_स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,9</a>
+row6#!n2#!ऊपर_निकाले_हुए
+row7#!n2#!rising along with
+row8#!n2#!-
+
+row1#!n6#!उरगाणां
+row2#!n6#!उरगाणां 
+row3#!n6#!उरग{पुं}{6;बहु}/उरगा{स्त्री}{6;बहु} 
+row4#!n6#!उरग{पुं}{6;बहु} 
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः, ')">षष्ठीसम्बन्धः,9 </a>
+row6#!n6#!सर्पों_के
+row7#!n6#!of the serpents
+row8#!n6#!-
+
+row1#!n2#!निःश्वास-धूमम्
+row2#!n2#!निःश्वास-धूमम् 
+row3#!n2#!निःश्वास-धूम{पुं}{2;एक} 
+row4#!n2#!निःश्वास-धूम{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('प्रतियोगी, ')">प्रतियोगी,10 </a>
+row6#!n2#!श्वास-वायु_के_धुएँ
+row7#!n2#!the vapour of the hissing of serpents
+row8#!n2#!<a href="html/SV-IV/SV-1/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-1/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><निःश्वास-धूमः>K4</a>#!html/SV-IV/SV-1/samaasa3.jpg
+
+
+row1#!NA#!इव
+row2#!NA#!इव 
+row3#!NA#!इव{अव्य} 
+row4#!NA#!इव{अव्य}
+row5#!NA#!<a href="javascript:show('अनुयोगी,')">अनुयोगी,13</a>
+row6#!NA#!के_समान
+row7#!NA#!like
+row8#!NA#!-
+
+row1#!n2#!(स्थितं)
+row2#!n2#!स्थितं
+row3#!n2#!स्थित{पुं}{2;एक}/स्थित{नपुं}{1;एक}/स्थित{नपुं}{2;एक} 
+row4#!n2#!स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,13</a>
+row6#!n2#!स्थित 
+row7#!n2#!having stood
+row8#!n2#!-
+
+row1#!n2#!रैवतकं
+row2#!n2#!रैवतकं 
+row3#!n2#!रैवतक{पुं}{2;एक} 
+row4#!n2#!रैवतक{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,13 </a>
+row6#!n2#!रैवतक
+row7#!n2#!Raivataka
+row8#!n2#!-
+
+row1#!n2#!गिरिं
+row2#!n2#!गिरिं 
+row3#!n2#!गिरि{पुं}{2;एक}/गिरि{स्त्री}{2;एक} 
+row4#!n2#!गिरि{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म, ')">कर्म,14 </a>
+row6#!n2#!पर्वत_को 
+row7#!n2#!the mountain
+row8#!n2#!-
+
+row1#!v#!ददर्श.
+row2#!v#!ददर्श 
+row3#!v#!दृश्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;दृशिँर्;भ्वादिः}/दृश्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}. 
+row4#!v#!दृश्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!देखा.
+row7#!v#!beheld.
+row8#!v#!-
+
+

@@ -1,0 +1,139 @@
+row1#!number#!<a href="html/SV-VIII/SV-63/63.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-63/63.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">63.A</a>#!html/SV-VIII/SV-63/63.jpg#!row1#!NA#!अथ
+row2#!number#!63.B</a>#!row2#!NA#!अथ
+row3#!number#!63.C</a>#!row3#!NA#!अथ{अव्य}/अथ{अव्य}
+row4#!number#!63.D</a>#!row4#!NA#!अथ{अव्य}
+row5#!number#!63.E</a>#!row5#!NA#!सम्बन्धः,15
+row6#!number#!63.F</a>#!row6#!NA#!पश्चात्
+row7#!number#!63.G</a>#!row7#!NA#!Thereafter
+row8#!number#!63.H</a>#!row8#!NA#!
+
+row1#!n5#!अङ्ग-सङ्गात्
+row2#!n5#!अङ्ग-सङ्गात्
+row3#!n5#!अङ्ग-सङ्ग{पुं;5;एक}
+row4#!n5#!अङ्ग-सङ्ग{पुं;5;एक}
+row5#!n5#!<a href="javascript:show('हेतुः,')">हेतुः,3</a>
+row6#!n5#!शरीर के सम्पर्क से
+row7#!n5#!due to contact (with their) body
+row8#!n5#!<a href="html/SV-VIII/SV-63/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-63/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><अङ्ग-सङ्गः>T6</a>#!html/SV-VIII/SV-63/samaasa1.jpg
+
+
+row1#!n2#!आत्तम्
+row2#!n2#!आत्तम्
+row3#!n2#!अद्1{कर्तरि;लङ्;म;द्वि;परस्मैपदी;अदँ;अदादिः}
+row4#!n2#!आ_दा1{क्त;दाण्;भ्वादिः;नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,6</a>
+row6#!n2#!भीगे_हुए
+row7#!n2#!sopped
+row8#!n2#!-
+
+row1#!n2#!समधिकं
+row2#!n2#!समधिकं
+row3#!n2#!समधिक{पुं;2;एक}/समधिक{नपुं;1;एक}/समधिक{नपुं;2;एक}
+row4#!n2#!समधिक{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,6</a>
+row6#!n2#!(शरीर में) समाने से
+row7#!n2#!unable to restore (in their bodies)
+row8#!n2#!-
+
+row1#!n2#!तनुमत्
+row2#!n2#!तनुमत्
+row3#!n2#!तनुमत्{नपुं;1;एक}/तनुमत्{नपुं;2;एक}/तनुमत्{नपुं;8;एक}
+row4#!n2#!तनुमत्{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,6</a>
+row6#!n2#!मूर्त
+row7#!n2#!embodied
+row8#!n2#!-
+
+row1#!n2#!लावण्यम्
+row2#!n2#!लावण्यम्
+row3#!n2#!लावण्य{नपुं;1;एक}/लावण्य{नपुं;2;एक}
+row4#!n2#!लावण्य{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('प्रतियोगी,')">प्रतियोगी,7</a>
+row6#!n2#!लावण्य
+row7#!n2#!grace
+row8#!n2#!-
+
+row1#!NA#!इव
+row2#!NA#!इव
+row3#!NA#!इव{अव्य}
+row4#!NA#!इव{अव्य}
+row5#!NA#!<a href="javascript:show('अनुयोगी,')">अनुयोगी,8</a>
+row6#!NA#!जैसे
+row7#!NA#!as if
+row8#!NA#!-
+
+row1#!n2#!अम्बु
+row2#!n2#!अम्बु
+row3#!n2#!अम्बु{नपुं;1;एक}/अम्बु{नपुं;2;एक}/अम्बु{नपुं;8;एक}
+row4#!n2#!अम्बु{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,9</a>
+row6#!n2#!जल_को
+row7#!n2#!water
+row8#!n2#!-
+
+row1#!n3#!श्च्योतद्भिः
+row2#!n3#!च्योतद्भिः
+row3#!n3#!श्च्योतद्भिः}
+row4#!n3#!श्च्युत्1{शतृ_लट्;श्च्युतिँर्;भ्वादिः;पुं;3;बहु}
+row5#!n3#!<a href="javascript:show('समानकालः,')">समानकालः,15</a>
+row6#!n3#!क्षरित_करते_हुए
+row7#!n3#!while oozing out
+row8#!n3#!-
+
+row1#!n3#!तरलतरङ्गरङ्गलीला-निष्णातैः
+row2#!n3#!तरलतरङ्गरङ्गलीला-निष्णातैः
+row3#!n3#!तरलतरङ्गरङ्गलीला-निष्णात{पुं;3;बहु}/निष्णात{नपुं;3;बहु}
+row4#!n3#!तरलतरङ्गरङ्गलीला-निष्णात{पुं;3;बहु}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,13</a>
+row6#!n3#!चञ्चल तरंगरूप रङ्गस्थली (नृत्यस्थल या रति) में निष्णात
+row7#!n3#!who were like fickled waves that are well versed in playing (water or sexual sports) on the dias
+row8#!n3#!<a href="html/SV-VIII/SV-63/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-63/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<<तरल-तरङ्गाः>K3-रङ्ग>K6-लीला>T7-निष्णाताः>T7</a>#!html/SV-VIII/SV-63/samaasa2.jpg
+
+
+row1#!n6#!वाससः
+row2#!n6#!वाससः
+row3#!n6#!वासस्{नपुं;5;एक}/वासस्{नपुं;6;एक}
+row4#!n6#!वासस्{नपुं;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,12</a>
+row6#!n6#!वस्त्र_से
+row7#!n6#!of garment
+row8#!n6#!-
+
+row1#!n3#!अन्तैः
+row2#!n3#!अन्तैः
+row3#!n3#!अन्त{पुं;3;बहु}/अन्त{नपुं;3;बहु}
+row4#!n3#!अन्त{पुं;3;बहु}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,13</a>
+row6#!n3#!अन्दर_के
+row7#!n3#!inner
+row8#!n3#!-
+
+row1#!n3#!प्रिया-समूहैः
+row2#!n3#!प्रिया-समूहैः
+row3#!n3#!प्रिया-समूह{पुं;3;बहु}
+row4#!n3#!प्रिया-समूह{पुं;3;बहु}
+row5#!n3#!<a href="javascript:show('कर्ता,')">कर्ता,15</a>
+row6#!n3#!प्रिया-समूहों_से
+row7#!n3#!flock of beloved women
+row8#!n3#!<a href="html/SV-VIII/SV-63/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-63/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><प्रिया-समूहैः>T6</a>#!html/SV-VIII/SV-63/samaasa3.jpg
+
+
+row1#!n5#!सरसः
+row2#!n5#!सरसः
+row3#!n5#!सरस्{नपुं;5;एक}/सरस्{नपुं;6;एक}/सरस{पुं;1;एक}
+row4#!n5#!सरस्{नपुं;5;एक}
+row5#!n5#!<a href="javascript:show('अपादानम्,')">अपादानम्,15</a>
+row6#!n5#!सरोवर_से
+row7#!n5#!from the lake
+row8#!n5#!-
+
+row1#!v#!उत्तेरे
+row2#!v#!उत्तेरे
+row3#!v#!उत्_तॄ1{कर्मणि;लिट्;उ;एक;आत्मनेपदी;तॄ;भ्वादिः}/उत्_तॄ1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;तॄ;भ्वादिः}
+row4#!v#!उत्_तॄ1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;तॄ;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!बाहर_निकला.
+row7#!v#!came out.
+row8#!v#!-
+
+
