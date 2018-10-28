@@ -1,0 +1,75 @@
+row1#!number#!<a href="html/SV-III/SV-6/6.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-6/6.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">6.A</a>#!html/SV-III/SV-6/6.jpg#!row1#!n2#!तं
+row2#!number#!6.B</a>#!row2#!n2#!तं 
+row3#!number#!6.C</a>#!row3#!n2#!तद्{पुं}{2;एक} 
+row4#!number#!6.D</a>#!row4#!n2#!तद्{पुं}{2;एक} 
+row5#!number#!6.E</a>#!row5#!n2#!कर्म,6
+row6#!number#!6.F</a>#!row6#!n2#!उसको 
+row7#!number#!6.G</a>#!row7#!n2#!Him
+row8#!number#!6.H</a>#!row8#!n2#!
+
+row1#!n3#!मन्दर-कूट-कोटि-व्याघट्टन-उत्तेजनया
+row2#!n3#!मन्दरकूटकोटिव्याघट्टनोत्तेजनया 
+row3#!n3#!मन्दर-कूट-कोटि-व्याघट्टन-उत्तेजना{स्त्री}{3;एक} 
+row4#!n3#!मन्दर-कूट-कोटि-व्याघट्टन-उत्तेजना{स्त्री}{3;एक} 
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,3</a>
+row6#!n3#!मन्दराचल_के_अधोभाग_की_करोड़ों रगड़ लगना_ही जिनकी शाणपर चढ़ाना_है उससे
+row7#!n3#!by friction with the points of the crests of mount Mandara
+row8#!n3#!<a href="html/SV-III/SV-6/samaasa1.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-6/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<<मन्दर-कूटानि>T6-कोटयः>T6-व्याघट्टना>T6-उत्तेजना>K6</a>#!html/SV-III/SV-6/samaasa1.jpg
+
+
+row1#!n3#!बंहीयसा
+row2#!n3#!बंहीयसा 
+row3#!n3#!बंहीयस्{पुं}{3;एक}/बंहीयस्{नपुं}{3;एक} 
+row4#!n3#!बंहीयस्{स्त्री}{3;एक} 
+row5#!n3#!<a href="javascript:show('करण,')">करण,8</a>
+row6#!n3#!अत्यधिक
+row7#!n3#!with the mass
+row8#!n3#!-
+
+row1#!n6#!मणीनां
+row2#!n6#!मणीनां 
+row3#!n6#!मणि{पुं}{6;बहु} 
+row4#!n6#!मणि{पुं}{6;बहु} 
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः, ')">षष्ठीसम्बन्धः,5 </a>
+row6#!n6#!मणियों_के 
+row7#!n6#!of crest jewels
+row8#!n6#!-
+
+row1#!n3#!दीप्ति-वितानकेन
+row2#!n3#!दीप्तिवितानकेन 
+row3#!n3#!दीप्ति-वितानक{पुं}{3;एक}/वितानक{नपुं}{3;एक} 
+row4#!n3#!दीप्ति-वितानक{पुं}{3;एक}
+row5#!n3#!<a href="javascript:show('करण,')">करण,6</a>
+row6#!n3#!कान्ति-समूह_से
+row7#!n3#!of radiance
+row8#!n3#!<a href="html/SV-III/SV-6/samaasa2.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-6/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><दीप्ति-वितानकम्>T6</a>#!html/SV-III/SV-6/samaasa2.jpg
+
+
+row1#!n1#!उल्लसन्ती
+row2#!n1#!उल्लसन्ती 
+row3#!n1#!उल्लसत्{नपुं}{1;द्वि}/उल्लसत्{नपुं}{2;द्वि} 
+row4#!n1#!उद्_लस्1{कृत्_प्रत्ययः:शतृ;लसँ;भ्वादिः;नपुं}{1;द्वि}
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,7</a>
+row6#!n1#!चमकते_हुए
+row7#!n1#!refulgent
+row8#!n1#!-
+
+row1#!n1#!अङ्गदे
+row2#!n1#!अङ्गदे 
+row3#!n1#!अङ्गद{पुं}{7;एक} 
+row4#!n1#!अङ्गद{नपुं}{1;द्वि}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,8</a>
+row6#!n1#!दो केयूर
+row7#!n1#!two armlets
+row8#!n1#!-
+
+row1#!v#!चकासयामासतुः.
+row2#!v#!चकासयामासतुः 
+row3#!v#!चकास्1_णिच्{कर्तरि;लिट्;प्र;द्वि;परस्मैपदी;चकासृँ;अदादिः}/चकास्1_णिच्{कर्तरि;लिट्;प्र;द्वि;आत्मनेपदी;चकासृँ;अदादिः}. 
+row4#!v#!चकास्1_णिच्{कर्तरि;लिट्;प्र;द्वि;परस्मैपदी;चकासृँ;अदादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!सुशोभित_करते_थे.
+row7#!v#!illuminated.
+row8#!v#!-
+
+

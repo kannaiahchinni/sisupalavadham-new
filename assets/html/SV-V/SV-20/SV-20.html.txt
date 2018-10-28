@@ -1,0 +1,104 @@
+row1#!number#!<a href="html/SV-V/SV-20/20.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-20/20.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">20.A</a>#!html/SV-V/SV-20/20.jpg#!row1#!n1#!रोचिष्णु-काञ्चन-चयांशु-पिशङ्गित-आशाः
+row2#!number#!20.B</a>#!row2#!n1#!रोचिष्णु-काञ्चन-चयांशु-पिशङ्गित-आशाः 
+row3#!number#!20.C</a>#!row3#!n1#!रोचिष्णु-काञ्चन-चयांशु-पिशङ्गित-आश{पुं}{1;बहु}/आशा{स्त्री}{1;बहु}/आशा{स्त्री}{2;बहु} 
+row4#!number#!20.D</a>#!row4#!n1#!रोचिष्णु-काञ्चन-चयांशु-पिशङ्गित-आशा{पुं}{1;बहु}
+row5#!number#!20.E</a>#!row5#!n1#!कर्ता,4
+row6#!number#!20.F</a>#!row6#!n1#!शोभायमान सुवर्ण समूहों_की_किरणों_से_दिशाओं_को_पीला_किये_हुए
+row7#!number#!20.G</a>#!row7#!n1#!Made all directions into golden colour with its group of golden rays
+row8#!number#!20.H</a>#!row8#!n1#!<<<रोचिष्णु-<काञ्चन-चयाः>T6>K1-अंशवः>T6-पिशङ्गिताशाः>Bs3
+
+row1#!n3#!वंश-ध्वजैः
+row2#!n3#!वंश-ध्वजैः 
+row3#!n3#!वंश-ध्वज{पुं}{3;बहु}/ध्वज{नपुं}{3;बहु} 
+row4#!n3#!वंश-ध्वज{पुं}{3;बहु} 
+row5#!n3#!<a href="javascript:show('करण,')">करण,11</a>
+row6#!n3#!वंश-ध्वजों_से 
+row7#!n3#!with the banners that decide the clan of kings
+row8#!n3#!<a href="html/SV-V/SV-20/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-20/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><वंश-ध्वजाः>T6</a>#!html/SV-V/SV-20/samaasa1.jpg
+
+
+row1#!n2#!जलद-संहतिम्
+row2#!n2#!जलद-संहतिम् 
+row3#!n2#!जलद-संहति{स्त्री}{2;एक} 
+row4#!n2#!जलद-संहति{स्त्री}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,4</a>
+row6#!n2#!मेघ_समूह_को
+row7#!n2#!the group of clouds
+row8#!n2#!<a href="html/SV-V/SV-20/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-20/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><जलद-संहतिः>T6</a>#!html/SV-V/SV-20/samaasa2.jpg
+
+
+row1#!n1#!अ-उल्लिखन्त्यः
+row2#!n1#!उल्लिखन्त्यः 
+row3#!n1#!अ-{अव्य}-उल्लिखन्त्यः 
+row4#!n1#!उद्_लिख्1{कृत्_प्रत्ययः:शतृ;लिखँ;तुदादिः;स्त्री}{1;बहु}
+row5#!n1#!<a href="javascript:show('समानकालः,')">समानकालः,11</a>
+row6#!n1#!स्पर्श_करती_हुई
+row7#!n1#!while touching
+row8#!n1#!-
+
+row1#!n1#!आयत-निरन्तर-सन्निविष्टाः
+row2#!n1#!आयत-निरन्तर-सन्निविष्टाः 
+row3#!n1#!आयत-निरन्तर-सन्निविष्ट{पुं}{1;बहु}/सन्निविष्टा{स्त्री}{1;बहु}/सन्निविष्टा{स्त्री}{2;बहु} 
+row4#!n1#!आयत-निरन्तर-सम्_नि_विश्1{कृत्_प्रत्ययः:क्त;विशँ;तुदादिः}{स्त्री}{1;बहु}
+row5#!n1#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,7 </a>
+row6#!n1#!दूर_तक_सघन_रूप_से_खड़े_किये_गये
+row7#!n1#!that were assembled till long distance
+row8#!n1#!<a href="html/SV-V/SV-20/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-20/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<आयत-निरन्तरम्>K3-सन्निविष्टाः>K2</a>#!html/SV-V/SV-20/samaasa3.jpg
+
+
+row1#!n6#!रथानाम्
+row2#!n6#!रथानाम् 
+row3#!n6#!रथ{पुं}{6;बहु} 
+row4#!n6#!रथ{पुं}{6;बहु} 
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः, ')">षष्ठीसम्बन्धः,7 </a>
+row6#!n6#!रथों_की
+row7#!n6#!of chariots
+row8#!n6#!-
+
+row1#!n1#!आवलयः
+row2#!n1#!आवलयः 
+row3#!n1#!आवलि{स्त्री}{1;बहु} 
+row4#!n1#!आवलि{स्त्री}{1;बहु} 
+row5#!n1#!<a href="javascript:show('कर्ता, ')">कर्ता,11 </a>
+row6#!n1#!श्रेणियाँ
+row7#!n1#!streams
+row8#!n1#!-
+
+row1#!n6#!भूभर्तुः
+row2#!n6#!भूभर्तुः 
+row3#!n6#!भूभर्तृ{पुं}{5;एक}/भूभर्तृ{पुं}{6;एक} 
+row4#!n6#!भूभर्तृ{पुं}{6;एक} 
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः, ')">षष्ठीसम्बन्धः,9 </a>
+row6#!n6#!पर्वत-राजा_के
+row7#!n6#!of a mountain
+row8#!n6#!<a href="html/SV-V/SV-20/samaasa4.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-20/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><भू-भर्ता>T6</a>#!html/SV-V/SV-20/samaasa4.jpg
+
+
+row1#!n1#!पादाः
+row2#!n1#!पादाः 
+row3#!n1#!पाद{पुं}{1;बहु} 
+row4#!n1#!पाद{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('प्रतियोगी, ')">प्रतियोगी,10 </a>
+row6#!n1#!शिखर
+row7#!n1#!small mountains
+row8#!n1#!-
+
+row1#!NA#!इव
+row2#!NA#!इव 
+row3#!NA#!इव{अव्य} 
+row4#!NA#!इव{अव्य} 
+row5#!NA#!<a href="javascript:show('अनुयोगी,')">अनुयोगी,7</a>
+row6#!NA#!जैसे 
+row7#!NA#!as if
+row8#!NA#!-
+
+row1#!v#!अभिबभुः.
+row2#!v#!अभिबभुः 
+row3#!v#!अभि_भा1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;भा;अदादिः}. 
+row4#!v#!अभि_भा1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;भा;अदादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!शोभ_रहीं_थीं.
+row7#!v#!were splendrous.
+row8#!v#!-
+
+

@@ -1,0 +1,102 @@
+row1#!number#!<a href="html/SV-VII/SV-45/45.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-45/45.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">45.A</a>#!html/SV-VII/SV-45/45.jpg#!row1#!n7#!प्रति-युवतौ
+row2#!number#!45.B</a>#!row2#!n7#!प्रति-युवतौ
+row3#!number#!45.C</a>#!row3#!n7#!प्रति-युवति{स्त्री;7;एक}
+row4#!number#!45.D</a>#!row4#!n7#!प्रति-युवति{स्त्री;7;एक}
+row5#!number#!45.E</a>#!row5#!n7#!विशेषणम्,3
+row6#!number#!45.F</a>#!row6#!n7#!सप्त्नी_में
+row7#!number#!45.G</a>#!row7#!n7#!Whie a concubine (female rival)
+row8#!number#!45.H</a>#!row8#!n7#!<प्रति-युवतौ>*****
+
+row1#!n3#!व्रतति-विततिभिः
+row2#!n3#!व्रतति-विततिभिः
+row3#!n3#!व्रतति-वितति{स्त्री;3;बहु}
+row4#!n3#!व्रतति-वितति{स्त्री;3;बहु}
+row5#!n3#!<a href="javascript:show('करणम्,')">करणम्,8</a>
+row6#!n3#!लताजालों_से
+row7#!n3#!at a grove
+row8#!n3#!<a href="html/SV-VII/SV-45/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-45/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><व्रतति-विततयः>T6</a>#!html/SV-VII/SV-45/samaasa1.jpg
+
+
+row1#!n7#!तिरोहितायां
+row2#!n7#!तिरोहितायां
+row3#!n7#!तिरोहितायाम्}
+row4#!n7#!तिरोहितायाम्{स्त्री;7;एक}
+row5#!n7#!<a href="javascript:show('अधिकरणम्,')">अधिकरणम्,8</a>
+row6#!n7#!छिपे_रहने_पर
+row7#!n7#!was hiding
+row8#!n7#!-
+
+row1#!n1#!प्रियः
+row2#!n1#!प्रियः
+row3#!n1#!प्री{नपुं;5;एक}/प्रीनपुं;6;एक}/प्रियपुं;1;एक}
+row4#!n1#!प्रिय{पुं;1;एक}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,8</a>
+row6#!n1#!प्रिय
+row7#!n1#!beloved
+row8#!n1#!-
+
+row1#!n6#!प्रियायाः
+row2#!n6#!प्रियायाः
+row3#!n6#!प्रिया{स्त्री;5;एक}/प्रियास्त्री;6;एक}
+row4#!n6#!प्रिया{स्त्री;6;एक}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,6</a>
+row6#!n6#!प्रिया_के
+row7#!n6#!of (his) lover
+row8#!n6#!-
+
+row1#!n2#!वदनं
+row2#!n2#!वदनं
+row3#!n2#!वद्1{ल्युट्;वदँ;भ्वादिः;नपुं;1;एक}/वद्1ल्युट्;वदँ;भ्वादिः;नपुं;2;एक}
+row4#!n2#!वदन{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,8</a>
+row6#!n2#!मुख_का
+row7#!n2#!mouth
+row8#!n2#!-
+
+row1#!n2#!यत्
+row2#!n2#!यत्
+row3#!n2#!यत्{अव्य}/यद्नपुं;1;एक}/यद्नपुं;2;एक}/यतव्य}
+row4#!n2#!यद्{नपुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,6</a>
+row6#!n2#!जो
+row7#!n2#!that which
+row8#!n2#!-
+
+row1#!v#!अधयत्
+row2#!v#!अधयत्
+row3#!v#!धे1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;धेट्;भ्वादिः}
+row4#!v#!धे1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;धेट्;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!पान_किया
+row7#!v#!relished (kissed)
+row8#!v#!-
+
+row1#!n1#!तद्
+row2#!n1#!तद्
+row3#!n1#!तद्{नपुं;1;एक}
+row4#!n1#!तद्{नपुं;1;एक}
+row5#!n1#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,11</a>
+row6#!n1#!वह (अधरपान_को)
+row7#!n1#!that
+row8#!n1#!-
+
+row1#!n3#!अधरावलोपनृत्यत्करवलय-स्वनितेन
+row2#!n3#!अधरावलोपनृत्यत्करवलय-स्वनितेन
+row3#!n3#!अधरावलोपनृत्यत्करवलय-स्वनित{पुं;3;एक}/स्वन्1क्त;स्वनँ;भ्वादिः;नपुं;3;एक}
+row4#!n3#!अधरावलोपनृत्यत्करवलय-स्वनित{नपुं;3;एक}
+row5#!n3#!<a href="javascript:show('कर्ता,')">कर्ता,11</a>
+row6#!n3#!अधरक्षत (करने पर होनेवाली पीड़ा) से चलित हाथ के कङ्कण की ध्वनि से
+row7#!n3#!were moved by her hand due to the pain caused by wound on her lips
+row8#!n3#!<a href="html/SV-VII/SV-45/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-45/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<<अधर-अवलोपनम्>T6-नृत्यतः>T3-<कर-वलयानि>T6>K3-स्वनितम्>T6</a>#!html/SV-VII/SV-45/samaasa2.jpg
+
+
+row1#!v#!विवव्रे
+row2#!v#!विवव्रे
+row3#!v#!वि_वृ2{कर्तरि;लिट्;उ;एक;उभयपदी;वृञ्;स्वादिः}/वि_वृ2कर्तरि;लिट्;प्र;एक;उभयपदी;वृञ्;स्वादिः}/वि_वृ2कर्मणि;लिट्;उ;एक;आत्मनेपदी;वृञ्;स्वादिः}/वि_वृ2कर्मणि;लिट्;प्र;एक;आत्मनेपदी;वृञ्;स्वादिः}
+row4#!v#!वि_वृ2{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;वृञ्;स्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!प्रकट_कर_दिया.
+row7#!v#!was made clear.
+row8#!v#!-
+
+

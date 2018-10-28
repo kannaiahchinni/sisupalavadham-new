@@ -1,0 +1,94 @@
+row1#!number#!<a href="html/SV-III/SV-81/81.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-81/81.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">81.A</a>#!html/SV-III/SV-81/81.jpg#!row1#!n1#!लवङ्ग-माला-कलित-अवतंसाः
+row2#!number#!81.B</a>#!row2#!n1#!लवङ्ग-माला-कलित-अवतंसाः 
+row3#!number#!81.C</a>#!row3#!n1#!लवङ्ग-माला-कलित-अवतंस{पुं}{1;बहु} 
+row4#!number#!81.D</a>#!row4#!n1#!लवङ्ग-माला-कलित-अवतंस{पुं}{1;बहु} 
+row5#!number#!81.E</a>#!row5#!n1#!विशेषणम्,6
+row6#!number#!81.F</a>#!row6#!n1#!लवङ्गमाला_से_शिरोभूषण_बनाए_हुए
+row7#!number#!81.G</a>#!row7#!n1#!They who have decked themselves with garlands of clove-blossoms
+row8#!number#!81.H</a>#!row8#!n1#!<<लवङ्ग-माला>T6-कलितावतंसाः>Bs3
+
+row1#!NA#!नारिकेल-अन्तः
+row2#!NA#!नारिकेल-अन्तः 
+row3#!NA#!नारिकेल-अन्तः{अव्य}/अन्त{पुं}{1;एक} 
+row4#!NA#!नारिकेल-अन्तः{अव्य} 
+row5#!NA#!<a href="javascript:show('अधिकरणम्, ')">अधिकरणम्,4 </a>
+row6#!NA#!नारिकेल_के_भीतर_के
+row7#!NA#!in the coconuts
+row8#!NA#!<a href="html/SV-III/SV-81/samaasa1.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-81/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><नारिकेल-अन्तः>T6</a>#!html/SV-III/SV-81/samaasa1.jpg
+
+
+row1#!n2#!अपः
+row2#!n2#!अपः 
+row3#!n2#!अपस्{स्त्री}{1;एक}/अपस्{नपुं}{1;एक}/अपस्{नपुं}{2;एक} 
+row4#!n2#!अपस्{स्त्री}{2;बहु}
+row5#!n2#!<a href="javascript:show('कर्म, ')">कर्म,4 </a>
+row6#!n2#!पानी_को
+row7#!n2#!water
+row8#!n2#!-
+
+row1#!n1#!पिबन्तः
+row2#!n1#!पिबन्तः 
+row3#!n1#!पिबत्{पुं}{1;बहु} 
+row4#!n1#!पा1{कृत्_प्रत्ययः:शतृ;पा;भ्वादिः;पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('समानकालः, ')">समानकालः,8 </a>
+row6#!n1#!पीते_हुए 
+row7#!n1#!while drinking
+row8#!n1#!-
+
+row1#!n1#!आस्वादित-आर्द्र-क्रमुकाः
+row2#!n1#!आस्वादित-आर्द्र-क्रमुकाः 
+row3#!n1#!आस्वादित-आर्द्र-क्रमुक{पुं}{1;बहु} 
+row4#!n1#!आस्वादित-आर्द्र-क्रमुक{पुं}{1;बहु} 
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,6</a>
+row6#!n1#!कञ्ची-सुपारी_को_चखे_हुए
+row7#!n1#!while chewing green beten-nuts
+row8#!n1#!<a href="html/SV-III/SV-81/samaasa2.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-81/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><आस्वादित-<आर्द्रा-क्रमुकाः>K3>Bs3</a>#!html/SV-III/SV-81/samaasa2.jpg
+
+
+row1#!n1#!ते
+row2#!n1#!ते 
+row3#!n1#!तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक} 
+row4#!n1#!तद्{पुं}{1;बहु}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,10</a>
+row6#!n1#!वे (सैनिक)
+row7#!n1#!they (army)
+row8#!n1#!-
+
+row1#!n5#!समुद्रात्
+row2#!n5#!समुद्रात् 
+row3#!n5#!समुद्र{पुं}{5;एक}/समुद्र{नपुं}{5;एक} 
+row4#!n5#!समुद्र{पुं}{5;एक} 
+row5#!n5#!<a href="javascript:show('अपादान,')">अपादान,10</a>
+row6#!n5#!समुद्र_से 
+row7#!n5#!from the ocean
+row8#!n5#!-
+
+row1#!n6#!अभ्यागतस्य
+row2#!n6#!अभ्यागतस्य 
+row3#!n6#!अभ्यागत{पुं}{6;एक} 
+row4#!n6#!अभि_आङ्_गम्1{कृत्_प्रत्ययः:क्त;गमॢँ;भ्वादिः;पुं}{6;एक} 
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः, ')">षष्ठीसम्बन्धः,9 </a>
+row6#!n6#!अतिथि_के
+row7#!n6#!of a guest
+row8#!n6#!<a href="html/SV-III/SV-81/samaasa3.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-III/SV-81/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><अभि-आगतः>Tp</a>#!html/SV-III/SV-81/samaasa3.jpg
+
+
+row1#!n2#!प्रतिपत्तिम्
+row2#!n2#!प्रतिपत्तिम् 
+row3#!n2#!प्रतिपत्ति{स्त्री}{2;एक} 
+row4#!n2#!प्रतिपत्ति{स्त्री}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म, ')">कर्म,10 </a>
+row6#!n2#!सत्कार_को
+row7#!n2#!hospitality
+row8#!n2#!-
+
+row1#!v#!ईयुः.
+row2#!v#!ईयुः 
+row3#!v#!इ1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;इण्;अदादिः}. 
+row4#!v#!इ1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;इण्;अदादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!प्राप्त_किये.
+row7#!v#!obtained.
+row8#!v#!-
+
+

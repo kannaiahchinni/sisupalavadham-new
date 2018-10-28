@@ -1,0 +1,106 @@
+row1#!number#!<a href="html/SV-VIII/SV-62/62.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-62/62.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">62.A</a>#!html/SV-VIII/SV-62/62.jpg#!row1#!n3#!नीरैः
+row2#!number#!62.B</a>#!row2#!n3#!नीरैः
+row3#!number#!62.C</a>#!row3#!n3#!नीर{नपुं;3;बहु}
+row4#!number#!62.D</a>#!row4#!n3#!नीर{नपुं;3;बहु}
+row5#!number#!62.E</a>#!row5#!n3#!कर्ता,11
+row6#!number#!62.F</a>#!row6#!n3#!जल_से
+row7#!number#!62.G</a>#!row7#!n3#!by water
+row8#!number#!62.H</a>#!row8#!n3#!
+
+row1#!n5#!आसेकात्
+row2#!n5#!आसेकात्
+row3#!n5#!आसेक{पुं;5;एक}
+row4#!n5#!आसेक{पुं;5;एक}
+row5#!n5#!<a href="javascript:show('हेतुः,')">हेतुः,3</a>
+row6#!n5#!सिंचते रहने के कारण
+row7#!n5#!due to sprinkled with water
+row8#!n5#!-
+
+row1#!n2#!शीत-आर्तिं
+row2#!n2#!शीत-आर्तिं
+row3#!n2#!शीत-आर्ति{स्त्री;2;एक}
+row4#!n2#!शीत-आर्ति{स्त्री;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,4</a>
+row6#!n2#!शीत_से_व्यथित
+row7#!n2#!troubled due to wind
+row8#!n2#!<a href="html/SV-VIII/SV-62/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-62/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><शीत-आर्तिः>T3</a>#!html/SV-VIII/SV-62/samaasa1.jpg
+
+
+row1#!n3#!बलवद्-उपेयुषा
+row2#!n3#!बलवद्-उपेयुषा
+row3#!n3#!बलवद्-उपेयुषा}
+row4#!n3#!बलवद्-उपेयुष्{स्त्री;3;एक}
+row5#!n3#!<a href="javascript:show('प्रतियोगी,')">प्रतियोगी,5</a>
+row6#!n3#!बल_से_प्राप्त_हुए
+row7#!n3#!obtained forcefully
+row8#!n3#!<a href="html/SV-VIII/SV-62/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-62/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><बलवत्-उपेयुषा>T7</a>#!html/SV-VIII/SV-62/samaasa2.jpg
+
+
+row1#!NA#!इव
+row2#!NA#!इव
+row3#!NA#!इव{अव्य}
+row4#!NA#!इव{अव्य}
+row5#!NA#!<a href="javascript:show('अनुयोगी,')">अनुयोगी,7</a>
+row6#!NA#!जैसे
+row7#!NA#!as if
+row8#!NA#!-
+
+row1#!n3#!शिशिरसमीर-कम्पितेन
+row2#!n3#!शिशिरसमीर-कम्पितेन
+row3#!n3#!शिशिरसमीर-कम्पित{पुं;3;एक}/कम्पित{नपुं;3;एक}
+row4#!n3#!शिशिरसमीर-कम्प्1{क्त;कपिँ;भ्वादिः;पुं;3;एक}
+row5#!n3#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,7</a>
+row6#!n3#!शीतलवायु से काँपते हुए
+row7#!n3#!shivering due to cold wind
+row8#!n3#!<a href="html/SV-VIII/SV-62/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-62/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<शिशिर-समीरः>T6-कम्पितः>T3</a>#!html/SV-VIII/SV-62/samaasa3.jpg
+
+
+row1#!n3#!नवा-अंशुकेन
+row2#!n3#!नवा-अंशुकेन
+row3#!n3#!नवा-अंशुक{नपुं;3;एक}/अंशुक{पुं;3;एक}
+row4#!n3#!नवा-अंशुक{पुं;3;एक}
+row5#!n3#!<a href="javascript:show('करणम्,')">करणम्,11</a>
+row6#!n3#!नवीन वस्त्र_ने
+row7#!n3#!new garment
+row8#!n3#!<a href="html/SV-VIII/SV-62/samaasa4.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-62/samaasa4.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><नव-अंशुकः>T3</a>#!html/SV-VIII/SV-62/samaasa4.jpg
+
+
+row1#!n1#!अभिनवयौवनोष्म-भाजः
+row2#!n1#!अभिनवयौवनोष्म-भाजः
+row3#!n1#!अभिनवयौवनोष्म-भाज्{पुं;1;बहु}/भाज्{पुं;2;बहु}/भाज्{पुं;5;एक}/भाज्{पुं;6;एक}/भाज्{पुं;8;बहु}/भाज्{नपुं;5;एक}/भाज्{नपुं;6;एक}
+row4#!n1#!अभिनवयौवनोष्म-भाज्{स्त्री;1;बहु}
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,9</a>
+row6#!n1#!अत्यधिक नवयौवनावस्था की ऊष्मा-सम्पन्न
+row7#!n1#!possessing hot breath due to tender youth
+row8#!n1#!<a href="html/SV-VIII/SV-62/samaasa5.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-62/samaasa5.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<अभिनवा-<यौवन-उष्मा>T6>K3-भाजः>T6</a>#!html/SV-VIII/SV-62/samaasa5.jpg
+
+
+row1#!n6#!रामाणां
+row2#!n6#!रामाणां
+row3#!n6#!राम{पुं;6;बहु}/रामा{स्त्री;6;बहु}
+row4#!n6#!राम{स्त्री;6;बहु}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,10</a>
+row6#!n6#!अङ्गनाओं_के
+row7#!n6#!of women
+row8#!n6#!-
+
+row1#!n7#!स्तन-तटयोः
+row2#!n7#!स्तन-तटयोः
+row3#!n7#!स्तन-तट{पुं;6;द्वि}/तट{पुं;7;द्वि}
+row4#!n7#!स्तन-तट{पुं;7;द्वि}
+row5#!n7#!<a href="javascript:show('अधिकरणम्,')">अधिकरणम्,11</a>
+row6#!n7#!स्तन-तटों_में
+row7#!n7#!hot breath
+row8#!n7#!<a href="html/SV-VIII/SV-62/samaasa6.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VIII/SV-62/samaasa6.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><स्तन-तटः>T6</a>#!html/SV-VIII/SV-62/samaasa6.jpg
+
+
+
+
+
+
+
+
+
+
+
+

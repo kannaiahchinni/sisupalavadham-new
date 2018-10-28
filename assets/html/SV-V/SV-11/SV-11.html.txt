@@ -1,0 +1,139 @@
+row1#!number#!<a href="html/SV-V/SV-11/11.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-11/11.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">11.A</a>#!html/SV-V/SV-11/11.jpg#!row1#!n1#!नीहार-जाल-मलिनः
+row2#!number#!11.B</a>#!row2#!n1#!नीहार-जाल-मलिनः 
+row3#!number#!11.C</a>#!row3#!n1#!नीहार-जाल-मलिन{पुं}{1;एक} 
+row4#!number#!11.D</a>#!row4#!n1#!नीहार-जाल-मलिन{पुं}{1;एक} 
+row5#!number#!11.E</a>#!row5#!n1#!कर्ता,4
+row6#!number#!11.F</a>#!row6#!n1#!हिमकिरणों_के_समान_मलिन
+row7#!number#!11.G</a>#!row7#!n1#!As dark as the rays of snow
+row8#!number#!11.H</a>#!row8#!n1#!<<नीहार-जाल>T6-मलिनम्>Bs6
+
+row1#!n2#!वधूजन-विलोचन-पक्ष्म-मालाः
+row2#!n2#!वधूजन-विलोचन-पक्ष्म-मालाः 
+row3#!n2#!वधूजन-विलोचन-पक्ष्मन्-माल{पुं}{1;बहु}/माला{स्त्री}{1;बहु}/माला{स्त्री}{2;बहु} 
+row4#!n2#!वधूजन-विलोचन-पक्ष्म-माला{स्त्री}{2;बहु} 
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,3</a>
+row6#!n2#!अङ्गनाओं_की_नेत्रों_की_लोमपङ्क्तियों_को
+row7#!n2#!the eye-lashes of women
+row8#!n2#!<a href="html/SV-V/SV-11/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-11/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<वधूजन-विलोचनानि>T6-पक्ष्ममालाः>T6</a>#!html/SV-V/SV-11/samaasa1.jpg
+
+
+row1#!n2#!पुनरुक्त-सान्द्राः
+row2#!n2#!पुनरुक्त-सान्द्राः 
+row3#!n2#!पुनरुक्त-सान्द्र{पुं}{1;बहु}/सान्द्रा{स्त्री}{1;बहु}/सान्द्रा{स्त्री}{2;बहु} 
+row4#!n2#!पुनरुक्त-सान्द्रा{स्त्री}{2;बहु} 
+row5#!n2#!<a href="javascript:show('कर्म, ')">कर्म,4 </a>
+row6#!n2#!अत्यन्त सघन
+row7#!n2#!very much thick
+row8#!n2#!<a href="html/SV-V/SV-11/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-11/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><पुनरुक्त-सान्द्राः>K3</a>#!html/SV-V/SV-11/samaasa2.jpg
+
+
+row1#!n1#!कुर्वन्
+row2#!n1#!कुर्वन् 
+row3#!n1#!कुर्वत्{पुं}{1;एक}/कुर्वत्{पुं}{1;एक} 
+row4#!n1#!कृ3{कृत्_प्रत्ययः:शतृ;डुकृञ्;तनादिः;पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('समानकालः,')">समानकालः,15</a>
+row6#!n1#!करता_हुआ 
+row7#!n1#!while making
+row8#!n1#!-
+
+row1#!NA#!क्षणं
+row2#!NA#!क्षणं 
+row3#!NA#!क्षण{पुं}{2;एक}/क्षण{नपुं}{1;एक}/क्षण{नपुं}{2;एक} 
+row4#!NA#!क्षण{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया_विशेषणम्,')">क्रिया_विशेषणम्,9</a>
+row6#!NA#!क्षण_मात्र
+row7#!NA#!for a moment
+row8#!NA#!-
+
+row1#!n3#!यदु-बलैः
+row2#!n3#!यदु-बलैः 
+row3#!n3#!यदु-बल{नपुं}{3;बहु} 
+row4#!n3#!यदु-बल{नपुं}{3;बहु} 
+row5#!n3#!<a href="javascript:show('कर्ता,')">कर्ता,9</a>
+row6#!n3#!यादव-सैनिकों_से
+row7#!n3#!by the army
+row8#!n3#!<a href="html/SV-V/SV-11/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-V/SV-11/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><यदु-बलैः>T6</a>#!html/SV-V/SV-11/samaasa3.jpg
+
+
+row1#!n1#!क्षुण्णः
+row2#!n1#!क्षुण्णः 
+row3#!n1#!क्षुण्ण{पुं}{1;एक}
+row4#!n1#!क्षुण्ण{पुं}{1;एक}
+row5#!n1#!<a href="javascript:show('कर्म,')">कर्म,9</a>
+row6#!n1#!पीसे_गयी
+row7#!n1#!having ground
+row8#!n1#!-
+
+row1#!n5#!अद्रेः
+row2#!n5#!अद्रेः 
+row3#!n5#!अद्रि{पुं}{5;एक}/अद्रि{पुं}{6;एक} 
+row4#!n5#!अद्रि{पुं}{5;एक} 
+row5#!n5#!<a href="javascript:show('अपादानम्,')">अपादानम्,9</a>
+row6#!n5#!रैवतक-पर्वत_से
+row7#!n5#!from Raivataka mountain
+row8#!n5#!-
+
+row1#!n1#!उत्थितः
+row2#!n1#!उत्थितः 
+row3#!n1#!उत्थित{पुं}{1;एक}
+row4#!n1#!उद्_स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,12</a>
+row6#!n1#!उठी_हुई
+row7#!n1#!raisen
+row8#!n1#!-
+
+row1#!n2#!दिवम्
+row2#!n2#!दिवम् 
+row3#!n2#!दिव्{स्त्री}{2;एक}/दिव{नपुं}{1;एक}/दिव{नपुं}{2;एक} 
+row4#!n2#!दिव{नपुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,11</a>
+row6#!n2#!आकाश_में
+row7#!n2#!in the sky
+row8#!n2#!-
+
+
+
+
+
+
+
+
+
+
+row1#!n1#!प-अंशुः
+row2#!n1#!पांशुः 
+row3#!n1#!प-अंशु{पुं}{1;एक} 
+row4#!n1#!पांशु{पुं}{1;एक} 
+row5#!n1#!<a href="javascript:show('कर्ता, ')">कर्ता,15 </a>
+row6#!n1#!धूलि_ने
+row7#!n1#!the dust
+row8#!n1#!-
+
+row1#!n6#!दिशां
+row2#!n6#!दिशां 
+row3#!n6#!दिश्{स्त्री}{6;बहु}/दिशा{स्त्री}{2;एक} 
+row4#!n6#!दिश्{स्त्री}{6;बहु}
+row5#!n6#!<a href="javascript:show('षष्ठीसम्बन्धः,')">षष्ठीसम्बन्धः,14</a>
+row6#!n6#!दिगभाग_के
+row7#!n6#!of directions
+row8#!n6#!-
+
+row1#!n2#!मुखम्
+row2#!n2#!मुखम् 
+row3#!n2#!मुख{पुं}{2;एक}/मुख{नपुं}{1;एक}/मुख{नपुं}{2;एक} 
+row4#!n2#!मुख{नपुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्म, ')">कर्म,15 </a>
+row6#!n2#!मुख_को 
+row7#!n2#!upper part
+row8#!n2#!-
+
+row1#!v#!अतुत्थयत्.
+row2#!v#!अतुत्थयत् 
+row3#!v#!तुत्थ1{कर्तरि;लङ्;प्र;एक;आत्मनेपदी;तुत्थ;चुरादिः}. 
+row4#!v#!तुत्थ1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;तुत्थ;चुरादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!ढ़क_लिया.
+row7#!v#!covered.
+row8#!v#!-
+
+

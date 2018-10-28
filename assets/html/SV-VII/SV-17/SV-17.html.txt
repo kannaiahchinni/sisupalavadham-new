@@ -1,0 +1,121 @@
+row1#!number#!<a href="html/SV-VII/SV-17/17.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-17/17.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">17.A</a>#!html/SV-VII/SV-17/17.jpg#!row1#!n3#!नितम्ब-मण्डलेन
+row2#!number#!17.B</a>#!row2#!n3#!नितम्ब-मण्डलेन
+row3#!number#!17.C</a>#!row3#!n3#!नितम्ब-मण्डल{पुं;3;एक}/मण्डल{नपुं;3;एक}
+row4#!number#!17.D</a>#!row4#!n3#!नितम्ब-मण्डल{नपुं;3;एक}
+row5#!number#!17.E</a>#!row5#!n3#!करणम्,6
+row6#!number#!17.F</a>#!row6#!n3#!नितम्ब-मण्डल_से
+row7#!number#!17.G</a>#!row7#!n3#!with (her) buttocks
+row8#!number#!17.H</a>#!row8#!n3#!<नितम्ब-मण्डलम्>T6
+
+row1#!n1#!नितान्तं
+row2#!n1#!नितान्तं
+row3#!n1#!नितान्त{पुं;2;एक}/नितान्त{नपुं;1;एक}/नितान्त{नपुं;2;एक}
+row4#!n1#!नि_तम्1{क्त;तमुँ;दिवादिः;नपुं;1;एक}
+row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,3</a>
+row6#!n1#!अतिशय
+row7#!n1#!excessively
+row8#!n1#!-
+
+row1#!n1#!प्रणदित-काञ्चि
+row2#!n1#!प्रणदित-काञ्चि
+row3#!n1#!प्रणदित-काञ्ची{स्त्री;8;एक}
+row4#!n1#!प्रणदित-काञ्चि{नपुं;1;एक}
+row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,6</a>
+row6#!n1#!करधनी_की_मधुर-ध्वनि_से
+row7#!n1#!(that were) surrounded with a girdle that makes melodious sound
+row8#!n1#!<a href="html/SV-VII/SV-17/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-17/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><प्रणदित-काञ्चि>Bs7</a>#!html/SV-VII/SV-17/samaasa1.jpg
+
+
+row1#!NA#!मुहुः
+row2#!NA#!मुहुः
+row3#!NA#!मुहुः{अव्य}/मुहुः{अव्य}
+row4#!NA#!मुहुः{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया-विशेषणम्,')">क्रिया-विशेषणम्,6</a>
+row6#!NA#!बार-बार
+row7#!NA#!frequently
+row8#!NA#!-
+
+row1#!n2#!असु-समम्
+row2#!n2#!असु-समम्
+row3#!n2#!असु-समम्{अव्य}/सम{पुं;2;एक}/सम{नपुं;1;एक}/सम{नपुं;2;एक}/सम{पुं;2;एक}
+row4#!n2#!असु-सम{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,6</a>
+row6#!n2#!प्राणेश_को
+row7#!n2#!her lord of life (husband)
+row8#!n2#!-
+
+row1#!n1#!आघ्नती
+row2#!n1#!आघ्नती
+row3#!n1#!आघ्नती{स्त्री;1;एक}
+row4#!n1#!आङ्_हन्1{शतृ_लट्;हनँ;अदादिः;स्त्री;1;एक}
+row5#!n1#!<a href="javascript:show('समानकालः,')">समानकालः,13</a>
+row6#!n1#!ताडित_करती_हुई
+row7#!n1#!while hitting
+row8#!n1#!-
+
+row1#!n2#!विषमितपृथुहार-यष्टि
+row2#!n2#!विषमितपृथुहार-यष्टि
+row3#!n2#!विषमितपृथुहार-यष्टि{नपुं;1;एक}/यष्टि{नपुं;2;एक}/यष्टि{नपुं;8;एक}
+row4#!n2#!विषमितपृथुहार-यष्टि{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्मसमानाधिकरणम्,')">कर्मसमानाधिकरणम्,12</a>
+row6#!n2#!प्रदीर्घमुक्तावलि_को
+row7#!n2#!long pearl chain
+row8#!n2#!<a href="html/SV-VII/SV-17/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-17/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><विषमित-<पृथु-<हार-यष्टि>T6>K3>Bs7</a>#!html/SV-VII/SV-17/samaasa2.jpg
+
+
+row1#!n2#!इतरं
+row2#!n2#!इतरं
+row3#!n2#!इतर{पुं;2;एक}/इतर{नपुं;1;एक}/इतर{नपुं;2;एक}/इतर{पुं;2;एक}/इतर{नपुं;1;एक}/इतर{नपुं;2;एक}
+row4#!n2#!इतर{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,9</a>
+row6#!n2#!इतर (दक्षिण)
+row7#!n2#!another (right)
+row8#!n2#!-
+
+row1#!n2#!कुचं
+row2#!n2#!कुचं
+row3#!n2#!कुचम्}
+row4#!n2#!कुचम्{पुं;2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,12</a>
+row6#!n2#!स्तन_को
+row7#!n2#!breast
+row8#!n2#!-
+
+row1#!n7#!तद्-उरःस्थले
+row2#!n7#!तद्-उरःस्थले
+row3#!n7#!तद्-उरःस्थल{नपुं;1;द्वि}/उरःस्थल{नपुं;2;द्वि}/उरःस्थल{नपुं;7;एक}
+row4#!n7#!तद्-उरःस्थल{नपुं;7;एक}
+row5#!n7#!<a href="javascript:show('अधिकरणम्,')">अधिकरणम्,12</a>
+row6#!n7#!उसके_वक्षःस्थल_में
+row7#!n7#!on his bosom
+row8#!n7#!<a href="html/SV-VII/SV-17/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-VII/SV-17/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><तद्-<उरु-स्थलम्>T6>T6</a>#!html/SV-VII/SV-17/samaasa3.jpg
+
+
+row1#!NA#!तिर्यक्
+row2#!NA#!तिर्यक्
+row3#!NA#!तिर्यक्}
+row4#!NA#!तिर्यक्{अव्य}
+row5#!NA#!<a href="javascript:show('क्रिया-विशेषणम्,')">क्रिया-विशेषणम्,12</a>
+row6#!NA#!तिरछा
+row7#!NA#!across
+row8#!NA#!-
+
+row1#!NA#!निपीड्य
+row2#!NA#!निपीड्य
+row3#!NA#!नि_पीड्1{अव्य;ल्यप्;पीडँ;चुरादिः}
+row4#!NA#!नि_पीड्1{अव्य;ल्यप्;पीडँ;चुरादिः}
+row5#!NA#!<a href="javascript:show('पूर्वकालः,')">पूर्वकालः,13</a>
+row6#!NA#!गड़ा_कर
+row7#!NA#!having pressed
+row8#!NA#!-
+
+row1#!v#!(जगाम)
+row2#!v#!जगाम
+row3#!v#!गम्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;गमॢँ;भ्वादिः}/गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}
+row4#!v#!गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!गयी.
+row7#!v#!went.
+row8#!v#!-
+
+

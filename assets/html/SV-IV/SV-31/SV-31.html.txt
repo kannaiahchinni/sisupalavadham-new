@@ -1,0 +1,193 @@
+row1#!number#!<a href="html/SV-IV/SV-31/31.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-31/31.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">31.A</a>#!html/SV-IV/SV-31/31.jpg#!row1#!n2#!व्योमस्पृशः
+row2#!number#!31.B</a>#!row2#!n2#!व्योमस्पृशः 
+row3#!number#!31.C</a>#!row3#!n2#!व्योमस्पृश्{पुं}{1;बहु}/व्योमस्पृश्{पुं}{2;बहु}/व्योमस्पृश्{पुं}{5;एक}/व्योमस्पृश्{पुं}{6;एक}/व्योमस्पृश्{पुं}{8;बहु}/व्योमस्पृश्{नपुं}{1;बहु}/व्योमस्पृश्{नपुं}{2;बहु}/व्योमस्पृश्{नपुं}{5;एक}/व्योमस्पृश्{नपुं}{6;एक}/व्योमस्पृश्{नपुं}{8;बहु} 
+row4#!number#!31.D</a>#!row4#!n2#!व्योमस्पृश्{स्त्री}{2;बहु}
+row5#!number#!31.E</a>#!row5#!n2#!विशेषणम्,4
+row6#!number#!31.F</a>#!row6#!n2#!आकाशस्पर्शी
+row7#!number#!31.G</a>#!row7#!n2#!Sky-touching
+row8#!number#!31.H</a>#!row8#!n2#!<व्योम-स्पृशः>U
+
+row1#!n2#!उन्निद्रपुष्पचणचम्पकपिङ्गभ-असः
+row2#!n2#!उन्निद्रपुष्पचणचम्पकपिङ्गभासः 
+row3#!n2#!उन्निद्रपुष्पचणचम्पकपिङ्गभ-अस{पुं}{1;एक} 
+row4#!n2#!उन्निद्रपुष्पचणचम्पकपिङ्गभ-अस{स्त्री}{2;बहु}
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,4</a>
+row6#!n2#!विकसित पुष्पोंवाले चम्पकों_के_समान पिंगल शोभावाली
+row7#!n2#!which have the tawny lustre of the Champaka conspicuous by its full blown flowers
+row8#!n2#!<a href="html/SV-IV/SV-31/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-31/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<<<उन्निद्र-पुष्पाणि>K1-वित्ताः>T3-चम्पकाः>K3-पिङ्गभासः>Bs6</a>#!html/SV-IV/SV-31/samaasa1.jpg
+
+
+row1#!n2#!कल-धौत-भित्तीः
+row2#!n2#!कल-धौत-भित्तीः 
+row3#!n2#!कल-धौत-भित्ति{स्त्री}{2;बहु} 
+row4#!n2#!कल-धौत-भित्ति{स्त्री}{2;बहु} 
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,4</a>
+row6#!n2#!स्वर्णमयी तटियों_को
+row7#!n2#!walls of gold
+row8#!n2#!<a href="html/SV-IV/SV-31/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-31/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><कलधौत-भित्तयः>T6</a>#!html/SV-IV/SV-31/samaasa2.jpg
+
+
+row1#!n3#!प्रथयता
+row2#!n3#!प्रथयता 
+row3#!n3#!प्रथयत्{पुं}{3;एक}/प्रथयत्{नपुं}{3;एक} 
+row4#!n3#!प्रथ्2{कृत्_प्रत्ययः:शतृ;प्रथँ;चुरादिः;पुं}{3;एक}
+row5#!n3#!<a href="javascript:show('समानकालः,')">समानकालः,11</a>
+row6#!n3#!धारण_करते_हुए
+row7#!n3#!while bearing
+row8#!n3#!-
+
+row1#!n2#!स-औमेरवीम्
+row2#!n2#!सौमेरवीं 
+row3#!n2#!स-{अव्य}-औमेरवीम् 
+row4#!n2#!सौमेरवीम्{स्त्री}{2;एक}
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,11</a>
+row6#!n2#!सुमेरुपर्वत_की
+row7#!n2#!of Sumeru mountain
+row8#!n2#!-
+
+row1#!n2#!नितम्ब-शोभाम्
+row2#!n2#!नितम्ब-शोभाम् 
+row3#!n2#!नितम्ब-शोभा{स्त्री}{2;एक} 
+row4#!n2#!नितम्ब-शोभा{स्त्री}{2;एक} 
+row5#!n2#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,5</a>
+row6#!n2#!मध्यभाग_की_शोभा_को
+row7#!n2#!the beauty of the ridge
+row8#!n2#!<a href="html/SV-IV/SV-31/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-IV/SV-31/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><नितम्ब-शोभा>T6</a>#!html/SV-IV/SV-31/samaasa3.jpg
+
+
+row1#!n3#!अधिगतेन
+row2#!n3#!अधिगतेन 
+row3#!n3#!अधिगत{पुं}{3;एक}/अधिगत{नपुं}{3;एक} 
+row4#!n3#!अधि_गम्1{कृत्_प्रत्ययः:क्त;गमॢँ;भ्वादिः;पुं}{3;एक} 
+row5#!n3#!<a href="javascript:show('विशेषणम्, ')">विशेषणम्,8 </a>
+row6#!n3#!प्राप्त_हुए
+row7#!n3#!who has attained
+row8#!n3#!-
+
+row1#!n3#!एतेन
+row2#!n3#!एतेन 
+row3#!n3#!एतद्{पुं}{3;एक}/एतद्{नपुं}{3;एक} 
+row4#!n3#!एतद्{पुं}{3;एक} 
+row5#!n3#!<a href="javascript:show('करण,')">करण,11</a>
+row6#!n3#!इससे (रैवतक पर्वत_से)
+row7#!n3#!on account of this mountain
+row8#!n3#!-
+
+row1#!n2#!भारतम्
+row2#!n2#!भारतम् 
+row3#!n2#!भारत{नपुं}{1;एक}/भारत{नपुं}{2;एक} 
+row4#!n2#!भारत{पुं}{2;एक} 
+row5#!n2#!<a href="javascript:show('कर्ता,')">कर्ता,11</a>
+row6#!n2#!भारतवर्ष
+row7#!n2#!Bhāratvarsha
+row8#!n2#!-
+
+row1#!NA#!इला-वृत-वत्
+row2#!NA#!इला-वृत-वत् 
+row3#!NA#!इला-वृत-वत्{अव्य} 
+row4#!NA#!इला-वृत-वत्{अव्य} 
+row5#!NA#!<a href="javascript:show('सम्बन्धः,')">सम्बन्धः,11</a>
+row6#!NA#!इलावृत_के_समान (देवभूमिविशेष)
+row7#!NA#!like Ilāvrita
+row8#!NA#!-
+
+row1#!v#!विभाति.
+row2#!v#!विभाति 
+row3#!v#!वि_भा1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भा;अदादिः}. 
+row4#!v#!वि_भा1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भा;अदादिः}. 
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!भासित_होता_है.
+row7#!v#!appears.
+row8#!v#!-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
