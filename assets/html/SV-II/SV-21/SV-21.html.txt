@@ -31,7 +31,7 @@ row4#!n3#!<a (click)=showDic('उदग्र')>उदग्र</a>-<a (click)=s
 row5#!n3#!<a href="javascript:show('करणम्,')">करणम्,5</a>
 row6#!n3#!दन्तकिरणों_से
 row7#!n3#!with the exceedingly bright rays from his teeth
-row8#!n3#!-
+row8#!n3#!<a href="html/SV-II/SV-21/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-21/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><उदग्र-<दशन-अंशः>T6>K3</a>#!html/SV-II/SV-21/samaasa2.jpg
 row9#!n3#!
 row10#!n3#!
 row11#!n3#!

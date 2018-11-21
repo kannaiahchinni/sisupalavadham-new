@@ -61,7 +61,7 @@ row8#!n7#!<a href="html/SV-II/SV-117/samaasa4.jpg"   target="_blank" onmouseout=
 row9#!n7#!
 row10#!n7#!
 row11#!n7#!
-row12#!n7#!‘वीर्यं शुक्रे प्रभावे च तेजःसामर्थ्ययोरपि’ ‘सूर्यवह्नी विभावसू इति विश्वामरौ’ ।
+row12#!n7#!
 
 row1#!n2#!शलभतां
 row2#!n2#!शलभतां 

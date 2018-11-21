@@ -83,11 +83,11 @@ row4#!n1#!<a (click)=showDic('पौरुषेय')>पौरुषेय</a>-
 row5#!n1#!<a href="javascript:show('प्रतियोगी,')">प्रतियोगी,8</a>
 row6#!n1#!पुरुष समुदाय_से_घिरे_हुए
 row7#!n1#!sorrounded by many people
-row8#!n1#!<a href="html/SV-II/SV-4/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-4/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<पुरुष-समूह>T6-वृतः>Bs3</a>#!html/SV-II/SV-4/samaasa3.jpg
+row8#!n1#!<a href="html/SV-II/SV-4/samaasa3.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-4/samaasa3.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><<पौरुषेय-वृतः>Bs3</a>#!html/SV-II/SV-4/samaasa3.jpg
 row9#!n1#!
 row10#!n1#!
 row11#!n1#!
-row12#!n1#!
+row12#!n1#!‘सर्वपुरुषाभ्यां णढञौ’ (5।1।10) पुरुषाद्वधविकारसमूहतेनकृतेष्विति वक्तव्यम्’ (वा०) इति समूहे ढञ्प्रत्ययः ।
 
 row1#!NA#!इव
 row2#!NA#!इव 
@@ -113,6 +113,6 @@ row8#!v#!-
 row9#!v#!कर्तरि
 row10#!v#!अनुष्टुप्
 row11#!v#!उत्प्रेक्षा
-row12#!v#!‘सर्वपुरुषाभ्यां णढञौ’ (5।1।10) पुरुषाद्वधविकारसमूहतेनकृतेष्विति वक्तव्यम्’ (वा०) इति समूहे ढञ्प्रत्ययः ।
+row12#!v#!
 
 

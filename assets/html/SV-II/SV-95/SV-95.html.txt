@@ -74,7 +74,7 @@ row8#!NA#!-
 row9#!NA#!
 row10#!NA#!
 row11#!NA#!
-row12#!NA#!मन्यतेर्माङ लुङ्  । अनुदात्तत्वान्नेडागमः ।
+row12#!NA#!
 
 row1#!v#!अवमन्
 row2#!v#!अवमंस्त 
@@ -87,7 +87,7 @@ row8#!v#!-
 row9#!v#!कर्तरि
 row10#!v#!अनुष्टुप्
 row11#!v#!
-row12#!v#!
+row12#!v#!मन्यतेर्माङ लुङ्  । अनुदात्तत्वान्नेडागमः ।
 
 row1#!number#!<a href="html/SV-II/SV-95/95-b.jpg"  target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-95/95-b.jpg></center>',FONTSIZE,'18pt',HEIGHT,400,STICKY,true,CLOSEBTN,true) ">95-b.A</a>#!html/SV-II/SV-95/95-b.jpg#!row1#!n1#!यः
 row2#!number#!95-b.B</a>#!row2#!n1#!यः 

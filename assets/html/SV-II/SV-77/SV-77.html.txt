@@ -109,7 +109,7 @@ row4#!n1#!<a (click)=showDic('अनिश')>अनिश</a>{नपुं}{1;�
 row5#!n1#!<a href="javascript:show('विशेषणम्,')">विशेषणम्,10</a>
 row6#!n1#!सदा
 row7#!n1#!always
-row8#!n1#!<a href="html/SV-II/SV-77/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-77/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><न-निशा>Bsmn</a>#!html/SV-II/SV-77/samaasa1.jpg
+row8#!n1#!<a href="html/SV-II/SV-77/samaasa1.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-77/samaasa1.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><अ-निशम्>Bsmn</a>#!html/SV-II/SV-77/samaasa1.jpg
 row9#!n1#!
 row10#!n1#!
 row11#!n1#!

@@ -30,7 +30,7 @@ row3#!n1#!धर्मराज्{पुं}{1;बहु}/धर्मराज
 row4#!n1#!<a (click)=showDic('धर्मराज')>धर्मराज</a>{पुं}{1;बहु}
 row5#!n1#!<a href="javascript:show('कर्ता,')">कर्ता,9</a>
 row6#!n1#!धर्मराज 
-row7#!n1#!Yudhishtira
+row7#!n1#!Yudhiṣṭhira
 row8#!n1#!-
 row9#!n1#!
 row10#!n1#!
