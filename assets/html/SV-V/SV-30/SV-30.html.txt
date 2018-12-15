@@ -3,7 +3,7 @@ row2#!number#!30.B</a>#!row2#!n2#!हास्तिकानि
 row3#!number#!30.C</a>#!row3#!n2#!हास्तिक{नपुं}{1;बहु}/हास्तिक{नपुं}{2;बहु}/हास्तिक{नपुं}{8;बहु} 
 row4#!number#!30.D</a>#!row4#!n2#!<a (click)=showDic('हास्तिक')>हास्तिक</a>{नपुं}{2;बहु} 
 row5#!number#!30.E</a>#!row5#!n2#!उपपदविभक्तिः,2
-row6#!number#!30.F</a>#!row6#!n2#!हातियों_के_झुण्डों_ने
+row6#!number#!30.F</a>#!row6#!n2#!हाथियों_के_झुण्डों_ने
 row7#!number#!30.G</a>#!row7#!n2#!Multitude of elephants
 row8#!number#!30.H#!row8#!n2#!
 row9#!number#!30.I</a>#!row9#!n2#!
@@ -114,57 +114,5 @@ row9#!v#!कर्तरि
 row10#!v#!वसन्ततिलका ।
 row11#!v#!उत्प्रेक्षा ।
 row12#!v#!‘उक्ष सेचने’ ‘इजादेश्च गुरुतोऽनृच्छः’ (3।1।36) इत्याम्प्रत्ययः ।
-
-row1#!NS#!
-row2#!NS#!
-row3#!NS#!
-row4#!NS#!
-row5#!NS#!<a href="javascript:show('')"></a>
-row6#!NS#!
-row7#!NS#!
-row8#!NS#!-
-row9#!NS#!
-row10#!NS#!
-row11#!NS#!
-row12#!NS#!
-
-row1#!NS#!
-row2#!NS#!
-row3#!NS#!
-row4#!NS#!
-row5#!NS#!<a href="javascript:show('')"></a>
-row6#!NS#!
-row7#!NS#!
-row8#!NS#!-
-row9#!NS#!
-row10#!NS#!
-row11#!NS#!
-row12#!NS#!
-
-row1#!NS#!
-row2#!NS#!
-row3#!NS#!
-row4#!NS#!
-row5#!NS#!<a href="javascript:show('')"></a>
-row6#!NS#!
-row7#!NS#!
-row8#!NS#!-
-row9#!NS#!
-row10#!NS#!
-row11#!NS#!
-row12#!NS#!
-
-row1#!NS#!
-row2#!NS#!
-row3#!NS#!
-row4#!NS#!
-row5#!NS#!<a href="javascript:show(',')">,</a>
-row6#!NS#!
-row7#!NS#!
-row8#!NS#!-
-row9#!NS#!
-row10#!NS#!
-row11#!NS#!
-row12#!NS#!
 
 

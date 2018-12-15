@@ -115,18 +115,18 @@ row10#!n3#!
 row11#!n3#!
 row12#!n3#!
 
-row1#!NS#!व्यवसीयते
-row2#!NS#!व्यवसीयते
-row3#!NS#!व्यवसीयते}
-row4#!NS#!<a (click)=showDic('वि_अव_षो1')>वि_अव_षो1</a>{भावे;लट्;प्र;एक;आत्मनेपदी;षो;दिवादिः}
-row5#!NS#!<a href="javascript:show('')">0</a>
-row6#!NS#!उद्यत_कर_रही_है
-row7#!NS#!resolve
-row8#!NS#!-
-row9#!NS#!भावे
-row10#!NS#!
-row11#!NS#!
-row12#!NS#!
+row1#!v#!व्यवसीयते
+row2#!v#!व्यवसीयते
+row3#!v#!व्यवसीयते}
+row4#!v#!<a (click)=showDic('वि_अव_षो1')>वि_अव_षो1</a>{भावे;लट्;प्र;एक;आत्मनेपदी;षो;दिवादिः}
+row5#!v#!<a href="javascript:show('')">0</a>
+row6#!v#!उद्यत_कर_रही_है
+row7#!v#!resolve
+row8#!v#!-
+row9#!v#!भावे
+row10#!v#!
+row11#!v#!
+row12#!v#!
 
 row1#!NS#!
 row2#!NS#!

@@ -9,7 +9,7 @@ row8#!number#!48.H#!row8#!n1#!<a href="html/SV-V/SV-48/samaasa1.jpg"   target="_
 row9#!number#!48.I</a>#!row9#!n1#!
 row10#!number#!48.J</a>#!row10#!n1#!
 row11#!number#!48.K</a>#!row11#!n1#!
-row12#!number#!48.L</a>#!row12#!n1#!उभयत्रापि ‘राजाहःसखिभ्यः-’ (5।4।91) इति टच् ।
+row12#!number#!48.L</a>#!row12#!n1#!उभयत्रापि ‘राजाहः सखिभ्यः-’ (5।4।91) इति टच् ।
 
 row1#!n2#!उज्ज्वलं
 row2#!n2#!उज्ज्वलं 

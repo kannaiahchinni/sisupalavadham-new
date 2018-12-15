@@ -89,18 +89,18 @@ row10#!NA#!
 row11#!NA#!
 row12#!NA#!
 
-row1#!NS#!समभावि
-row2#!NS#!समभावि 
-row3#!NS#!सम्_अस्2{भावे;लुङ्;प्र;एक;आत्मनेपदी;असँ;अदादिः}/सम्_भू1{कर्मणि;लुङ्;प्र;एक;आत्मनेपदी;भू;भ्वादिः} 
-row4#!NS#!<a (click)=showDic('सम्_भू1')>सम्_भू1</a>{भावे;लुङ्;प्र;एक;आत्मनेपदी;भू;भ्वादिः} 
-row5#!NS#!<a href="javascript:show('प्रतियोगी,')">प्रतियोगी,9</a>
-row6#!NS#!सम्भव_नहीं_हो 
-row7#!NS#!possible
-row8#!NS#!<a href="html/SV-I/SV-27/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-I/SV-27/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><अ-उत्तमम्>Bsmn</a>#!html/SV-I/SV-27/samaasa2.jpg
-row9#!NS#!भावे
-row10#!NS#!
-row11#!NS#!
-row12#!NS#!
+row1#!v#!समभावि
+row2#!v#!समभावि 
+row3#!v#!सम्_अस्2{भावे;लुङ्;प्र;एक;आत्मनेपदी;असँ;अदादिः}/सम्_भू1{कर्मणि;लुङ्;प्र;एक;आत्मनेपदी;भू;भ्वादिः} 
+row4#!v#!<a (click)=showDic('सम्_भू1')>सम्_भू1</a>{भावे;लुङ्;प्र;एक;आत्मनेपदी;भू;भ्वादिः} 
+row5#!v#!<a href="javascript:show('प्रतियोगी,')">प्रतियोगी,9</a>
+row6#!v#!सम्भव_नहीं_हो 
+row7#!v#!possible
+row8#!v#!<a href="html/SV-I/SV-27/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-I/SV-27/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><अ-उत्तमम्>Bsmn</a>#!html/SV-I/SV-27/samaasa2.jpg
+row9#!v#!भावे
+row10#!v#!
+row11#!v#!
+row12#!v#!
 
 row1#!n1#!अनुत्तमम्
 row2#!n1#!अनुत्तमम् 

@@ -80,7 +80,7 @@ row1#!n2#!श्रियं
 row2#!n2#!श्रियं 
 row3#!n2#!श्री{स्त्री}{2;एक} 
 row4#!n2#!<a (click)=showDic('श्री')>श्री</a>{स्त्री}{2;एक} 
-row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,7</a>
+row5#!n2#!<a href="javascript:show('कर्म,')">कर्म,8</a>
 row6#!n2#!शोभा_को
 row7#!n2#!beauty
 row8#!n2#!-
@@ -147,7 +147,7 @@ row3#!v#!आस-दत्{पुं}{1;एक}.
 row4#!v#!<a (click)=showDic('सद्1')>सद्1</a>{कर्तरि;लङ्;प्र;एक;परस्मैपदी;षदलृ;भ्वादिः}
 row5#!v#!<a href="javascript:show('')">0</a>
 row6#!v#!गये.
-row7#!v#!went
+row7#!v#!went.
 row8#!v#!-
 row9#!v#!सकर्मककर्तरि
 row10#!v#!अनुष्टुप् ।

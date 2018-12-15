@@ -76,18 +76,18 @@ row10#!n1#!
 row11#!n1#!
 row12#!n1#!‘द्वित्रिभ्याम्’ (5।2।43) इत्यादिना तस्यायजादेशे कृते ‘टिड्ढाणञ्’ (4।1।15) इत्यादिना ङीप् ।
 
-row1#!n7#!सभावेद्याम्
-row2#!n7#!सभावेद्यां 
-row3#!n7#!सभावेदि{स्त्री}{7;एक}/अवेद्या{स्त्री}{2;एक}/अवेदी{स्त्री}{7;एक} 
-row4#!n7#!<a (click)=showDic('सभावेदि')>सभावेदि</a>{स्त्री}{7;एक} 
-row5#!n7#!<a href="javascript:show('अधिकरणम्,')">अधिकरणम्,8</a>
-row6#!n7#!सभामण्डपरूप वेदी पर
-row7#!n7#!on the dias
-row8#!n7#!<a href="html/SV-II/SV-3/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-3/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><सभा-वेदिः>K6</a>#!html/SV-II/SV-3/samaasa2.jpg
-row9#!n7#!
-row10#!n7#!
-row11#!n7#!
-row12#!n7#!
+row1#!v#!सभावेद्याम्
+row2#!v#!सभावेद्यां 
+row3#!v#!सभावेदि{स्त्री}{7;एक}/अवेद्या{स्त्री}{2;एक}/अवेदी{स्त्री}{7;एक} 
+row4#!v#!<a (click)=showDic('सभावेदि')>सभावेदि</a>{स्त्री}{7;एक} 
+row5#!v#!<a href="javascript:show('अधिकरणम्,')">अधिकरणम्,8</a>
+row6#!v#!सभामण्डपरूप वेदी पर
+row7#!v#!on the dias
+row8#!v#!<a href="html/SV-II/SV-3/samaasa2.jpg"   target="_blank" onmouseout="UnTip()" onmouseover="Tip('<center><img src=html/SV-II/SV-3/samaasa2.jpg></center>',FONTSIZE,'18pt',HEIGHT,300,STICKY,true,CLOSEBTN,true) "><सभा-वेदिः>K6</a>#!html/SV-II/SV-3/samaasa2.jpg
+row9#!v#!
+row10#!v#!
+row11#!v#!
+row12#!v#!
 
 row1#!v#!व्यद्योतिष्ट.
 row2#!v#!व्यद्योतिष्ट 
