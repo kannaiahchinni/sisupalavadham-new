@@ -1,156 +1,5 @@
 webpackJsonp([1,4],{
 
-/***/ 111:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(72);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__ = __webpack_require__(85);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__ = __webpack_require__(86);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__);
-/* unused harmony export SlokaDetails */
-/* unused harmony export Sloka */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlokaService; });
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-
-
-var SlokaDetails = (function () {
-    function SlokaDetails(id, sanskrit, hindi, english, templateUrl) {
-        this.id = id;
-        this.sanskrit = sanskrit;
-        this.hindi = hindi;
-        this.english = english;
-        this.templateUrl = templateUrl;
-    }
-    return SlokaDetails;
-}());
-
-var Sloka = (function () {
-    function Sloka(id, name, enabled, slokaDetails) {
-        this.id = id;
-        this.name = name;
-        this.enabled = enabled;
-        this.slokaDetails = slokaDetails;
-    }
-    return Sloka;
-}());
-
-var SLOKADetails = [
-    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
-    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
-    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
-    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
-    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
-    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
-    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
-    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html')
-];
-var SLOKAS = [
-    new Sloka(1, 'कृष्णनारदसम्भाषणम्', true, SLOKADetails),
-    new Sloka(2, 'मन्त्रवर्णनम्', true, SLOKADetails),
-    new Sloka(3, 'पुरीप्रस्थानम्', true, SLOKADetails),
-    new Sloka(4, 'रैवतकवर्णनम्', true, SLOKADetails),
-    new Sloka(5, 'सेनानिवेशः', true, SLOKADetails),
-    new Sloka(6, 'ऋतुवर्णनम्', true, SLOKADetails),
-    new Sloka(7, 'वनविहारः', true, SLOKADetails),
-    new Sloka(8, 'जलविहारवर्णनम्', true, SLOKADetails),
-    new Sloka(9, 'प्रदोषवर्णनम्', true, SLOKADetails),
-    new Sloka(10, 'सुरतवर्णनम्', true, SLOKADetails),
-    new Sloka(11, 'Canto', false, SLOKADetails),
-    new Sloka(12, 'Canto', false, SLOKADetails),
-    new Sloka(13, 'Canto', false, SLOKADetails),
-    new Sloka(14, 'Canto', false, SLOKADetails),
-    new Sloka(15, 'Canto', false, SLOKADetails),
-    new Sloka(16, 'Canto', false, SLOKADetails),
-    new Sloka(17, 'Canto', false, SLOKADetails),
-    new Sloka(18, 'Canto', false, SLOKADetails),
-    new Sloka(19, 'Canto', false, SLOKADetails),
-    new Sloka(20, 'Canto', false, SLOKADetails)
-];
-var slokasPromise = Promise.resolve(SLOKAS);
-var SlokaService = (function () {
-    function SlokaService(http) {
-        this.http = http;
-        this.cantoUrl = 'assets/json/canto';
-        this.indexUrl = 'assets/json/index';
-        this.summaryUrl = 'assets/json/text.json';
-        this.tanslationUrl = 'assets/json/SV-';
-    }
-    SlokaService.prototype.getSlokas = function () { return SLOKAS; };
-    ;
-    SlokaService.prototype.getCantoList = function () {
-        return this.cantoList;
-    };
-    SlokaService.prototype.setCantoList = function (list) {
-        this.cantoList = list;
-    };
-    SlokaService.prototype.getSlokaDetails = function (id) {
-        return slokasPromise.then(function (slokas) { return slokas.find(function (sloka) { return sloka.id === +id; }); });
-    };
-    SlokaService.prototype.getSummary = function () {
-        return this.http.get(this.summaryUrl)
-            .map(this.extractData)
-            .catch(this.handleError);
-    };
-    SlokaService.prototype.getCantoData = function (num) {
-        var url = this.cantoUrl + num + ".json";
-        return this.http.get(url)
-            .map(this.extractData)
-            .catch(this.handleError);
-    };
-    SlokaService.prototype.getCangoIndex = function (num) {
-        var url = this.indexUrl + num + ".json";
-        return this.http.get(url)
-            .map(this.extractData)
-            .catch(this.handleError);
-    };
-    SlokaService.prototype.getSelectedSloka = function (sloka) {
-        //console.log(this.cantoList);
-        // console.log(this.cantoList[sloka.slokaNo]);
-        //console.log(sloka);
-    };
-    // getTranslation details 
-    SlokaService.prototype.getSlokaTranslation = function (num) {
-        var url = this.tanslationUrl + num + ".json";
-        return this.http.get(url)
-            .map(this.extractData)
-            .catch(this.handleError);
-    };
-    SlokaService.prototype.extractData = function (res) {
-        var body = res.json();
-        //this.cantoList = body;
-        return body || {};
-    };
-    SlokaService.prototype.handleError = function (error) {
-        return __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__["Observable"].throw("error");
-    };
-    return SlokaService;
-}());
-SlokaService = __decorate([
-    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Injectable"])(),
-    __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_http__["c" /* Http */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1__angular_http__["c" /* Http */]) === "function" && _a || Object])
-], SlokaService);
-
-var _a;
-//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/sloka-service.service.js.map
-
-/***/ }),
-
 /***/ 186:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -246,9 +95,9 @@ var _a;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(72);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__ = __webpack_require__(85);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__ = __webpack_require__(86);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__ = __webpack_require__(86);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__ = __webpack_require__(87);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SummaryService; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -450,7 +299,7 @@ AppComponent = __decorate([
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_forms__ = __webpack_require__(30);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_http__ = __webpack_require__(72);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_material__ = __webpack_require__(286);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__angular_router__ = __webpack_require__(94);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__angular_router__ = __webpack_require__(95);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__ng_bootstrap_ng_bootstrap__ = __webpack_require__(160);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_ng2_filter_pipe__ = __webpack_require__(460);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_ng2_filter_pipe___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7_ng2_filter_pipe__);
@@ -467,7 +316,7 @@ AppComponent = __decorate([
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__summary_summary_component__ = __webpack_require__(303);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__source_source_component__ = __webpack_require__(302);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__sloka_details_sloka_detail_child_component__ = __webpack_require__(186);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__sloka_service_service__ = __webpack_require__(111);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__sloka_service_service__ = __webpack_require__(74);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__summary_service__ = __webpack_require__(187);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_23_hammerjs__ = __webpack_require__(457);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_23_hammerjs___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_23_hammerjs__);
@@ -607,6 +456,7 @@ ContactComponent = __decorate([
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_jquery__ = __webpack_require__(458);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_jquery___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_jquery__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__ = __webpack_require__(74);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return DictViewComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -619,20 +469,24 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 
 
+
 var DictViewComponent = (function () {
-    function DictViewComponent() {
+    function DictViewComponent(slokaService) {
+        this.slokaService = slokaService;
         var thiz = this;
+        this.window = window;
     }
     DictViewComponent.prototype.ngOnInit = function () {
-        debugger;
         this.words = this.name.split('{');
         this.finalWords = this.words[0].split(/[-_]/);
         this.modifiedName = this.name.replace(this.words[0], '');
+        localStorage.setItem('u-data', JSON.stringify(this.slokaService.dictUrlData));
         __WEBPACK_IMPORTED_MODULE_1_jquery__(document).ready(function () {
             __WEBPACK_IMPORTED_MODULE_1_jquery__('.sublist li a').click(function (event) {
                 var data = event.target.innerHTML;
                 data = data.replace(/[0-9]+$/gi, '');
-                var url = 'http://sanskrit.uohyd.ac.in/cgi-bin/scl/e-readers/sbg/options1.cgi?word=' + data;
+                var urlData = JSON.parse(localStorage.getItem('u-data'));
+                var url = urlData.url + data + '&' + urlData.parameters;
                 window.open(url, 'DictView', 'width=560,height=340,toolbar=0,menubar=0,location=0');
                 event.preventDefault();
             });
@@ -654,9 +508,10 @@ DictViewComponent = __decorate([
         template: __webpack_require__(481),
         styles: [__webpack_require__(468)]
     }),
-    __metadata("design:paramtypes", [])
+    __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__["a" /* SlokaService */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__["a" /* SlokaService */]) === "function" && _a || Object])
 ], DictViewComponent);
 
+var _a;
 //# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/dict-view.component.js.map
 
 /***/ }),
@@ -774,8 +629,8 @@ PrefaceComponent = __decorate([
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(94);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__ = __webpack_require__(111);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(95);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__ = __webpack_require__(74);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_switchMap__ = __webpack_require__(131);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_switchMap___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_switchMap__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_Rx__ = __webpack_require__(491);
@@ -830,6 +685,9 @@ var SlokaDetailsComponent = (function () {
             _this.cantoInfo = "Canto" + _this.cantoNumber;
         });
         this.getTranslationObject();
+        if (!this.service.dictUrlData) {
+            this.service.getDictUrl().subscribe(function (dictConfig) { return _this.service.dictUrlData = dictConfig; }, function (error) { return _this.errorMessage = error; });
+        }
     };
     SlokaDetailsComponent.prototype.gotoSlokas = function () {
         var slokaId = null;
@@ -864,7 +722,7 @@ var SlokaDetailsComponent = (function () {
         setTimeout(function () {
             var num = +item.slokaNo;
             var el = document.getElementById(num > 0 ? num - 1 + '' : num + '');
-            if (item.show)
+            if (item.show && el)
                 el.scrollIntoView();
         }.bind(this, item), 1200);
     };
@@ -875,7 +733,6 @@ var SlokaDetailsComponent = (function () {
     // getSlokaTranslation
     SlokaDetailsComponent.prototype.getSlokaTranslation = function (id) {
         var slokaNumber = "SV-" + id;
-        // console.log(this.slokaTranslation[slokaNumber]);
         return this.slokaTranslation.cantoList[slokaNumber];
         //return this.slokaTranslation[slokaNumber];
     };
@@ -938,8 +795,8 @@ export class SearchPipe implements PipeTransform{
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(94);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__ = __webpack_require__(111);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(95);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sloka_service_service__ = __webpack_require__(74);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlokasComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -1285,6 +1142,166 @@ module.exports = "<div class=\"col-md-12\">\r\n    <ol class=\"breadcrumb\">\r\n
 
 module.exports = __webpack_require__(281);
 
+
+/***/ }),
+
+/***/ 74:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(72);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__ = __webpack_require__(86);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_catch__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__ = __webpack_require__(87);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_map__);
+/* unused harmony export SlokaDetails */
+/* unused harmony export Sloka */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlokaService; });
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+var SlokaDetails = (function () {
+    function SlokaDetails(id, sanskrit, hindi, english, templateUrl) {
+        this.id = id;
+        this.sanskrit = sanskrit;
+        this.hindi = hindi;
+        this.english = english;
+        this.templateUrl = templateUrl;
+    }
+    return SlokaDetails;
+}());
+
+var Sloka = (function () {
+    function Sloka(id, name, enabled, slokaDetails) {
+        this.id = id;
+        this.name = name;
+        this.enabled = enabled;
+        this.slokaDetails = slokaDetails;
+    }
+    return Sloka;
+}());
+
+var SLOKADetails = [
+    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
+    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
+    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
+    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
+    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
+    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
+    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html'),
+    new SlokaDetails(1, 'asdlkfasd', ';laksdjfas', 'asdfasdf', 'app/html/SV-1/sv-1.html')
+];
+var SLOKAS = [
+    new Sloka(1, 'कृष्णनारदसम्भाषणम्', true, SLOKADetails),
+    new Sloka(2, 'मन्त्रवर्णनम्', true, SLOKADetails),
+    new Sloka(3, 'पुरीप्रस्थानम्', true, SLOKADetails),
+    new Sloka(4, 'रैवतकवर्णनम्', true, SLOKADetails),
+    new Sloka(5, 'सेनानिवेशः', true, SLOKADetails),
+    new Sloka(6, 'ऋतुवर्णनम्', true, SLOKADetails),
+    new Sloka(7, 'वनविहारः', true, SLOKADetails),
+    new Sloka(8, 'जलविहारवर्णनम्', true, SLOKADetails),
+    new Sloka(9, 'प्रदोषवर्णनम्', true, SLOKADetails),
+    new Sloka(10, 'सुरतवर्णनम्', true, SLOKADetails),
+    new Sloka(11, 'Canto', false, SLOKADetails),
+    new Sloka(12, 'Canto', false, SLOKADetails),
+    new Sloka(13, 'Canto', false, SLOKADetails),
+    new Sloka(14, 'Canto', false, SLOKADetails),
+    new Sloka(15, 'Canto', false, SLOKADetails),
+    new Sloka(16, 'Canto', false, SLOKADetails),
+    new Sloka(17, 'Canto', false, SLOKADetails),
+    new Sloka(18, 'Canto', false, SLOKADetails),
+    new Sloka(19, 'Canto', false, SLOKADetails),
+    new Sloka(20, 'Canto', false, SLOKADetails)
+];
+var slokasPromise = Promise.resolve(SLOKAS);
+var SlokaService = (function () {
+    function SlokaService(http) {
+        this.http = http;
+        this.cantoUrl = 'assets/json/canto';
+        this.indexUrl = 'assets/json/index';
+        this.summaryUrl = 'assets/json/text.json';
+        this.tanslationUrl = 'assets/json/SV-';
+        this.dictUrl = 'assets/dicturl.json';
+    }
+    SlokaService.prototype.getDictUrl = function () {
+        return this.http.get(this.dictUrl)
+            .map(this.getJsonData)
+            .catch(this.handleError);
+    };
+    SlokaService.prototype.getJsonData = function (res) {
+        return res.json() || {};
+    };
+    SlokaService.prototype.getSlokas = function () { return SLOKAS; };
+    ;
+    SlokaService.prototype.getCantoList = function () {
+        return this.cantoList;
+    };
+    SlokaService.prototype.setCantoList = function (list) {
+        this.cantoList = list;
+    };
+    SlokaService.prototype.getSlokaDetails = function (id) {
+        return slokasPromise.then(function (slokas) { return slokas.find(function (sloka) { return sloka.id === +id; }); });
+    };
+    SlokaService.prototype.getSummary = function () {
+        return this.http.get(this.summaryUrl)
+            .map(this.extractData)
+            .catch(this.handleError);
+    };
+    SlokaService.prototype.getCantoData = function (num) {
+        var url = this.cantoUrl + num + ".json";
+        return this.http.get(url)
+            .map(this.extractData)
+            .catch(this.handleError);
+    };
+    SlokaService.prototype.getCangoIndex = function (num) {
+        var url = this.indexUrl + num + ".json";
+        return this.http.get(url)
+            .map(this.extractData)
+            .catch(this.handleError);
+    };
+    SlokaService.prototype.getSelectedSloka = function (sloka) {
+        //console.log(this.cantoList);
+        // console.log(this.cantoList[sloka.slokaNo]);
+        //console.log(sloka);
+    };
+    // getTranslation details 
+    SlokaService.prototype.getSlokaTranslation = function (num) {
+        var url = this.tanslationUrl + num + ".json";
+        return this.http.get(url)
+            .map(this.extractData)
+            .catch(this.handleError);
+    };
+    SlokaService.prototype.extractData = function (res) {
+        var body = res.json();
+        //this.cantoList = body;
+        return body || {};
+    };
+    SlokaService.prototype.handleError = function (error) {
+        return __WEBPACK_IMPORTED_MODULE_2_rxjs_Observable__["Observable"].throw("error");
+    };
+    return SlokaService;
+}());
+SlokaService = __decorate([
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Injectable"])(),
+    __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_http__["c" /* Http */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1__angular_http__["c" /* Http */]) === "function" && _a || Object])
+], SlokaService);
+
+var _a;
+//# sourceMappingURL=E:/Anupama/new-interface/sisupal/src/sloka-service.service.js.map
 
 /***/ })
 
